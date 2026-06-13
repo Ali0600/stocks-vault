@@ -150,6 +150,18 @@ def test_supply_chain_asymmetry_fails(tmp_path):
     assert any("symmetry" in f and "BAR" in f for f in fails), fails
 
 
+# --- the map's dependency-graph markers (warn-only) -----------------------
+
+def test_map_missing_graph_markers_warns(tmp_path):
+    root = write_vault(tmp_path, {"FOO": stock_note("FOO")})
+    (tmp_path / "Maps").mkdir()
+    (tmp_path / "Maps" / "AI Supply Chain.md").write_text(
+        "# AI Supply Chain\n\n## Key dependencies\n- x\n", encoding="utf-8")
+    fails, warns, _ = vault_lint.lint(root)
+    assert fails == [], fails
+    assert any("dependency-graph markers" in w for w in warns), warns
+
+
 # --- freshness heartbeat is warn-only, never a failure --------------------
 
 def test_stale_snapshot_warns_but_does_not_fail(tmp_path):

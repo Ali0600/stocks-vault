@@ -63,6 +63,78 @@ there and reflect changes here.
 - **Power is the rising chokepoint:** if compute supply catches up, energy and
   grid-connected land ([[IREN]], [[OKLO]]) become the binding constraint.
 
+## Dependency graph
+<!-- graph:start -->
+```mermaid
+graph LR
+  classDef extreme fill:#b91c1c,color:#fff,stroke:#7f1d1d,stroke-width:2px;
+  classDef high fill:#ea580c,color:#fff,stroke:#9a3412;
+  classDef medium fill:#ca8a04,color:#fff,stroke:#713f12;
+  classDef low fill:#3f3f46,color:#fff,stroke:#18181b;
+  classDef none fill:#52525b,color:#fff,stroke:#27272a;
+  AAOI[AAOI]:::medium
+  AMAT[AMAT]:::high
+  AMD[AMD]:::medium
+  ASML[ASML]:::extreme
+  AVGO[AVGO]:::high
+  COHR[COHR]:::medium
+  CRWV[CRWV]:::low
+  DELL[DELL]:::low
+  FN[FN]:::medium
+  HPE[HPE]:::low
+  INTC[INTC]:::medium
+  IREN[IREN]:::low
+  KLAC[KLAC]:::high
+  LITE[LITE]:::medium
+  LRCX[LRCX]:::high
+  MRVL[MRVL]:::medium
+  MSFT[MSFT]:::medium
+  MU[MU]:::high
+  NBIS[NBIS]:::low
+  NVDA[NVDA]:::high
+  SMCI[SMCI]:::low
+  TSM[TSM]:::extreme
+  AMAT --> INTC
+  AMAT --> MU
+  AMAT --> TSM
+  AMD --> DELL
+  AMD --> HPE
+  AMD --> SMCI
+  ASML --> INTC
+  ASML --> MU
+  ASML --> TSM
+  DELL --> CRWV
+  FN --> LITE
+  FN --> NVDA
+  HPE --> CRWV
+  KLAC --> INTC
+  KLAC --> MU
+  KLAC --> TSM
+  LRCX --> INTC
+  LRCX --> MU
+  LRCX --> TSM
+  MRVL --> AAOI
+  MRVL --> COHR
+  MRVL --> LITE
+  MU --> AMD
+  MU --> NVDA
+  NVDA --> CRWV
+  NVDA --> DELL
+  NVDA --> HPE
+  NVDA --> IREN
+  NVDA --> MSFT
+  NVDA --> NBIS
+  NVDA --> SMCI
+  SMCI --> CRWV
+  TSM --> AMD
+  TSM --> AVGO
+  TSM --> MRVL
+  TSM --> NVDA
+```
+
+_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 22 nodes, 36 edges. Auto-generated 2026-06-13 from each note's Supply Chain section._
+<!-- graph:end -->
+
 ## Key dependencies
 Supplier→customer edges, aggregated from each note's Supply Chain section.
 - **Fan-in = systemic bottleneck** (many funnel through one supplier):

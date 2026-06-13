@@ -11,6 +11,9 @@ jobs:
   lint:
     name: Lint & test
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write          # open/append a tracking issue when the gate fails
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -22,6 +25,21 @@ jobs:
         run: pytest scripts/tests -q
       - name: Run vault lint (structural gate)
         run: python scripts/vault_lint.py
+      - name: Open a tracking issue if the gate failed
+        if: failure() && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title="CI failing: vault lint/test gate is red"
+          url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          num=$(gh issue list --state open --json number,title \
+                  --jq ".[] | select(.title==\"$title\") | .number" | head -1)
+          if [ -z "$num" ]; then
+            gh issue create --title "$title" \
+              --body "The \`Lint & test\` job failed on commit \`${GITHUB_SHA}\`. Run: $url"
+          else
+            gh issue comment "$num" --body "Still failing on \`${GITHUB_SHA}\`. Run: $url"
+          fi
 
   secrets:
     name: Secret scan (gitleaks)
@@ -52,6 +70,8 @@ jobs:
         run: python scripts/refresh_prices.py
       - name: Refresh fundamentals snapshots
         run: python scripts/refresh_fundamentals.py
+      - name: Rebuild supply-chain dependency graph
+        run: python scripts/refresh_graph.py
       - name: Re-lint after refresh
         run: python scripts/vault_lint.py
       - name: Commit refreshed prices

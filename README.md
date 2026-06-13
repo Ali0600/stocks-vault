@@ -14,20 +14,24 @@ maintained by Claude Code against the contract in [SCHEMA.md](SCHEMA.md);
 - `scripts/` — the maintenance toolchain · `.github/workflows/` — CI
 
 ## Automation / DevOps
-- **`scripts/vault_lint.py`** — 13-rule integrity linter (sourcing, supply-chain
-  symmetry, index drift, broken links, section coverage, snapshot freshness…). Pure
-  stdlib; **exits non-zero on failure** so it works as a CI and pre-commit gate.
+- **`scripts/vault_lint.py`** — 14-rule integrity linter (sourcing, supply-chain
+  symmetry, index drift, broken links, section coverage, snapshot/graph freshness…).
+  Pure stdlib; **exits non-zero on failure** so it works as a CI and pre-commit gate.
   Unit-tested in `scripts/tests/` (run `pytest scripts/tests`).
+- **`scripts/refresh_graph.py`** — parses every note's supplier/customer edges and
+  renders an auto-refreshed **Mermaid dependency graph** (nodes colored by chokepoint
+  severity) into the AI Supply Chain map, so the visual can't drift from the notes.
 - **`scripts/refresh_prices.py`** — pulls latest closes via `yfinance` and rewrites
   each article's price-impact table (idempotent).
 - **`scripts/refresh_fundamentals.py`** — pulls market cap, revenue, growth, margin,
   P/E and next-earnings into each note's `## Snapshot` block (idempotent, self-installing).
 - **`scripts/daily_maintenance.sh`** + **launchd** (`com.stocksvault.maintenance.plist`)
-  — runs refresh → lint → auto-commit daily on the local machine.
+  — runs refresh → lint → auto-commit daily on the local machine, and posts a **macOS
+  notification** if the lint gate fails or a push conflicts.
 - **GitHub Actions** (`.github/workflows/vault-ci.yml`) — runs the unit tests + linter
-  on every push/PR, scans the history for secrets (gitleaks), and on a weekday schedule
-  refreshes prices and commits them back (rebasing first so it can't diverge from the
-  local job).
+  on every push/PR, scans the history for secrets (gitleaks), **opens a tracking issue
+  when the gate fails**, and on a weekday schedule refreshes prices/fundamentals/graph
+  and commits them back (rebasing first so it can't diverge from the local job).
 - A **versioned pre-commit hook** (`scripts/hooks/pre-commit`) runs the linter so a
   corrupting edit can't be committed — activate it once with `bash scripts/install-hooks.sh`.
 
@@ -42,19 +46,21 @@ pytest scripts/tests                     # unit tests for the linter rules
 python scripts/vault_lint.py            # integrity gate (exit 0 = clean)
 python scripts/refresh_prices.py        # refresh article price tables
 python scripts/refresh_fundamentals.py  # refresh per-note fundamentals snapshots
+python scripts/refresh_graph.py         # rebuild the supply-chain Mermaid graph
 ```
 
 ## Highlights
 - Designed a **schema-driven knowledge base** of 50+ interlinked notes with a strict
   sourcing contract (every dated fact cites an ingested article or a concept primer).
-- Built a **CI-style validation pipeline**: a 13-rule integrity linter (exit-code
+- Built a **CI-style validation pipeline**: a 14-rule integrity linter (exit-code
   gated, **pytest-covered**) wired into a **GitHub Actions** workflow and a versioned
-  **git pre-commit hook**, with **gitleaks** secret scanning and **pinned dependencies**
-  for reproducible builds.
+  **git pre-commit hook**, with **gitleaks** secret scanning, **pinned dependencies**,
+  and **automated alerting** (a tracking issue is opened when the gate fails).
 - Automated **market-data refresh** (yfinance) and integrity linting on a daily
   schedule via **launchd**, with rebase-before-push **auto-commit** to a
-  version-controlled vault (no divergence between the local and CI push paths) and a
-  **freshness heartbeat** that flags a stalled refresh job.
-- Modeled the **AI hardware supply chain** as a directed dependency graph
-  (supplier↔customer edges, chokepoint severity ratings) to surface single points
-  of failure.
+  version-controlled vault (no divergence between the local and CI push paths), a
+  **freshness heartbeat** that flags a stalled refresh job, and **macOS notifications**
+  on failure.
+- Modeled the **AI hardware supply chain** as a directed dependency graph and
+  **auto-generated a Mermaid visualization** from the structured notes (supplier→customer
+  edges, chokepoint-colored nodes) to surface single points of failure.

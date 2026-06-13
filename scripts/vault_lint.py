@@ -130,6 +130,25 @@ def lint(root):
     for f in glob.glob("Concepts/*.md"):
         if "## Sources" not in read(f): W(f"concept {os.path.basename(f)[:-3]}: no '## Sources' footer")
 
+    # supply-chain dependency graph (the AI Supply Chain map): markers present + fresh
+    # (warn-only, like the per-note Snapshot heartbeat — it's auto-generated, not curated)
+    gmap = "Maps/AI Supply Chain.md"
+    if os.path.isfile(gmap):
+        mt = read(gmap)
+        if "<!-- graph:start -->" not in mt or "<!-- graph:end -->" not in mt:
+            W("AI Supply Chain map: missing dependency-graph markers (run scripts/refresh_graph.py)")
+        else:
+            gm = re.search(r'Auto-generated (\d{4}-\d{2}-\d{2}) from each note', mt)
+            if not gm:
+                W("AI Supply Chain map: dependency graph has no parseable Auto-generated date")
+            else:
+                try:
+                    age = (today - datetime.date.fromisoformat(gm.group(1))).days
+                    if age > SNAPSHOT_MAX_AGE_DAYS:
+                        W(f"AI Supply Chain map: dependency graph stale — generated {gm.group(1)} ({age}d ago, > {SNAPSHOT_MAX_AGE_DAYS}d)")
+                except ValueError:
+                    pass
+
     # index drift (sectors)
     if os.path.isfile("index.md"):
         idx = read("index.md"); act = {}

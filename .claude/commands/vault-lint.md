@@ -53,6 +53,10 @@ severity:
     carries an `_Auto-updated YYYY-MM-DD via yfinance._` line; warn (never fail)
     when that date is older than 7 days — a stale snapshot means the daily refresh
     job (launchd / CI) has stalled and needs attention.
+14. **Dependency graph** — the `Maps/AI Supply Chain` note carries the
+    machine-generated Mermaid graph between `<!-- graph:start/end -->`; warn (never
+    fail) if those markers are missing or the `Auto-generated YYYY-MM-DD` date is
+    older than 7 days (run `scripts/refresh_graph.py`).
 
 Fix `index.md` drift directly (it is Claude-maintained). For anything that touches
 wiki note content, list the proposed fixes and wait for approval. If anything was

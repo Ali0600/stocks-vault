@@ -77,6 +77,13 @@ chronological record of every change.
   `scripts/refresh_fundamentals.py` via yfinance. Like the article price table it's
   a mutable exception, exempt from the dated-citation rule; don't hand-edit, and the
   refresh does not bump `updated:`. It is data, never advice.
+- The `Maps/AI Supply Chain` note carries a machine-generated **dependency graph**
+  (Mermaid) between `<!-- graph:start/end -->`, rebuilt by `scripts/refresh_graph.py`
+  from every stock note's Supply Chain edges and colored by each note's
+  `**Chokepoint:**` rating. Like the Snapshot block it's a mutable, auto-maintained
+  exception — don't hand-edit it, and the rebuild doesn't bump `updated:`. The curated
+  prose around it (chain layers, ranked chokepoints, fan-in/fan-out reading) stays
+  human/Claude-maintained.
 - Never use buy/sell/hold or position-advice language anywhere in the vault.
 - Article frontmatter `prices:` = close on the publish date (prior close on
   non-trading days; ingestion-day price if the publish date is unknown — note it).
