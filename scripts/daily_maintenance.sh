@@ -16,6 +16,7 @@ LINT_RC=$?
 if [[ -n "$(git status --porcelain)" ]]; then
   git add -A
   git commit -m "chore: daily price refresh + lint ($(date +%F))"
+  git remote get-url origin >/dev/null 2>&1 && git push -q && echo "pushed"
   echo "committed changes"
 else
   echo "no changes to commit"
