@@ -45,7 +45,6 @@ its own lasers and builds modules in-house, so it captures the hyperscaler
 ## Facts
 - 2026-06-10 — Q1 2026 revenue $151.1M, +51% YoY; datacenter segment roughly doubled YoY to $81.4M (company-reported) ([[2026-06-10 optics-stocks-ai-rally]])
 - 2026-06-10 — First volume shipments of 800G transceivers to a hyperscale customer, with 1.6Tb engagement per CEO ([[2026-06-10 optics-stocks-ai-rally]])
-- 2026-06-10 — Closed +7.5% at $175.13; +402% YTD vs the 2025 final close ($34.86) ([[2026-06-10 optics-stocks-ai-rally]])
 
 ## Contracts Awarded
 

@@ -38,8 +38,8 @@ An AI-native cloud built and owned end-to-end by ex-Yandex infrastructure engine
 - AI labs & enterprises (external)
 
 ## Facts
-- 2026-06-10 — Situational Awareness (Aschenbrenner) disclosed a 12.4M-share Class A stake via 13G — 5.6% of NBIS, ~$2.6B; the position is absent from the fund's Q1 13F, so it was built after 03-31. Shares closed +5.0% at $222.24 the next session ([[2026-06-11 situational-awareness-neocloud-stakes]])
-- 2026-06-11 — +1011% since the 2024-10-21 Nasdaq relisting close ($20.00 → $222.24); the article's "950% in two years" overstates the window — NBIS has traded ~20 months ([[2026-06-11 situational-awareness-neocloud-stakes]])
+- 2026-06-10 — Situational Awareness (Aschenbrenner) disclosed a 12.4M-share Class A stake via 13G — 5.6% of NBIS, ~$2.6B; the position is absent from the fund's Q1 13F, so it was built after 03-31 ([[2026-06-11 situational-awareness-neocloud-stakes]])
+- 2026-06-11 — Relisted on Nasdaq 2024-10-21, so it has only ~20 months of trading history — correcting the article's "950% in two years" framing, which overstated the window ([[2026-06-11 situational-awareness-neocloud-stakes]])
 - 2026-06-13 — Cleaner balance sheet than neocloud peers — ~$3.7B cash vs ~$4.9B debt at end-2025, plus ~$4.3B convertible notes and a $2B NVIDIA investment raised in early 2026 (reported) ([[Neocloud economics]])
 
 ## Contracts Awarded

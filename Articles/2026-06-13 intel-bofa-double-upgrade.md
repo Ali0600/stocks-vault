@@ -40,10 +40,11 @@ upgrader) — neither routed.
   ~81× forward; the >100× figure depends on the earnings estimate used
 
 ## Takeaways Routed
-- [[INTC]] ← facts: the BofA double-upgrade event; +238% YTD reality check; the
-  +6.5% upgrade-day move; Q1 Data Center & AI +22% to ~$5.1B (company-reported).
-  Speculations (open): BofA's $135 target + the CPU-reassertion / foundry-second-
-  engine thesis and the $170B-by-2030 server-CPU projection
+- [[INTC]] ← fact: Q1 Data Center & AI +22% to ~$5.1B / external foundry $174M
+  (company-reported). Speculation (open): BofA's double-upgrade thesis — CPU
+  reassertion, $170B-by-2030 server-CPU TAM, foundry as a second engine.
+  Price-performance claims (YTD %, day move) were fact-checked above but **not
+  routed** — the tracker app and each note's `## Snapshot` already cover price/returns.
 - [[TSM]] — named only as foundry context; no new claim, not routed
 
 ## Price Since Publication

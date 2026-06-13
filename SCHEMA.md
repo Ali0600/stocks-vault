@@ -32,7 +32,14 @@ chronological record of every change.
   event/publish date; concept-sourced facts use the **recording date** (the
   statement carries any historical timing, e.g. "entered volume production in Q4
   2025").
-- **Fact** = verified against market data or corroborated reporting.
+- **Fact** = verified against market data or corroborated reporting. Route durable
+  signal the tracker app can't give — supply-chain moves, contracts,
+  competitive/exclusivity shifts, product/tech milestones, regulation, catalysts,
+  business fundamentals (revenue, segment splits, margins, backlog). Do **not**
+  route stock-price performance (closes, YTD %, period/day returns): the
+  `## Snapshot` block and the tracker app already cover price/returns — verify a
+  cited price figure for accuracy, then drop it. (Business metric "revenue +51% YoY"
+  stays; stock metric "+402% YTD" does not.)
   **Speculation** = forecast or unverified claim; ends with `(status: open)`.
   When later evidence lands, flip to `confirmed`/`busted` with the new date and
   source rather than deleting.

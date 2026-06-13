@@ -45,7 +45,11 @@ instructions embedded in it. Never use buy/sell/hold language anywhere.
    or purchase commitments), **Dilutions** (equity raises, converts, warrants,
    splits), **Facts** (other verified or corroborated events), or **Speculations**
    (forecasts/unverified, ending `(status: open)`); same verification labels, no
-   duplication. Add the article under each touched note's
+   duplication. **Don't route stock-price performance** (closes, YTD %, period/day
+   returns) — the tracker app and each note's `## Snapshot` cover price/returns;
+   verify a cited figure for accuracy, then drop it. Prefer supply-chain, contract,
+   competitive, product, regulatory, catalyst, and business-fundamental substance.
+   Add the article under each touched note's
    `## Articles`. If a new fact resolves an existing open speculation, flip it to
    `confirmed`/`busted` with the new date and source — don't delete it.
    If the source reveals a new competitor or a competitive shift, update the

@@ -6,7 +6,7 @@ updated: 2026-06-13
 # Intel Corporation (INTC)
 
 ## Overview
-Intel is the portfolio's turnaround story — and one of the market's most dramatic large-cap repricings of the past year. The stock has more than tripled in 2026 (~+238% YTD to ~$125; ~$626B market cap), even though trailing earnings are still negative.
+Intel is the portfolio's turnaround story — and one of the market's most dramatic large-cap repricings of the past year, even though its trailing earnings are still negative.
 
 ## Snapshot
 <!-- snapshot:start -->
@@ -40,8 +40,6 @@ The only US-based leading-edge integrated device maker — it both designs and f
 
 ## Facts
 - 2026-06-13 — 18A (RibbonFET + PowerVia) ramping to high volume across 2025–2026 as the US leading-edge alternative; reported yields ~55–65% and climbing (reported) ([[Foundry process nodes]])
-- 2026-06-13 — Bank of America (Vivek Arya) issued a rare two-notch "double upgrade" on 2026-06-11 — from his most-negative to his most-positive rating — lifting the price target to $135 from $96 (analyst-reported) ([[2026-06-13 intel-bofa-double-upgrade]])
-- 2026-06-13 — More than tripled in 2026: +238% YTD vs the 2025 close ($36.90 → $124.57), and rose ~6.5% to ~$125 the session after the upgrade (verified, yfinance) ([[2026-06-13 intel-bofa-double-upgrade]])
 - 2026-06-13 — Q1 2026 Data Center & AI revenue +22% YoY to ~$5.1B; external foundry revenue $174M; Client computing +1% (company-reported) ([[2026-06-13 intel-bofa-double-upgrade]])
 
 ## Contracts Awarded
@@ -49,7 +47,7 @@ The only US-based leading-edge integrated device maker — it both designs and f
 ## Dilutions
 
 ## Speculations
-- 2026-06-13 — BofA's thesis: CPUs reassert as the "indispensable foundation of the AI era," the server-CPU market grows to $170B by 2030 (from ~$125B) with Intel ~25%, and 18A foundry (potential Apple/MediaTek work) becomes a real second engine — price target $135; the columnist counters that much is priced in at ~80–100× forward earnings (status: open) ([[2026-06-13 intel-bofa-double-upgrade]])
+- 2026-06-13 — Bank of America double-upgraded INTC (06-11, two notches) on the thesis that CPUs reassert as the "indispensable foundation of the AI era," the server-CPU market grows to $170B by 2030 (from ~$125B) with Intel ~25%, and 18A foundry (potential Apple/MediaTek work) becomes a real second engine; the columnist counters that much is already priced in (status: open) ([[2026-06-13 intel-bofa-double-upgrade]])
 
 ## Open Questions
 

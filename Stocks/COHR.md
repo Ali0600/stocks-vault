@@ -43,7 +43,6 @@ Vertically integrated from engineered materials (indium-phosphide and silicon-ca
 
 ## Facts
 - 2026-03-02 — Received a $2B NVIDIA strategic investment (announced via 8-K) within NVIDIA's ~$4B optics initiative ([[2026-06-10 optics-stocks-ai-rally]])
-- 2026-06-10 — Faded an intraday ~+2% gain to close -0.3% at $354.77 on the optics-rally day ([[2026-06-10 optics-stocks-ai-rally]])
 
 ## Contracts Awarded
 - 2026-03-02 — Multibillion-dollar purchase commitment from NVIDIA, paired with its $2B strategic investment (company 8-K; commitment scope company-reported) ([[2026-06-10 optics-stocks-ai-rally]])
