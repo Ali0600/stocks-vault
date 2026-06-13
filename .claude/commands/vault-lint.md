@@ -21,9 +21,9 @@ severity:
 5. **Conventions** — filenames (`TICKER.md`, exact sector names,
    `YYYY-MM-DD short-slug.md`); required frontmatter present (`ticker`, `sector`,
    `updated` on stocks; full article frontmatter); stock notes carry all schema
-   sections (Overview, What's Unique, Competitors, Facts, Contracts Awarded,
-   Dilutions, Speculations, Open Questions, Articles); `<!-- prices:start/end -->`
-   markers intact.
+   sections (Overview, Snapshot, What's Unique, Competitors, Supply Chain, Facts,
+   Contracts Awarded, Dilutions, Speculations, Open Questions, Articles);
+   `<!-- prices:start/end -->` and `<!-- snapshot:start/end -->` markers intact.
 6. **Contradictions & language** — facts that disagree across notes; any
    buy/sell/hold or position-advice language.
 7. **Conflicted copies** — `* 2.md` / iCloud-conflict files: flag in chat only,
@@ -49,6 +49,10 @@ severity:
 12. **Supply-chain symmetry** — for every vault member `[[B]]` under A's
    **Suppliers**, B's **Customers** must list `[[A]]` (and vice-versa); flag
    asymmetric vault pairs. External (plain-text) entries are one-sided and exempt.
+13. **Snapshot freshness** — each note's machine-maintained `## Snapshot` block
+    carries an `_Auto-updated YYYY-MM-DD via yfinance._` line; warn (never fail)
+    when that date is older than 7 days — a stale snapshot means the daily refresh
+    job (launchd / CI) has stalled and needs attention.
 
 Fix `index.md` drift directly (it is Claude-maintained). For anything that touches
 wiki note content, list the proposed fixes and wait for approval. If anything was

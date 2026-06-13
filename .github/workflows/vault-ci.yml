@@ -9,15 +9,31 @@ on:
 
 jobs:
   lint:
-    name: Lint vault integrity
+    name: Lint & test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install test deps
+        run: pip install pytest
+      - name: Unit tests (linter rules)
+        run: pytest scripts/tests -q
       - name: Run vault lint (structural gate)
         run: python scripts/vault_lint.py
+
+  secrets:
+    name: Secret scan (gitleaks)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # full history scan
+      - uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # no GITLEAKS_LICENSE: free for a personal public repo
 
   refresh:
     name: Scheduled price refresh
@@ -31,7 +47,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install yfinance
+      - run: pip install -r scripts/requirements.txt
       - name: Refresh article price tables
         run: python scripts/refresh_prices.py
       - name: Refresh fundamentals snapshots
@@ -45,6 +61,9 @@ jobs:
           if [[ -n "$(git status --porcelain)" ]]; then
             git add -A
             git commit -m "chore: scheduled price refresh ($(date +%F))"
+            # rebase onto anything the local launchd run pushed since checkout,
+            # so the two auto-push paths can't diverge (non-fast-forward).
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
             git push
           else
             echo "no price changes"

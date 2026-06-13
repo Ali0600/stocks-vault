@@ -1,0 +1,4 @@
+# Pinned for reproducible local + CI runs. Matches the tracker venv.
+# vault_lint.py itself is pure stdlib (needs nothing here); these are only for
+# the price/fundamentals refresh scripts.
+yfinance==1.4.1

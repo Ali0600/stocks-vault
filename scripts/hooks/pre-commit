@@ -1,0 +1,7 @@
+#!/bin/bash
+# Versioned pre-commit hook: block a commit that would corrupt the vault.
+# Activate once with: bash scripts/install-hooks.sh
+PY="$HOME/Documents/stock-analysis-ui/venv/bin/python"
+[ -x "$PY" ] || PY="python3"
+"$PY" "$(git rev-parse --show-toplevel)/scripts/vault_lint.py" >/dev/null 2>&1 || {
+  echo "vault_lint failed — commit blocked. Run: $PY scripts/vault_lint.py"; exit 1; }
