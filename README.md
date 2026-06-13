@@ -1,5 +1,7 @@
 # Stocks Vault
 
+[![vault-ci](https://github.com/Ali0600/stocks-vault/actions/workflows/vault-ci.yml/badge.svg)](https://github.com/Ali0600/stocks-vault/actions/workflows/vault-ci.yml)
+
 An LLM-maintained stock-research wiki (Obsidian vault) covering a personal
 portfolio plus a watchlist, with a structured, source-cited schema. Notes are
 maintained by Claude Code against the contract in [SCHEMA.md](SCHEMA.md);
