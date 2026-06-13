@@ -34,6 +34,8 @@ jobs:
       - run: pip install yfinance
       - name: Refresh article price tables
         run: python scripts/refresh_prices.py
+      - name: Refresh fundamentals snapshots
+        run: python scripts/refresh_fundamentals.py
       - name: Re-lint after refresh
         run: python scripts/vault_lint.py
       - name: Commit refreshed prices

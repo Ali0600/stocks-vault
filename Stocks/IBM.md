@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 IBM is the portfolio's ballast: consulting + mainframe + Red Hat software, a 2.4% dividend, beta 0.67, and credible quantum-computing optionality. ~$256B market cap.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $256B | $68.9B | +10% | 16% | 24.1 | 2026-07-22 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The only vendor pairing mainframe + Red Hat hybrid-cloud software + global consulting, with a roadmap-leading superconducting quantum program on top — a low-beta enterprise base plus a real frontier-tech option.
 

@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 NVIDIA designs the GPUs, networking silicon and rack-scale systems that run most of the world's AI training and inference. It is the largest company in this portfolio (~$4.9T market cap) and still its profit engine: ~63% net margin with revenue up ~85% year over year at last report.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $4.97T | $253.5B | +85% | 63% | 31.4 | 2026-08-26 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The [[CUDA]] software ecosystem locks in developers, and NVIDIA sells the whole AI compute platform — GPU plus NVLink/Mellanox networking plus rack-scale systems — not just a chip.
 

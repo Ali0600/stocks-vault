@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Hewlett Packard Enterprise is the establishment way to own AI servers: enterprise distribution, the Juniper networking acquisition, and a dividend (~1.2%) attached to a suddenly fast growth story.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $64B | $38.8B | +40% | 4% | 45.0 | 2026-06-01 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Sells AI infrastructure as a managed full stack — enterprise distribution, GreenLake as-a-service consumption, and Juniper-bolstered networking — rather than as commodity boxes, with a dividend most AI names lack.
 

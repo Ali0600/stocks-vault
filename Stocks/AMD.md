@@ -9,6 +9,15 @@ updated: 2026-06-13
 ## Overview
 AMD is the only credible alternative to both Intel (x86 CPUs) and NVIDIA (data-center GPUs) — its Instinct MI-series accelerators are the #2 merchant AI GPU. ~$834B market cap. Watchlist note: AI-supply-chain research, no position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $834B | $37.5B | +38% | 13% | 169.4 | 2026-08-04 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The only company fielding competitive x86 server CPUs (EPYC) *and* merchant AI GPUs (Instinct MI-series) — the lone two-front challenger to Intel and NVIDIA.
 

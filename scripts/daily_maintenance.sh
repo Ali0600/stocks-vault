@@ -10,12 +10,13 @@ cd "$VAULT" || exit 1
 echo "=== vault maintenance $(date) ==="
 
 "$PY" scripts/refresh_prices.py
+"$PY" scripts/refresh_fundamentals.py
 "$PY" scripts/vault_lint.py
 LINT_RC=$?
 
 if [[ -n "$(git status --porcelain)" ]]; then
   git add -A
-  git commit -m "chore: daily price refresh + lint ($(date +%F))"
+  git commit -m "chore: daily refresh (prices + fundamentals) + lint ($(date +%F))"
   git remote get-url origin >/dev/null 2>&1 && git push -q && echo "pushed"
   echo "committed changes"
 else

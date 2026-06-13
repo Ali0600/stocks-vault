@@ -64,6 +64,12 @@ chronological record of every change.
   still go to Contracts Awarded). **Bidirectional:** when both ends are vault
   members the edge appears on both notes (A's Suppliers `[[B]]` ⇔ B's Customers
   `[[A]]`); external names appear one-sided. May be empty.
+- Stock notes carry a machine-maintained **Snapshot** block (after Overview,
+  between `<!-- snapshot:start/end -->`) — market cap, TTM revenue, revenue growth,
+  net margin, P/E, next-earnings date — auto-refreshed by
+  `scripts/refresh_fundamentals.py` via yfinance. Like the article price table it's
+  a mutable exception, exempt from the dated-citation rule; don't hand-edit, and the
+  refresh does not bump `updated:`. It is data, never advice.
 - Never use buy/sell/hold or position-advice language anywhere in the vault.
 - Article frontmatter `prices:` = close on the publish date (prior close on
   non-trading days; ingestion-day price if the publish date is unknown — note it).
@@ -75,7 +81,7 @@ chronological record of every change.
   claims; passing mentions stay article-only. Portfolio source of truth: the
   `stocks` table in `~/Documents/stock-analysis-ui/data/tracker.db`; drop the
   flag when a ticker joins the portfolio.
-- Stock-note sections, in order: Overview · What's Unique (with its
+- Stock-note sections, in order: Overview · Snapshot · What's Unique (with its
   `### Only They Do` sub-section) · Competitors · Supply Chain (`### Suppliers` /
   `### Customers`) · Facts · Contracts Awarded · Dilutions · Speculations ·
   Open Questions · Articles.

@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Nokia has quietly become an AI infrastructure story: its optical networks and IP routing businesses (bolstered by the Infinera acquisition) now ride data-center interconnect demand, not just telco capex. Still pays a ~1.2% dividend.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $83B | $20.0B | +2% | 4% | 92.5 | 2026-07-23 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 One of the few vendors offering end-to-end telco networks — mobile RAN, IP routing, and optical (via Infinera) — now repositioning that routing/optical stack from telco capex toward [[Optical interconnect|data-center interconnect]] demand.
 

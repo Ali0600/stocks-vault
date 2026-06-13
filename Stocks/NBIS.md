@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 Nebius (the ex-Yandex international business) operates AI-focused GPU cloud infrastructure — one of the purest "neocloud" plays available. ~$54B market cap, up from obscurity in under two years.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $59B | $878M | +684% | 93% | 90.1 | 2026-08-06 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 An AI-native cloud built and owned end-to-end by ex-Yandex infrastructure engineers — a vertically integrated [[Neocloud economics|neocloud]] rather than a reseller of hyperscaler capacity.
 

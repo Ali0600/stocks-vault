@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Canopy Growth was once cannabis' flagship; at $1.01 (~$454M cap) it now trades on survival mechanics and US-reform optionality. A just-announced acquisition has coverage split — "game-changer or another misstep."
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $449M | $278M | -0% | -117% | n/m | 2026-06-15 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The Canopy USA holding structure parks US assets (Acreage, Wana, Jetty) so they can be consolidated the moment federal reform allows — a pre-built US runway, backed by its legacy Constellation Brands relationship.
 

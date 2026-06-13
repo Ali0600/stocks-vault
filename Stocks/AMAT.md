@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 Applied Materials sells the equipment that makes chipmaking possible — deposition, etch, inspection — so it earns from everyone's fab expansion regardless of which chip designer wins. ~$395B market cap.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $450B | $29.0B | +11% | 29% | 53.5 | 2026-08-13 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The broadest wafer-fab-equipment portfolio spanning deposition, etch, and process diagnostics — so it captures spending across nearly every step of a fab build, independent of which chip designer or foundry ultimately wins.
 

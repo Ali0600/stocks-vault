@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Rigetti builds superconducting quantum computers — a real lab business with a venture-style stock. ~$6.5B market cap on revenue that remains tiny (growth +199% off a very small base).
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $7B | $10M | +199% | 0% | n/m | 2026-05-11 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 A full-stack superconducting quantum maker that owns its Fab-1 chip foundry and uses a modular multi-chip architecture to scale qubits — vertical integration few pure-play quantum rivals have.
 

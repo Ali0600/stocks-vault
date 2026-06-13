@@ -9,6 +9,15 @@ updated: 2026-06-13
 ## Overview
 Dell is a top builder of AI-optimized servers — turning NVIDIA and AMD silicon into rack-scale systems at hyperscaler volume. ~$256B market cap; it entered FY27 with a record ~$43B AI-server backlog (>$64B of FY26 AI orders). Watchlist note: AI-supply-chain research, no position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $256B | $134.0B | +88% | 6% | 31.5 | 2026-09-03 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Scale and speed in integrating GB200/GB300 rack systems — it was first to ship NVIDIA's GB300 NVL72 (to [[CRWV]]) — backed by enterprise distribution and a services arm that pure box-builders lack.
 

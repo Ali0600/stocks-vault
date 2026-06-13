@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 Super Micro builds AI servers and full racks, sitting between chip vendors and data-center operators. After its accounting scare era, it now trades like a show-me stock despite extraordinary growth. ~$17.6B market cap.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $18B | $33.7B | +123% | 4% | 16.0 | 2026-08-04 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 A building-block modular server design plus rack-scale direct liquid cooling typically makes it the fastest to ship systems around NVIDIA's newest GPUs — speed-to-market is the edge, offset by lingering governance scars.
 

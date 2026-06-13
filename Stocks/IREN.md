@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 IREN pivoted from bitcoin mining to AI data centers — renewable-powered sites in Texas and Australia now host GPU compute. The market has rewarded the pivot with a ~$18B valuation and the portfolio's wildest ride (beta ~4.2).
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $21B | $757M | -0% | 21% | 77.6 | 2026-08-27 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Owns its renewable-powered sites and builds its own electrical infrastructure, converting bitcoin-mining datacenters into [[Neocloud economics|GPU cloud]] — a vertical-integration and cheap-power edge most neoclouds rent instead.
 

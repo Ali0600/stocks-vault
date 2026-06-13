@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Microsoft is the portfolio's out-of-favor megacap: cloud + Office + Copilot at a ~$3.0T cap, now trading at multiples (P/E ~24 trailing, ~20 forward) it hasn't seen in years, with a 0.9% dividend.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $2.90T | $318.3B | +18% | 39% | 23.3 | 2026-07-29 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The only company bundling a hyperscale cloud (Azure), the dominant productivity suite (Office), GitHub for developers, and the OpenAI partnership — a distribution moat for pushing AI into every enterprise it already sells to.
 

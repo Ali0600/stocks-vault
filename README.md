@@ -17,6 +17,8 @@ maintained by Claude Code against the contract in [SCHEMA.md](SCHEMA.md);
   non-zero on failure** so it works as a CI and pre-commit gate.
 - **`scripts/refresh_prices.py`** — pulls latest closes via `yfinance` and rewrites
   each article's price-impact table (idempotent).
+- **`scripts/refresh_fundamentals.py`** — pulls market cap, revenue, growth, margin,
+  P/E and next-earnings into each note's `## Snapshot` block (idempotent, self-installing).
 - **`scripts/daily_maintenance.sh`** + **launchd** (`com.stocksvault.maintenance.plist`)
   — runs refresh → lint → auto-commit daily on the local machine.
 - **GitHub Actions** (`.github/workflows/vault-ci.yml`) — lints on every push/PR and,
@@ -25,8 +27,9 @@ maintained by Claude Code against the contract in [SCHEMA.md](SCHEMA.md);
 
 ### Run locally
 ```bash
-python scripts/vault_lint.py        # integrity gate (exit 0 = clean)
-python scripts/refresh_prices.py    # refresh article price tables
+python scripts/vault_lint.py            # integrity gate (exit 0 = clean)
+python scripts/refresh_prices.py        # refresh article price tables
+python scripts/refresh_fundamentals.py  # refresh per-note fundamentals snapshots
 ```
 
 ## Highlights

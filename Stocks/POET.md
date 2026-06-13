@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 POET Technologies develops optical interposers and photonic engines for AI interconnect — earlier-stage and more speculative than AAOI, with most of the value resting on design wins converting to volume revenue. ~$1.9B market cap.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $2B | $1M | +202% | 0% | n/m | 2026-08-11 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The Optical Interposer platform integrates lasers and optics at wafer scale, aiming to strip cost out of [[Optical interconnect|AI-interconnect]] packaging — a differentiated architecture, though value still hinges on design wins converting to volume.
 

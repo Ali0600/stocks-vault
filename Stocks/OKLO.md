@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Oklo develops compact fast-fission reactors and aims to sell power (not reactors) to data centers and defense sites — the portfolio's nuclear-renaissance bet, now in its hangover phase.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $10B | — | — | — | n/m | 2026-08-10 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Plans to sell [[Datacenter power|power]] rather than reactors — a build-own-operate utility model around its Aurora powerhouse — plus fuel recycling, where most SMR peers sell hardware and stop there.
 

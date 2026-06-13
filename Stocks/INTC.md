@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 Intel is the portfolio's turnaround story — and one of the market's most dramatic large-cap repricings of the past year. The stock is up ~418% over twelve months to ~$107 (~$538B market cap), even though trailing earnings are still negative.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $626B | $53.8B | +7% | -6% | 80.8f | 2026-07-23 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The only US-based leading-edge integrated device maker — it both designs and fabricates x86 CPUs, and is standing up a foundry (18A) as a domestic alternative to TSMC, which carries strategic/government weight no fabless rival has.
 

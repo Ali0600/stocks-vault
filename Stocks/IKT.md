@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Inhibikase Therapeutics is a ~$219M clinical-stage biotech focused on kinase inhibitors — historically Parkinson's (risvodetinib), with a pulmonary arterial hypertension program advancing. Seven analysts sit at the Street's most-bullish rating tier with a $6 mean target against a $1.66 price — a gap that says more about microcap coverage than certainty.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $220M | — | — | — | n/m | 2026-05-12 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 An oral kinase-inhibitor approach (risvodetinib) repositioned from Parkinson's into pulmonary arterial hypertension — an oral mechanism in a market dominated by infused and inhaled therapies.
 

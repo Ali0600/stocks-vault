@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 Taiwan Semiconductor manufactures the leading-edge chips nearly everyone else in this portfolio designs — the closest thing the AI build-out has to a toll booth. ~$2.1T market cap, ~47% net margin.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $2.20T | $4103.9B | +35% | 47% | 36.5 | 2026-07-16 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The dominant leading-edge pure-play foundry (3nm/2nm) with a yield and ecosystem lead nobody has matched — a neutral toll booth almost every AI chip designer in this portfolio is built around, which is also its concentration risk.
 

@@ -9,6 +9,15 @@ updated: 2026-06-13
 ## Overview
 Fabrinet is the contract manufacturer behind much of the optics industry — and the dominant maker of 1.6T optical modules for AI. ~$22B market cap; NVIDIA is ~28% of its revenue. Watchlist note: AI-supply-chain research, no position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $22B | $4.2B | +39% | 10% | 52.4 | 2026-05-04 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Precision optical and electro-mechanical contract manufacturing at a scale and yield few can match — the "silent engine" assembling transceivers for NVIDIA, Cisco, Lumentum and others.
 

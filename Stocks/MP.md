@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 MP Materials operates Mountain Pass, the only scaled US rare-earth mine, and is integrating downstream into magnets — a strategic-asset story (DoD and Apple agreements in 2025) wrapped in a commodity stock. ~$9.5B market cap.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $10B | $348M | +119% | -20% | 50.0f | 2026-08-06 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Owns Mountain Pass, the only scaled US rare-earth mine, and is integrating downstream into finished magnets — a domestic strategic-supply asset (DoD and Apple agreements) that policy actively wants to exist, unlike a pure commodity miner.
 

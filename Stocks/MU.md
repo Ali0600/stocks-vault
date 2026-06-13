@@ -14,6 +14,15 @@ market cap after a near-10x run (52-week range ~$103–$1,089; ~$980 at writing)
 Watchlist note: entered the vault as AI-supply-chain research, not a portfolio
 position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $1.11T | $58.1B | +196% | 41% | 46.3 | 2026-06-24 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Memory is normally a commodity, but HBM — the stacked DRAM that sits on the GPU
 package — has turned a slice of it into a supply-constrained oligopoly. Micron is

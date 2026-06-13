@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Tilray has diversified from Canadian cannabis into beverages (US craft beer, now BrewDog distribution in the UK) and European medical cannabis — funding deals with new shares along the way. ~$600M cap at $5.02 (post reverse split).
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $602M | $858M | -8% | -157% | 18.4f | 2026-04-01 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Diversified well beyond cannabis into a top-five US craft-beer portfolio and European medical-cannabis leadership, so its revenue base isn't purely dependent on US federal reform the way most LPs are.
 

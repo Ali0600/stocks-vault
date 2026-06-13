@@ -9,6 +9,15 @@ updated: 2026-06-13
 ## Overview
 ASML makes the photolithography machines that print chip circuitry — and it is the sole maker of EUV (extreme-ultraviolet) scanners, the tools required for every leading-edge node. ~$718B market cap (~$1,860/share). The closest thing the whole semiconductor industry has to a single point of failure. Watchlist note: AI-supply-chain research, no position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $718B | $33.7B | +13% | 30% | 62.5 | 2026-07-15 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 A 100% monopoly on EUV lithography (~83% of the total lithography market) — Nikon and Canon abandoned EUV over a decade ago, leaving ASML alone at the most critical step of chipmaking.
 

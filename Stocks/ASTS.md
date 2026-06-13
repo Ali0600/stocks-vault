@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 AST SpaceMobile is building a satellite constellation that connects ordinary smartphones directly from orbit, partnered with major carriers. ~$34B market cap — remarkable for a pre-profit company, which is the whole debate.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $32B | $85M | +1952% | 0% | n/m | 2026-08-10 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Large phased-array BlueBird satellites aim to deliver true broadband — not just text — directly to ordinary unmodified smartphones, sold through carrier partnerships rather than as a separate device or plan.
 

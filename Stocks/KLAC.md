@@ -9,6 +9,15 @@ updated: 2026-06-13
 ## Overview
 KLA dominates process control — the inspection and metrology systems that catch defects and hold yield as chips get more complex. ~$332B market cap. The highest-margin, stickiest corner of wafer-fab equipment. Watchlist note: AI-supply-chain research, no position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $332B | $13.1B | +12% | 36% | 71.9 | 2026-07-30 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 A ~52%-share fortress in process control/metrology, and it grows more essential as nodes shrink and defects get costlier.
 

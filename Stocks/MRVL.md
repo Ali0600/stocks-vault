@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 Marvell supplies custom AI silicon (XPUs for hyperscalers) and the electro-optics that connect AI clusters — a picks-and-shovels play one layer below NVIDIA. ~$221B market cap.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $245B | $8.7B | +28% | 29% | 96.1 | 2026-08-27 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Combines [[Custom AI silicon|custom XPU/ASIC]] design with the electro-optics (DSP, SerDes) that wire AI clusters together — the two scarce pieces hyperscalers need to build their own accelerators instead of buying merchant GPUs.
 

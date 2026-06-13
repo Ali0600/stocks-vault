@@ -12,6 +12,15 @@ across three segments — Networking, Materials, and Lasers — including dataco
 transceivers for AI datacenters (~$75B market cap). Watchlist note: entered the
 vault via optics-rally coverage, no portfolio position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $75B | $6.6B | +20% | 7% | 181.6 | 2026-05-06 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Vertically integrated from engineered materials (indium-phosphide and silicon-carbide substrates) up through [[Optical interconnect|transceivers]] and lasers — it owns the materials layer that rivals have to buy.
 

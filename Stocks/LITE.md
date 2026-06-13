@@ -11,6 +11,15 @@ Lumentum makes optical and photonic products — chips, components, and modules 
 cloud/AI datacenter interconnects, plus industrial lasers (~$72B market cap).
 Watchlist note: entered the vault via optics-rally coverage, no portfolio position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $72B | $2.5B | +90% | 18% | 161.4 | 2026-08-12 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Indium-phosphide laser-chip scale plus breadth across datacom and telecom, with NVIDIA-backed capacity expansion behind the [[Optical interconnect|AI-interconnect]] ramp.
 

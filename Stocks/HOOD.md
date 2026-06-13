@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 Robinhood has evolved from meme-trading app to diversified retail-finance platform — options, crypto, retirement accounts, and now prediction markets, which current coverage calls a "hot, lucrative market" entry. ~$78B market cap.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $84B | $4.6B | +15% | 41% | 45.2 | 2026-07-29 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The mobile-first, commission-free design that defined modern retail trading — now bundling equities, options, crypto, retirement, and prediction markets into a single consumer app with the brand's grip on younger investors.
 

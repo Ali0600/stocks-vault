@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 ProQR Therapeutics is an RNA-editing platform company (Axiomer) with an Eli Lilly partnership — a technology bet where the platform's validation matters more than any single asset. ~$149M market cap at $1.41.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $152M | $14M | -57% | 0% | n/m | 2026-08-06 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 The Axiomer platform edits RNA using the body's own ADAR enzymes — reversible and without cutting DNA, unlike CRISPR — with an Eli Lilly partnership serving as external validation of the approach.
 

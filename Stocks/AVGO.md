@@ -9,6 +9,15 @@ updated: 2026-06-13
 ## Overview
 Broadcom is the #1 custom-AI-chip co-designer and a networking-silicon powerhouse — the merchant arms dealer behind hyperscalers' in-house accelerators. ~$1.82T market cap. Watchlist note: AI-supply-chain research, no position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $1.82T | $75.5B | +48% | 39% | 63.7 | 2026-09-03 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Designs the custom ASICs (XPUs) that Google (TPU), Meta (MTIA) and others use to bypass NVIDIA — ~70% of the custom-accelerator market — plus the Ethernet switch silicon (Tomahawk/Jericho) that wires AI clusters.
 

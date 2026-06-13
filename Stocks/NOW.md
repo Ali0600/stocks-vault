@@ -8,6 +8,15 @@ updated: 2026-06-12
 ## Overview
 ServiceNow is enterprise workflow software caught in the market's "AI disrupts SaaS" repricing — cut roughly in half over a year while still growing 22% with ~13% net margins.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $105B | $14.0B | +22% | 13% | 60.8 | 2026-07-22 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 A single Now Platform spanning IT, HR, and customer workflows as the enterprise system-of-action, with an agentic-AI layer (Now Assist) layered across all of it rather than bolted onto one app.
 

@@ -11,6 +11,15 @@ CoreWeave operates a purpose-built AI cloud — GPU infrastructure plus the soft
 layer to run large-scale training and inference (~$55B market cap). Watchlist
 note: entered the vault via Situational Awareness coverage, no portfolio position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $55B | $6.2B | +112% | -26% | n/m | 2026-05-07 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 A purpose-built [[Neocloud economics|GPU cloud]] delivering bare-metal performance with an orchestration software layer, and typically among the first to deploy NVIDIA's newest reference platforms.
 

@@ -9,6 +9,15 @@ updated: 2026-06-13
 ## Overview
 Lam Research makes the etch and deposition equipment that carves and layers chip structures — one of five vendors that gate every fab. ~$459B market cap. Especially levered to memory (3D NAND, HBM) and advanced-logic scaling. Watchlist note: AI-supply-chain research, no position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $459B | $21.7B | +24% | 31% | 69.5 | 2026-07-29 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 A co-leader (with [[AMAT]]) in etch and deposition — the steps that build 3D NAND stacks and gate-all-around transistors.
 

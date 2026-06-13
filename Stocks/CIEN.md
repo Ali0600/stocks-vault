@@ -9,6 +9,15 @@ updated: 2026-06-13
 ## Overview
 Ciena builds the coherent optical systems and DSPs that move data between data centers and across long-haul networks — increasingly a datacenter-interconnect (DCI) play as AI traffic explodes. ~$63B market cap. Watchlist note: AI-supply-chain research, no position.
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $63B | $5.6B | +40% | 8% | 149.2 | 2026-06-04 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 Its WaveLogic coherent DSPs (WL6 Extreme — 1.6 Tb/s) are an in-house technology edge, and cloud/AI is now its fastest-growing customer segment.
 

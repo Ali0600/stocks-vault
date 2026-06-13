@@ -38,7 +38,7 @@ fails, warns = [], []
 F = fails.append
 W = warns.append
 
-EXPECTED = ["Overview", "What's Unique", "Competitors", "Supply Chain", "Facts",
+EXPECTED = ["Overview", "Snapshot", "What's Unique", "Competitors", "Supply Chain", "Facts",
             "Contracts Awarded", "Dilutions", "Speculations", "Open Questions", "Articles"]
 DATED = ("Facts", "Contracts Awarded", "Dilutions", "Speculations")
 
@@ -54,6 +54,7 @@ for f in stock_files:
     if "### Only They Do" not in txt: F(f"{t}: missing '### Only They Do'")
     if "**Chokepoint:**" not in txt: F(f"{t}: missing '**Chokepoint:**'")
     if "### Suppliers" not in txt or "### Customers" not in txt: F(f"{t}: missing Supply Chain sub-headers")
+    if "<!-- snapshot:start -->" not in txt or "<!-- snapshot:end -->" not in txt: F(f"{t}: missing Snapshot block markers")
     for sec in DATED:
         for ln in S.get(sec, "").split("\n"):
             if ln.strip().startswith("- "):

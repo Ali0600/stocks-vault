@@ -8,6 +8,15 @@ updated: 2026-06-13
 ## Overview
 Applied Optoelectronics makes the [[Optical interconnect|optical transceivers]] and lasers that connect AI data centers. It is this portfolio's single biggest winner — and now one of its most demanding valuations (~$14B market cap, up from under $1.5B a year ago).
 
+## Snapshot
+<!-- snapshot:start -->
+| Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
+| --- | --- | --- | --- | --- | --- |
+| $14B | $507M | +51% | -9% | 35.4f | 2026-08-06 |
+
+_Auto-updated 2026-06-13 via yfinance._
+<!-- snapshot:end -->
+
 ## What's Unique
 One of the few vertically integrated, US-listed transceiver pure plays — it designs
 its own lasers and builds modules in-house, so it captures the hyperscaler
