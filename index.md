@@ -32,5 +32,6 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Wafer-fab equipment]] — the five-vendor WFE oligopoly; ASML's EUV monopoly
 
 ## Articles
+- 2026-06-13 · [[2026-06-13 intel-bofa-double-upgrade]] — BofA two-notch upgrade of INTC (PT $135); +238% YTD verified, ">100x fwd" corrected to ~81x
 - 2026-06-11 · [[2026-06-11 situational-awareness-neocloud-stakes]] — Aschenbrenner fund's neocloud stakes; 38.89% claim corrected (NBIS, NVDA, CRWV*)
 - 2026-06-10 · [[2026-06-10 optics-stocks-ai-rally]] — optics rally on AI boom (AAOI, NVDA, COHR*, LITE*)
