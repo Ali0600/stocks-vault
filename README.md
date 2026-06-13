@@ -25,6 +25,9 @@ maintained by Claude Code against the contract in [SCHEMA.md](SCHEMA.md);
   on a weekday schedule, refreshes prices and commits them back.
 - A **pre-commit hook** runs the linter so a corrupting edit can't be committed.
 
+Operating & troubleshooting the scheduled job (launchctl commands, the Full Disk
+Access fix): see [RUNBOOK.md](RUNBOOK.md).
+
 ### Run locally
 ```bash
 python scripts/vault_lint.py            # integrity gate (exit 0 = clean)
