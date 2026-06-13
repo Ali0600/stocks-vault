@@ -1,0 +1,5 @@
+.DS_Store
+.obsidian/workspace*.json
+.maintenance.log
+__pycache__/
+*.pyc

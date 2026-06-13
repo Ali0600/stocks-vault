@@ -1,0 +1,49 @@
+name: vault-ci
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 22 * * 1-5'   # weekdays ~after US market close (UTC)
+
+jobs:
+  lint:
+    name: Lint vault integrity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run vault lint (structural gate)
+        run: python scripts/vault_lint.py
+
+  refresh:
+    name: Scheduled price refresh
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    needs: lint
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install yfinance
+      - name: Refresh article price tables
+        run: python scripts/refresh_prices.py
+      - name: Re-lint after refresh
+        run: python scripts/vault_lint.py
+      - name: Commit refreshed prices
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "chore: scheduled price refresh ($(date +%F))"
+            git push
+          else
+            echo "no price changes"
+          fi

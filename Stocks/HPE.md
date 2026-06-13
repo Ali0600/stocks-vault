@@ -1,0 +1,41 @@
+---
+ticker: HPE
+sector: AI Infrastructure
+updated: 2026-06-12
+---
+# Hewlett Packard Enterprise Company (HPE)
+
+## Overview
+Hewlett Packard Enterprise is the establishment way to own AI servers: enterprise distribution, the Juniper networking acquisition, and a dividend (~1.2%) attached to a suddenly fast growth story.
+
+## What's Unique
+Sells AI infrastructure as a managed full stack — enterprise distribution, GreenLake as-a-service consumption, and Juniper-bolstered networking — rather than as commodity boxes, with a dividend most AI names lack.
+
+### Only They Do
+- GreenLake as-a-service consumption model plus post-Juniper networking offered as one integrated enterprise stack
+- **Chokepoint:** Low — it assembles others' silicon and competes directly with Dell, Lenovo, and [[SMCI]]; the moat is distribution and contracts, not exclusivity
+
+## Competitors
+- [[SMCI]] — fast-moving AI-server builder
+- [[DELL]] — direct enterprise-server rival
+- Cisco (CSCO) — networking, overlapping post-Juniper
+- Lenovo (0992.HK) — global server volume
+
+## Supply Chain
+### Suppliers
+- [[NVDA]] — GPUs (High chokepoint); [[AMD]] — CPUs/GPUs; + ext components
+
+### Customers
+- Enterprises & hyperscalers (external); [[CRWV]] — neocloud (GB200 NVL72 systems)
+
+## Facts
+
+## Contracts Awarded
+
+## Dilutions
+
+## Speculations
+
+## Open Questions
+
+## Articles
