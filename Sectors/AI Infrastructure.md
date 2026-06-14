@@ -1,6 +1,6 @@
 ---
 sector: AI Infrastructure
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 # AI Infrastructure
 
@@ -8,6 +8,7 @@ updated: 2026-06-13
 Servers, GPU clouds and powered land — the build-and-operate layer of AI compute.
 
 ## Members
+- [[APLD]] — Applied Digital Corporation (watchlist)
 - [[CRWV]] — CoreWeave, Inc. (watchlist)
 - [[DELL]] — Dell Technologies Inc. (watchlist)
 - [[HPE]] — Hewlett Packard Enterprise Company

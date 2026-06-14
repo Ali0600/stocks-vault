@@ -26,8 +26,11 @@ there and reflect changes here.
 6. **[[Optical interconnect]]** — transceivers [[AAOI]], [[COHR]], [[LITE]];
    integration [[POET]]; DSP [[MRVL]]; systems [[NOK]], [[CIEN]]; contract mfg [[FN]]. Wires GPUs into clusters (scale-out; see [[GPU interconnect]]).
 7. **Servers & systems** — [[SMCI]], [[HPE]], [[DELL]]. Assembly layer; abundant — [[Liquid cooling|liquid-cooled]] at GB200 densities.
-8. **[[Datacenter power|Power]] & land** — [[IREN]] (owns renewable-powered sites); [[OKLO]] (nuclear,
-   pre-operational). Increasingly the *real* constraint on new datacenters.
+8. **[[Datacenter power|Power]], grid & buildout** — generation + grid equipment [[GEV]]
+   (transformers, switchgear, gas/nuclear turbines — multi-year lead times); developers
+   [[APLD]] (hyperscaler-leased "AI factories"), [[IREN]] (owns renewable-powered sites);
+   advanced nuclear [[OKLO]] (pre-operational); electrical construction [[DY]].
+   Increasingly the *real* constraint on new datacenters.
 9. **[[Neocloud economics|Neocloud]] capacity** — [[NBIS]], [[CRWV]], [[IREN]]. Rent GPUs at scale; the
    scarcity is upstream of them, not in them.
 10. **Hyperscalers, models & apps** — [[MSFT]] (Azure + OpenAI); workflow/software
@@ -46,9 +49,10 @@ there and reflect changes here.
 | **High (Western) / Low (global)** | [[MP]] | Sole scaled US rare-earth + magnet source; strategic for de-risking from China, but China sets global price. |
 | **Medium** | [[MRVL]] | Custom-ASIC + interconnect IP duopoly (with Broadcom). |
 | **Medium** | [[COHR]] · [[LITE]] · [[AAOI]] | Optical-interconnect capacity; vertically integrated/non-China supply is scarce but multi-sourced. |
+| **Medium** | [[GEV]] | Large grid transformers/switchgear + gas/nuclear turbines; multi-year lead times gate datacenter energization. One of several global makers (Siemens Energy, Hitachi Energy, ABB). |
 | **Medium** | [[IBM]] | Mainframe sole-supply — real, but a shrinking niche, off the AI critical path. |
 | **Low–Medium** | [[INTC]] · [[AMD]] · [[MSFT]] · [[OKLO]] · [[PRQR]] · [[CIEN]] · [[FN]] | Strategic/commercial moats or differentiated-but-substitutable positions, not physical gates. |
-| **Low / None** | [[SMCI]] [[HPE]] [[DELL]] [[NBIS]] [[CRWV]] [[IREN]] [[POET]] [[NOK]] [[NOW]] [[RGTI]] [[ASTS]] [[HOOD]] [[BYND]] [[TLRY]] [[CGC]] [[ARTV]] [[IKT]] [[TTWO]] | Competitive or capacity layers; no supplier here gates the build-out. |
+| **Low / None** | [[SMCI]] [[HPE]] [[DELL]] [[APLD]] [[DY]] [[NBIS]] [[CRWV]] [[IREN]] [[POET]] [[NOK]] [[NOW]] [[RGTI]] [[ASTS]] [[HOOD]] [[BYND]] [[TLRY]] [[CGC]] [[ARTV]] [[IKT]] [[TTWO]] | Competitive or capacity layers; no supplier here gates the build-out. |
 
 ## Reading the map
 - **The chain narrows hardest in the middle — equipment, foundry, memory, chip
@@ -61,7 +65,9 @@ there and reflect changes here.
   [[DELL]], [[CIEN]], [[FN]]). Remaining external gaps: SK Hynix & Samsung (HBM),
   Tokyo Electron (equipment), Innolight (optics).
 - **Power is the rising chokepoint:** if compute supply catches up, energy and
-  grid-connected land ([[IREN]], [[OKLO]]) become the binding constraint.
+  grid-connected land ([[IREN]], [[OKLO]]) become the binding constraint — now joined
+  by the gear and labor that energize sites: grid equipment [[GEV]] (multi-year
+  transformer lead times), developers [[APLD]], and electrical construction [[DY]].
 
 ## Dependency graph
 <!-- graph:start -->
@@ -150,4 +156,4 @@ Supplier→customer edges, aggregated from each note's Supply Chain section.
   - [[SMCI]], [[HPE]] → [[NVDA]] GPU allocation gates their AI-server revenue
 
 ## Related
-- Sectors: [[Semiconductors]] · [[Networking & Optical]] · [[AI Infrastructure]] · [[Materials]]
+- Sectors: [[Semiconductors]] · [[Networking & Optical]] · [[AI Infrastructure]] · [[Power & Infrastructure]] · [[Materials]]
