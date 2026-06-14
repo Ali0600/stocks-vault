@@ -2,7 +2,7 @@
 ticker: CRWV
 sector: AI Infrastructure
 tracked: false
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 # CoreWeave, Inc. (CRWV)
 
@@ -36,6 +36,7 @@ A purpose-built [[Neocloud economics|GPU cloud]] delivering bare-metal performan
 ## Supply Chain
 ### Suppliers
 - [[NVDA]] — GPUs (High chokepoint; ~250k GPUs); [[SMCI]] · [[HPE]] · [[DELL]] — servers; ext power
+- [[VRT]] — datacenter power & cooling infrastructure
 
 ### Customers
 - Anchor customers (external) — Microsoft, OpenAI, Meta

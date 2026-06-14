@@ -17,6 +17,7 @@ Chip designers, the leading-edge foundry, and wafer-fab equipment — the supply
 - [[INTC]] — Intel Corporation
 - [[KLAC]] — KLA Corporation (watchlist)
 - [[LRCX]] — Lam Research Corporation (watchlist)
+- [[MPWR]] — Monolithic Power Systems, Inc. (watchlist)
 - [[MRVL]] — Marvell Technology, Inc.
 - [[MU]] — Micron Technology, Inc. (watchlist)
 - [[NVDA]] — NVIDIA Corporation

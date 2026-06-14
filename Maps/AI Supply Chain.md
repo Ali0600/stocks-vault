@@ -30,10 +30,12 @@ there and reflect changes here.
    integration [[POET]]; DSP [[MRVL]]; systems [[NOK]], [[CIEN]]; contract mfg [[FN]]. Wires GPUs into clusters (scale-out; see [[GPU interconnect]]).
 7. **Servers & systems** — [[SMCI]], [[HPE]], [[DELL]]. Assembly layer; abundant — [[Liquid cooling|liquid-cooled]] at GB200 densities.
 8. **[[Datacenter power|Power]], grid & buildout** — generation + grid equipment [[GEV]]
-   (transformers, switchgear, gas/nuclear turbines — multi-year lead times); developers
-   [[APLD]] (hyperscaler-leased "AI factories"), [[IREN]] (owns renewable-powered sites);
-   advanced nuclear [[OKLO]] (pre-operational); electrical construction [[DY]].
-   Increasingly the *real* constraint on new datacenters.
+   (transformers, switchgear, gas/nuclear turbines — multi-year lead times); datacenter
+   power & cooling equipment [[VRT]] · [[ETN]] (UPS, switchgear, liquid-cooling CDUs);
+   board-level power silicon [[MPWR]] (GPU VRMs); developers [[APLD]] (hyperscaler-leased
+   "AI factories"), [[IREN]] (owns renewable-powered sites); advanced nuclear [[OKLO]]
+   (pre-operational); electrical construction [[DY]]. Increasingly the *real* constraint
+   on new datacenters.
 9. **[[Neocloud economics|Neocloud]] capacity** — [[NBIS]], [[CRWV]], [[IREN]]. Rent GPUs at scale; the
    scarcity is upstream of them, not in them.
 10. **Hyperscalers, models & apps** — [[MSFT]] (Azure + OpenAI); workflow/software
@@ -55,8 +57,9 @@ there and reflect changes here.
 | **Medium** | [[MRVL]] | Custom-ASIC + interconnect IP duopoly (with Broadcom). |
 | **Medium** | [[COHR]] · [[LITE]] · [[AAOI]] | Optical-interconnect capacity; vertically integrated/non-China supply is scarce but multi-sourced. |
 | **Medium** | [[GEV]] | Large grid transformers/switchgear + gas/nuclear turbines; multi-year lead times gate datacenter energization. One of several global makers (Siemens Energy, Hitachi Energy, ABB). |
+| **Medium** | [[VRT]] · [[MPWR]] | Integrated datacenter power+thermal (Vertiv UPS/switchgear/CDUs) and GPU board-power silicon (Monolithic VRMs) — real AI-rack deployment constraints, but multi-sourced. |
 | **Medium** | [[IBM]] | Mainframe sole-supply — real, but a shrinking niche, off the AI critical path. |
-| **Low–Medium** | [[INTC]] · [[AMD]] · [[MSFT]] · [[OKLO]] · [[PRQR]] · [[CIEN]] · [[FN]] | Strategic/commercial moats or differentiated-but-substitutable positions, not physical gates. |
+| **Low–Medium** | [[INTC]] · [[AMD]] · [[MSFT]] · [[OKLO]] · [[PRQR]] · [[CIEN]] · [[FN]] · [[ETN]] | Strategic/commercial moats or differentiated-but-substitutable positions, not physical gates. |
 | **Low / None** | [[SMCI]] [[HPE]] [[DELL]] [[APLD]] [[DY]] [[NBIS]] [[CRWV]] [[IREN]] [[POET]] [[NOK]] [[NOW]] [[RGTI]] [[ASTS]] [[HOOD]] [[BYND]] [[TLRY]] [[CGC]] [[ARTV]] [[IKT]] [[TTWO]] | Competitive or capacity layers; no supplier here gates the build-out. |
 
 ## Reading the map
@@ -101,6 +104,7 @@ graph LR
   KLAC[KLAC]:::high
   LITE[LITE]:::medium
   LRCX[LRCX]:::high
+  MPWR[MPWR]:::medium
   MRVL[MRVL]:::medium
   MSFT[MSFT]:::medium
   MU[MU]:::high
@@ -110,6 +114,7 @@ graph LR
   SMCI[SMCI]:::low
   SNPS[SNPS]:::high
   TSM[TSM]:::extreme
+  VRT[VRT]:::medium
   AMAT --> INTC
   AMAT --> MU
   AMAT --> TSM
@@ -136,6 +141,7 @@ graph LR
   LRCX --> INTC
   LRCX --> MU
   LRCX --> TSM
+  MPWR --> NVDA
   MRVL --> AAOI
   MRVL --> COHR
   MRVL --> LITE
@@ -160,9 +166,11 @@ graph LR
   TSM --> AVGO
   TSM --> MRVL
   TSM --> NVDA
+  VRT --> CRWV
+  VRT --> IREN
 ```
 
-_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 27 nodes, 50 edges. Auto-generated 2026-06-15 from each note's Supply Chain section._
+_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 29 nodes, 53 edges. Auto-generated 2026-06-15 from each note's Supply Chain section._
 <!-- graph:end -->
 
 ## Key dependencies

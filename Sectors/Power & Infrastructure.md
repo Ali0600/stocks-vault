@@ -9,4 +9,6 @@ The power-generation, grid-equipment, and construction names that energize and b
 
 ## Members
 - [[DY]] — Dycom Industries, Inc. (watchlist)
+- [[ETN]] — Eaton Corporation plc (watchlist)
 - [[GEV]] — GE Vernova Inc. (watchlist)
+- [[VRT]] — Vertiv Holdings Co (watchlist)

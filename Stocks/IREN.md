@@ -1,7 +1,7 @@
 ---
 ticker: IREN
 sector: AI Infrastructure
-updated: 2026-06-12
+updated: 2026-06-14
 ---
 # IREN Limited (IREN)
 
@@ -33,6 +33,7 @@ Owns its renewable-powered sites and builds its own electrical infrastructure, c
 ## Supply Chain
 ### Suppliers
 - [[NVDA]] — GPUs (High chokepoint); ext Dell (servers); builds own power + datacenters
+- [[VRT]] — datacenter power & cooling equipment
 
 ### Customers
 - AI labs & cloud customers (external)

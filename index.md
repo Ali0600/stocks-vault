@@ -11,8 +11,8 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Frontier Tech]] (3): [[ASTS]] · [[OKLO]] · [[RGTI]]
 - [[Materials]] (1): [[MP]]
 - [[Networking & Optical]] (3+4*): [[AAOI]] · [[CIEN]]* · [[COHR]]* · [[FN]]* · [[LITE]]* · [[NOK]] · [[POET]]
-- [[Power & Infrastructure]] (0+2*): [[DY]]* · [[GEV]]*
-- [[Semiconductors]] (5+9*): [[AMAT]] · [[AMD]]* · [[ARM]]* · [[ASML]]* · [[AVGO]]* · [[CDNS]]* · [[INTC]] · [[KLAC]]* · [[LRCX]]* · [[MRVL]] · [[MU]]* · [[NVDA]] · [[SNPS]]* · [[TSM]]
+- [[Power & Infrastructure]] (0+4*): [[DY]]* · [[ETN]]* · [[GEV]]* · [[VRT]]*
+- [[Semiconductors]] (5+10*): [[AMAT]] · [[AMD]]* · [[ARM]]* · [[ASML]]* · [[AVGO]]* · [[CDNS]]* · [[INTC]] · [[KLAC]]* · [[LRCX]]* · [[MPWR]]* · [[MRVL]] · [[MU]]* · [[NVDA]] · [[SNPS]]* · [[TSM]]
 - [[Software & Cloud]] (3+2*): [[GOOGL]]* · [[IBM]] · [[MSFT]] · [[NOW]] · [[ORCL]]*
 
 ## Maps
