@@ -98,6 +98,7 @@ graph LR
   MU[MU]:::high
   NBIS[NBIS]:::low
   NVDA[NVDA]:::high
+  ORCL[ORCL]:::medium
   SMCI[SMCI]:::low
   TSM[TSM]:::extreme
   AMAT --> INTC
@@ -130,6 +131,7 @@ graph LR
   NVDA --> IREN
   NVDA --> MSFT
   NVDA --> NBIS
+  NVDA --> ORCL
   NVDA --> SMCI
   SMCI --> CRWV
   TSM --> AMD
@@ -138,7 +140,7 @@ graph LR
   TSM --> NVDA
 ```
 
-_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 22 nodes, 36 edges. Auto-generated 2026-06-13 from each note's Supply Chain section._
+_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 23 nodes, 37 edges. Auto-generated 2026-06-14 from each note's Supply Chain section._
 <!-- graph:end -->
 
 ## Key dependencies

@@ -13,7 +13,7 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Networking & Optical]] (3+4*): [[AAOI]] · [[CIEN]]* · [[COHR]]* · [[FN]]* · [[LITE]]* · [[NOK]] · [[POET]]
 - [[Power & Infrastructure]] (0+2*): [[DY]]* · [[GEV]]*
 - [[Semiconductors]] (5+6*): [[AMAT]] · [[AMD]]* · [[ASML]]* · [[AVGO]]* · [[INTC]] · [[KLAC]]* · [[LRCX]]* · [[MRVL]] · [[MU]]* · [[NVDA]] · [[TSM]]
-- [[Software & Cloud]] (3): [[IBM]] · [[MSFT]] · [[NOW]]
+- [[Software & Cloud]] (3+1*): [[IBM]] · [[MSFT]] · [[NOW]] · [[ORCL]]*
 
 ## Maps
 - [[AI Supply Chain]] — sand→tokens chain across the portfolio, chokepoints rated
@@ -35,6 +35,7 @@ Watchlist tickers (no portfolio position) are marked *.
 ## Articles
 - 2026-06-13 · [[2026-06-13 nebius-revenue-684-growth]] — NBIS Q1 revenue +684% verified ($399M vs $50.9M); ≥100MW sites 1→7, run-rate $1.25B→$1.9B→$7–9B guide; "+135%" price claim corrected to +170% (not routed)
 - 2026-06-13 · [[2026-06-13 intel-bofa-double-upgrade]] — BofA two-notch upgrade of INTC (PT $135); +238% YTD verified, ">100x fwd" corrected to ~81x
+- 2026-06-12 · [[2026-06-12 oracle-q4-ai-demand]] — ORCL FQ4: $638B RPO backlog, OCI +93%, $67B AI contracts signed, BYOH model; ~$40B FY27 raise + capex > revenue (dilution/capex routed); created ORCL* watchlist note, wired NVDA→ORCL; targets/rating not routed
 - 2026-06-12 · [[2026-06-12 datacenter-strong-buy-trio]] — created watchlist notes APLD* (AI Infra), GEV*/DY* (new Power & Infrastructure sector); routed APLD 15-yr hyperscaler leases (1.4 GW / $86B) + DY's $1.95B Power Solutions buy; targets/upside not routed
 - 2026-06-12 · [[2026-06-12 marvell-briley-pt-raise]] — MRVL CFO change (Dan Durn), expanded NVIDIA/Computex collaboration (NVLink Fusion + optics), S&P 500 inclusion (eff. 06-22); thesis routed, PT/rating/+227% YTD not routed
 - 2026-06-11 · [[2026-06-11 smci-wolfe-risks]] — Wolfe initiates SMCI (neutral); DOJ/Liaw indictment, Q3 FY26 $10.2B +123% verified, ~$40B FY guide, >$13B Blackwell backlog, CRWV/xAI concentration; HPE/DELL margin notes routed

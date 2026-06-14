@@ -1,7 +1,7 @@
 ---
 ticker: MSFT
 sector: Software & Cloud
-updated: 2026-06-12
+updated: 2026-06-14
 ---
 # Microsoft Corporation (MSFT)
 
@@ -27,6 +27,7 @@ The only company bundling a hyperscale cloud (Azure), the dominant productivity 
 ## Competitors
 - Amazon AWS (AMZN) — cloud-infrastructure leader
 - Google (GOOGL) — cloud and frontier AI models
+- [[ORCL]] — Oracle Cloud Infrastructure (OCI), aggressive in AI cloud
 - [[NOW]] — enterprise-workflow overlap
 - Salesforce (CRM) — enterprise SaaS
 

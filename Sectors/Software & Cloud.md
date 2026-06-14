@@ -1,6 +1,6 @@
 ---
 sector: Software & Cloud
-updated: 2026-06-11
+updated: 2026-06-14
 ---
 # Software & Cloud
 
@@ -11,6 +11,7 @@ Platform software incumbents navigating the AI transition.
 - [[IBM]] — International Business Machines Corporation
 - [[MSFT]] — Microsoft Corporation
 - [[NOW]] — ServiceNow, Inc.
+- [[ORCL]] — Oracle Corporation (watchlist)
 
 ## Facts
 

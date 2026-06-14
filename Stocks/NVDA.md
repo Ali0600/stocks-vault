@@ -1,7 +1,7 @@
 ---
 ticker: NVDA
 sector: Semiconductors
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 # NVIDIA Corporation (NVDA)
 
@@ -41,6 +41,7 @@ The [[CUDA]] software ecosystem locks in developers, and NVIDIA sells the whole 
 - Hyperscalers — [[MSFT]], Google, Meta, Amazon (external) — buy GPUs/systems at scale
 - [[CRWV]] · [[NBIS]] · [[IREN]] — neoclouds that deploy its GPUs
 - [[SMCI]] · [[HPE]] · [[DELL]] — build its GPUs into servers
+- [[ORCL]] — buys NVIDIA GPUs for Oracle Cloud Infrastructure (OCI)
 
 ## Facts
 - 2026-03-02 — Invested $2B in Coherent (plus multibillion purchase commitments) as half of a ~$4B optics initiative; Lumentum received the parallel $2B — securing optical-interconnect supply for next-gen data centers (verified: NVIDIA newsroom, Coherent 8-K) ([[2026-06-10 optics-stocks-ai-rally]])
