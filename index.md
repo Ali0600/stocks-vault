@@ -34,5 +34,7 @@ Watchlist tickers (no portfolio position) are marked *.
 ## Articles
 - 2026-06-13 · [[2026-06-13 nebius-revenue-684-growth]] — NBIS Q1 revenue +684% verified ($399M vs $50.9M); ≥100MW sites 1→7, run-rate $1.25B→$1.9B→$7–9B guide; "+135%" price claim corrected to +170% (not routed)
 - 2026-06-13 · [[2026-06-13 intel-bofa-double-upgrade]] — BofA two-notch upgrade of INTC (PT $135); +238% YTD verified, ">100x fwd" corrected to ~81x
+- 2026-06-12 · [[2026-06-12 marvell-briley-pt-raise]] — MRVL CFO change (Dan Durn), expanded NVIDIA/Computex collaboration (NVLink Fusion + optics), S&P 500 inclusion (eff. 06-22); thesis routed, PT/rating/+227% YTD not routed
+- 2026-06-11 · [[2026-06-11 smci-wolfe-risks]] — Wolfe initiates SMCI (neutral); DOJ/Liaw indictment, Q3 FY26 $10.2B +123% verified, ~$40B FY guide, >$13B Blackwell backlog, CRWV/xAI concentration; HPE/DELL margin notes routed
 - 2026-06-11 · [[2026-06-11 situational-awareness-neocloud-stakes]] — Aschenbrenner fund's neocloud stakes; 38.89% claim corrected (NBIS, NVDA, CRWV*)
 - 2026-06-10 · [[2026-06-10 optics-stocks-ai-rally]] — optics rally on AI boom (AAOI, NVDA, COHR*, LITE*)

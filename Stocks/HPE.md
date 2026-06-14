@@ -1,7 +1,7 @@
 ---
 ticker: HPE
 sector: AI Infrastructure
-updated: 2026-06-12
+updated: 2026-06-14
 ---
 # Hewlett Packard Enterprise Company (HPE)
 
@@ -38,6 +38,7 @@ Sells AI infrastructure as a managed full stack — enterprise distribution, Gre
 - Enterprises & hyperscalers (external); [[CRWV]] — neocloud (GB200 NVL72 systems)
 
 ## Facts
+- 2026-06-11 — Reported to have stepped back from lower-margin neocloud contracts — cited (with Dell's ~5–6% AI operating margins) as helping put a floor under AI-server economics (reported) ([[2026-06-11 smci-wolfe-risks]])
 
 ## Contracts Awarded
 
@@ -48,3 +49,4 @@ Sells AI infrastructure as a managed full stack — enterprise distribution, Gre
 ## Open Questions
 
 ## Articles
+- [[2026-06-11 smci-wolfe-risks]]

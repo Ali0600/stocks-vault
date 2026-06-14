@@ -1,7 +1,7 @@
 ---
 ticker: SMCI
 sector: AI Infrastructure
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 # Super Micro Computer, Inc. (SMCI)
 
@@ -35,17 +35,23 @@ A building-block modular server design plus rack-scale direct liquid cooling typ
 - [[NVDA]] — GPUs (the key input; High chokepoint); [[AMD]] — CPUs/GPUs; + ext components
 
 ### Customers
-- Hyperscalers & enterprises (external); [[CRWV]] — neocloud
+- Hyperscalers & enterprises (external); [[CRWV]] · xAI (external) — neoclouds
 
 ## Facts
 - 2026-06-13 — At GB200 NVL72 densities (~120–140 kW/rack) air cooling fails; the GB200 ships liquid-cooled by default, making rack-scale direct-liquid-cooling — SMCI's edge — table stakes ([[Liquid cooling]])
+- 2026-06-11 — Q3 FY2026 (ended Mar 31) revenue $10.24B, +123% YoY; non-GAAP gross margin recovered to 9.9% (from 6.3% in Q2); FY2026 revenue guided to ~$40B (revenue verified: yfinance; margins/guidance company-reported) ([[2026-06-11 smci-wolfe-risks]])
+- 2026-06-11 — Order book holds >$13B in Blackwell Ultra commitments with backlog at record highs; NVIDIA supply relationship reported unaffected by the DOJ matter (company-reported) ([[2026-06-11 smci-wolfe-risks]])
+- 2026-06-11 — Governance overhang: the DOJ's March-2026 indictment charged co-founder Yih-Shyan "Wally" Liaw with conspiring to divert ~$2.5B of NVIDIA-powered AI servers to China; SMCI itself was not named a defendant (reported) ([[2026-06-11 smci-wolfe-risks]])
+- 2026-06-11 — Customer concentration rising as CoreWeave [[CRWV]] and xAI scale — flagged by Wolfe Research as a margin-mix and business-visibility risk (reported) ([[2026-06-11 smci-wolfe-risks]])
 
 ## Contracts Awarded
 
 ## Dilutions
 
 ## Speculations
+- 2026-06-11 — Wolfe Research's George Notter sees the governance/regulatory overhang (the DOJ matter, plus auditor-change and leadership-turnover risk) capping SMCI's valuation multiple despite improved growth; flags a direct corporate indictment or an NVIDIA supply restriction as the key low-probability tail risks (status: open) ([[2026-06-11 smci-wolfe-risks]])
 
 ## Open Questions
 
 ## Articles
+- [[2026-06-11 smci-wolfe-risks]]

@@ -2,7 +2,7 @@
 ticker: DELL
 sector: AI Infrastructure
 tracked: false
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 # Dell Technologies Inc. (DELL)
 
@@ -39,6 +39,7 @@ Scale and speed in integrating GB200/GB300 rack systems — it was first to ship
 
 ## Facts
 - 2026-06-13 — First in the world to ship NVIDIA's liquid-cooled GB300 NVL72 rack systems (initial delivery to [[CRWV]]) — at the leading edge of the air-to-liquid transition ([[Liquid cooling]])
+- 2026-06-11 — Holding ~5–6% operating margins in AI servers (per Wolfe Research) — cited as a profitability floor for the AI-hardware market vs SMCI's thinner mix (reported) ([[2026-06-11 smci-wolfe-risks]])
 
 ## Contracts Awarded
 
@@ -50,3 +51,4 @@ Scale and speed in integrating GB200/GB300 rack systems — it was first to ship
 - Can Dell hold AI-server margins as the mix shifts to lower-margin rack systems and it competes on price with [[SMCI]]?
 
 ## Articles
+- [[2026-06-11 smci-wolfe-risks]]
