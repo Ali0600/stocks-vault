@@ -14,7 +14,7 @@ IREN pivoted from bitcoin mining to AI data centers — renewable-powered sites 
 | --- | --- | --- | --- | --- | --- |
 | $21B | $757M | -0% | 21% | 77.6 | 2026-08-27 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

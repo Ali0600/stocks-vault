@@ -2,7 +2,7 @@
 ticker: AMD
 sector: Semiconductors
 tracked: false
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 # Advanced Micro Devices, Inc. (AMD)
 
@@ -15,7 +15,7 @@ AMD is the only credible alternative to both Intel (x86 CPUs) and NVIDIA (data-c
 | --- | --- | --- | --- | --- | --- |
 | $834B | $37.5B | +38% | 13% | 169.4 | 2026-08-04 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
@@ -33,6 +33,7 @@ The only company fielding competitive x86 server CPUs (EPYC) *and* merchant AI G
 ## Supply Chain
 ### Suppliers
 - [[TSM]] — fabs its CPUs/GPUs (Extreme chokepoint); [[MU]] · SK Hynix, Samsung (external) — HBM4
+- [[SNPS]] · [[CDNS]] — EDA tools that gate chip design ([[EDA & chip IP]])
 
 ### Customers
 - Hyperscalers (external) — OpenAI (6GW), Meta; [[DELL]] · [[HPE]] · [[SMCI]] — servers; PC OEMs (external)

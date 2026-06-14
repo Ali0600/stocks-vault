@@ -14,7 +14,7 @@ IBM is the portfolio's ballast: consulting + mainframe + Red Hat software, a 2.4
 | --- | --- | --- | --- | --- | --- |
 | $256B | $68.9B | +10% | 16% | 24.1 | 2026-07-22 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

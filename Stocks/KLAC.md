@@ -15,7 +15,7 @@ KLA dominates process control — the inspection and metrology systems that catc
 | --- | --- | --- | --- | --- | --- |
 | $332B | $13.1B | +12% | 36% | 71.9 | 2026-07-30 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

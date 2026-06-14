@@ -14,7 +14,7 @@ Artiva Biotherapeutics develops off-the-shelf NK-cell therapies, and has pivoted
 | --- | --- | --- | --- | --- | --- |
 | $415M | — | — | — | n/m | — |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -14,7 +14,7 @@ NVIDIA designs the GPUs, networking silicon and rack-scale systems that run most
 | --- | --- | --- | --- | --- | --- |
 | $4.97T | $253.5B | +85% | 63% | 31.4 | 2026-08-26 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
@@ -36,6 +36,7 @@ The [[CUDA]] software ecosystem locks in developers, and NVIDIA sells the whole 
 - [[TSM]] — fabs all its GPUs + CoWoS packaging (sole leading-edge; Extreme chokepoint)
 - [[MU]] · SK Hynix, Samsung (external) — HBM stacks (High chokepoint; sold out)
 - [[FN]] — contract manufacturing of optical/networking assemblies (NVIDIA ~28% of Fabrinet revenue)
+- [[SNPS]] · [[CDNS]] — EDA tools that gate every tape-out; [[ARM]] — CPU IP (Grace) ([[EDA & chip IP]])
 
 ### Customers
 - Hyperscalers — [[MSFT]] · [[GOOGL]] · Meta · Amazon — buy GPUs/systems at scale (Meta/Amazon external)

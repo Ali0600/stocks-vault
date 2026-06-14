@@ -1,7 +1,7 @@
 ---
 ticker: INTC
 sector: Semiconductors
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 # Intel Corporation (INTC)
 
@@ -14,7 +14,7 @@ Intel is the portfolio's turnaround story — and one of the market's most drama
 | --- | --- | --- | --- | --- | --- |
 | $626B | $53.8B | +7% | -6% | 80.8f | 2026-07-23 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
@@ -34,6 +34,7 @@ The only US-based leading-edge integrated device maker — it both designs and f
 ## Supply Chain
 ### Suppliers
 - [[AMAT]] · [[ASML]] · [[LRCX]] · [[KLAC]] — fab equipment
+- [[SNPS]] · [[CDNS]] — EDA tools that gate chip design ([[EDA & chip IP]])
 
 ### Customers
 - PC & server OEMs (external) — x86 CPUs; its 18A foundry aspires to serve external chip designers

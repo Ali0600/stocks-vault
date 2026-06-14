@@ -14,7 +14,7 @@ Marvell supplies custom AI silicon (XPUs for hyperscalers) and the electro-optic
 | --- | --- | --- | --- | --- | --- |
 | $245B | $8.7B | +28% | 29% | 96.1 | 2026-08-27 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
@@ -33,6 +33,7 @@ Combines [[Custom AI silicon|custom XPU/ASIC]] design with the electro-optics (D
 ## Supply Chain
 ### Suppliers
 - [[TSM]] — fabs its custom silicon (Extreme chokepoint) + ext back-end
+- [[SNPS]] · [[CDNS]] — EDA tools that gate chip design ([[EDA & chip IP]])
 
 ### Customers
 - Hyperscalers (external) — custom ASIC/XPU programs (AWS, Google, Microsoft, Meta)

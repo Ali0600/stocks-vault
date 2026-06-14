@@ -14,7 +14,7 @@ Super Micro builds AI servers and full racks, sitting between chip vendors and d
 | --- | --- | --- | --- | --- | --- |
 | $18B | $33.7B | +123% | 4% | 16.0 | 2026-08-04 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

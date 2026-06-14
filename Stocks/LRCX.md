@@ -15,7 +15,7 @@ Lam Research makes the etch and deposition equipment that carves and layers chip
 | --- | --- | --- | --- | --- | --- |
 | $459B | $21.7B | +24% | 31% | 69.5 | 2026-07-29 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

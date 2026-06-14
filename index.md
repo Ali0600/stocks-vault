@@ -12,7 +12,7 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Materials]] (1): [[MP]]
 - [[Networking & Optical]] (3+4*): [[AAOI]] · [[CIEN]]* · [[COHR]]* · [[FN]]* · [[LITE]]* · [[NOK]] · [[POET]]
 - [[Power & Infrastructure]] (0+2*): [[DY]]* · [[GEV]]*
-- [[Semiconductors]] (5+6*): [[AMAT]] · [[AMD]]* · [[ASML]]* · [[AVGO]]* · [[INTC]] · [[KLAC]]* · [[LRCX]]* · [[MRVL]] · [[MU]]* · [[NVDA]] · [[TSM]]
+- [[Semiconductors]] (5+9*): [[AMAT]] · [[AMD]]* · [[ARM]]* · [[ASML]]* · [[AVGO]]* · [[CDNS]]* · [[INTC]] · [[KLAC]]* · [[LRCX]]* · [[MRVL]] · [[MU]]* · [[NVDA]] · [[SNPS]]* · [[TSM]]
 - [[Software & Cloud]] (3+2*): [[GOOGL]]* · [[IBM]] · [[MSFT]] · [[NOW]] · [[ORCL]]*
 
 ## Maps
@@ -31,6 +31,7 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Liquid cooling]] — why air fails at GB200 densities
 - [[Neocloud economics]] — GPU-as-a-service and the GPU-backed debt model
 - [[Wafer-fab equipment]] — the five-vendor WFE oligopoly; ASML's EUV monopoly
+- [[EDA & chip IP]] — the Synopsys/Cadence design-tool duopoly + Arm IP; gates every chip before fab
 
 ## Articles
 - 2026-06-14 · [[2026-06-14 alphabet-incredible]] — Alphabet bull case; created GOOGL* watchlist note (Software & Cloud), wired NVDA→GOOGL + AVGO→GOOGL (TPU); Cloud +63%, >$100B/qtr verified; price-run/target not routed

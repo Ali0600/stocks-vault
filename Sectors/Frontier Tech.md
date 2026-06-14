@@ -2,7 +2,7 @@
 sector: Frontier Tech
 updated: 2026-06-11
 ---
-# Frontier Tech
+	# Frontier Tech
 
 ## Overview
 Pre-commercial moonshots: quantum computing, satellite direct-to-device, nuclear SMRs.

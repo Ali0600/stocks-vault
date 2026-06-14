@@ -14,7 +14,7 @@ AST SpaceMobile is building a satellite constellation that connects ordinary sma
 | --- | --- | --- | --- | --- | --- |
 | $32B | $85M | +1952% | 0% | n/m | 2026-08-10 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

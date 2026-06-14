@@ -15,7 +15,7 @@ Dell is a top builder of AI-optimized servers — turning NVIDIA and AMD silicon
 | --- | --- | --- | --- | --- | --- |
 | $256B | $134.0B | +88% | 6% | 31.5 | 2026-09-03 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

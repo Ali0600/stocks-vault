@@ -15,7 +15,7 @@ Ciena builds the coherent optical systems and DSPs that move data between data c
 | --- | --- | --- | --- | --- | --- |
 | $63B | $5.6B | +40% | 8% | 149.2 | 2026-06-04 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

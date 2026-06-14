@@ -15,7 +15,7 @@ Broadcom is the #1 custom-AI-chip co-designer and a networking-silicon powerhous
 | --- | --- | --- | --- | --- | --- |
 | $1.82T | $75.5B | +48% | 39% | 63.7 | 2026-09-03 |
 
-_Auto-updated 2026-06-13 via yfinance._
+_Auto-updated 2026-06-14 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
@@ -34,6 +34,7 @@ Designs the custom ASICs (XPUs) that Google (TPU), Meta (MTIA) and others use to
 ## Supply Chain
 ### Suppliers
 - [[TSM]] — fabs its silicon (Extreme chokepoint) + ext back-end
+- [[SNPS]] · [[CDNS]] — EDA tools that gate chip design ([[EDA & chip IP]])
 
 ### Customers
 - Hyperscalers — [[GOOGL]] (TPU), Meta (MTIA), OpenAI (external) — custom-ASIC programs; plus switch & system vendors

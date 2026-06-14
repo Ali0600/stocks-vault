@@ -11,6 +11,9 @@ are each stock note's `### Only They Do` → `**Chokepoint:**` line; update them
 there and reflect changes here.
 
 ## The chain (upstream → downstream)
+**Design enablement (gates everything below):** EDA software [[SNPS]] · [[CDNS]] and CPU IP
+[[ARM]] — required to design and verify any chip *before* it is fabbed; see [[EDA & chip IP]].
+
 1. **Raw inputs & materials** — [[Rare-earth magnets|rare-earth magnets]] [[MP]]; optical substrates
    (InP/SiC) made in-house by [[COHR]]. Silicon wafers, gases: not held.
 2. **[[Wafer-fab equipment|Fab equipment (WFE)]]** — [[AMAT]] (deposition/epi/implant),
@@ -46,6 +49,8 @@ there and reflect changes here.
 | **High** | [[AVGO]] | ~70% of custom-AI-ASIC co-design (Google/Meta/OpenAI) + AI Ethernet silicon; the main route around NVIDIA. |
 | **High** | [[NVDA]] | CUDA lock-in + supply allocation; escape routes (AMD ROCm, custom ASIC) exist but are immature. |
 | **High** | [[MU]] | One of only three HBM makers (with SK Hynix, Samsung); HBM is mandatory on every AI GPU and sold out through 2026. #3 by share but the only US-based source. |
+| **High** | [[SNPS]] · [[CDNS]] | The EDA software duopoly — essentially no advanced chip is designed or verified without their tools. Not Extreme (two viable vendors + Siemens EDA). |
+| **Medium–High** | [[ARM]] | Near-ubiquitous CPU IP (Grace, hyperscaler CPUs, mobile); deep ecosystem lock-in, but licensable and RISC-V is a growing royalty-free escape. |
 | **High (Western) / Low (global)** | [[MP]] | Sole scaled US rare-earth + magnet source; strategic for de-risking from China, but China sets global price. |
 | **Medium** | [[MRVL]] | Custom-ASIC + interconnect IP duopoly (with Broadcom). |
 | **Medium** | [[COHR]] · [[LITE]] · [[AAOI]] | Optical-interconnect capacity; vertically integrated/non-China supply is scarce but multi-sourced. |
@@ -81,8 +86,10 @@ graph LR
   AAOI[AAOI]:::medium
   AMAT[AMAT]:::high
   AMD[AMD]:::medium
+  ARM[ARM]:::high
   ASML[ASML]:::extreme
   AVGO[AVGO]:::high
+  CDNS[CDNS]:::high
   COHR[COHR]:::medium
   CRWV[CRWV]:::low
   DELL[DELL]:::low
@@ -101,6 +108,7 @@ graph LR
   NVDA[NVDA]:::high
   ORCL[ORCL]:::medium
   SMCI[SMCI]:::low
+  SNPS[SNPS]:::high
   TSM[TSM]:::extreme
   AMAT --> INTC
   AMAT --> MU
@@ -108,10 +116,16 @@ graph LR
   AMD --> DELL
   AMD --> HPE
   AMD --> SMCI
+  ARM --> NVDA
   ASML --> INTC
   ASML --> MU
   ASML --> TSM
   AVGO --> GOOGL
+  CDNS --> AMD
+  CDNS --> AVGO
+  CDNS --> INTC
+  CDNS --> MRVL
+  CDNS --> NVDA
   DELL --> CRWV
   FN --> LITE
   FN --> NVDA
@@ -137,13 +151,18 @@ graph LR
   NVDA --> ORCL
   NVDA --> SMCI
   SMCI --> CRWV
+  SNPS --> AMD
+  SNPS --> AVGO
+  SNPS --> INTC
+  SNPS --> MRVL
+  SNPS --> NVDA
   TSM --> AMD
   TSM --> AVGO
   TSM --> MRVL
   TSM --> NVDA
 ```
 
-_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 24 nodes, 39 edges. Auto-generated 2026-06-14 from each note's Supply Chain section._
+_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 27 nodes, 50 edges. Auto-generated 2026-06-15 from each note's Supply Chain section._
 <!-- graph:end -->
 
 ## Key dependencies
