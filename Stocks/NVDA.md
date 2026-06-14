@@ -38,7 +38,7 @@ The [[CUDA]] software ecosystem locks in developers, and NVIDIA sells the whole 
 - [[FN]] — contract manufacturing of optical/networking assemblies (NVIDIA ~28% of Fabrinet revenue)
 
 ### Customers
-- Hyperscalers — [[MSFT]], Google, Meta, Amazon (external) — buy GPUs/systems at scale
+- Hyperscalers — [[MSFT]] · [[GOOGL]] · Meta · Amazon — buy GPUs/systems at scale (Meta/Amazon external)
 - [[CRWV]] · [[NBIS]] · [[IREN]] — neoclouds that deploy its GPUs
 - [[SMCI]] · [[HPE]] · [[DELL]] — build its GPUs into servers
 - [[ORCL]] — buys NVIDIA GPUs for Oracle Cloud Infrastructure (OCI)

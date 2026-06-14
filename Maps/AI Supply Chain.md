@@ -87,6 +87,7 @@ graph LR
   CRWV[CRWV]:::low
   DELL[DELL]:::low
   FN[FN]:::medium
+  GOOGL[GOOGL]:::medium
   HPE[HPE]:::low
   INTC[INTC]:::medium
   IREN[IREN]:::low
@@ -110,6 +111,7 @@ graph LR
   ASML --> INTC
   ASML --> MU
   ASML --> TSM
+  AVGO --> GOOGL
   DELL --> CRWV
   FN --> LITE
   FN --> NVDA
@@ -127,6 +129,7 @@ graph LR
   MU --> NVDA
   NVDA --> CRWV
   NVDA --> DELL
+  NVDA --> GOOGL
   NVDA --> HPE
   NVDA --> IREN
   NVDA --> MSFT
@@ -140,7 +143,7 @@ graph LR
   TSM --> NVDA
 ```
 
-_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 23 nodes, 37 edges. Auto-generated 2026-06-14 from each note's Supply Chain section._
+_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 24 nodes, 39 edges. Auto-generated 2026-06-14 from each note's Supply Chain section._
 <!-- graph:end -->
 
 ## Key dependencies

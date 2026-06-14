@@ -1,7 +1,7 @@
 ---
 ticker: HOOD
 sector: Consumer & Fintech
-updated: 2026-06-12
+updated: 2026-06-14
 ---
 # Robinhood Markets, Inc. (HOOD)
 
@@ -28,7 +28,7 @@ The mobile-first, commission-free design that defined modern retail trading — 
 - Charles Schwab (SCHW) — incumbent brokerage scale
 - Coinbase (COIN) — crypto-trading overlap
 - Interactive Brokers (IBKR) — active-trader platform
-- Webull / SoFi (BULL/SOFI) — direct neobroker rivals
+- Webull (BULL) · [[SOFI]] — direct neobroker rivals
 
 ## Supply Chain
 ### Suppliers
@@ -36,6 +36,7 @@ The mobile-first, commission-free design that defined modern retail trading — 
 ### Customers
 
 ## Facts
+- 2026-06-12 — Among a handful of brokerages (with Fidelity, Charles Schwab, Morgan Stanley E*TRADE, and [[SOFI]]) given retail access to SpaceX's record $75B Nasdaq IPO; reported "record-breaking traffic" that day (reported) ([[2026-06-14 sofi-selloff-wall-street]])
 
 ## Contracts Awarded
 
@@ -46,3 +47,4 @@ The mobile-first, commission-free design that defined modern retail trading — 
 ## Open Questions
 
 ## Articles
+- [[2026-06-14 sofi-selloff-wall-street]]

@@ -8,6 +8,7 @@ updated: 2026-06-14
 Platform software incumbents navigating the AI transition.
 
 ## Members
+- [[GOOGL]] — Alphabet Inc. (watchlist)
 - [[IBM]] — International Business Machines Corporation
 - [[MSFT]] — Microsoft Corporation
 - [[NOW]] — ServiceNow, Inc.
