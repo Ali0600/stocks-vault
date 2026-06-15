@@ -38,6 +38,7 @@ The [[CUDA]] software ecosystem locks in developers, and NVIDIA sells the whole 
 - [[FN]] — contract manufacturing of optical/networking assemblies (NVIDIA ~28% of Fabrinet revenue)
 - [[SNPS]] · [[CDNS]] — EDA tools that gate every tape-out; [[ARM]] — CPU IP (Grace) ([[EDA & chip IP]])
 - [[MPWR]] — power-stage / VRM silicon for GPU boards
+- [[ALAB]] — PCIe/CXL retimers / connectivity in its GPU systems
 
 ### Customers
 - Hyperscalers — [[MSFT]] · [[GOOGL]] · Meta · Amazon — buy GPUs/systems at scale (Meta/Amazon external)

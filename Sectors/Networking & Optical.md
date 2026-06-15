@@ -1,6 +1,6 @@
 ---
 sector: Networking & Optical
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 # Networking & Optical
 
@@ -9,8 +9,11 @@ Optical transceivers, photonics and network gear connecting AI data centers.
 
 ## Members
 - [[AAOI]] — Applied Optoelectronics, Inc.
+- [[ALAB]] — Astera Labs, Inc. (watchlist)
+- [[ANET]] — Arista Networks, Inc. (watchlist)
 - [[CIEN]] — Ciena Corporation (watchlist)
 - [[COHR]] — Coherent Corp. (watchlist)
+- [[CRDO]] — Credo Technology Group Holding Ltd (watchlist)
 - [[FN]] — Fabrinet (watchlist)
 - [[LITE]] — Lumentum Holdings Inc. (watchlist)
 - [[NOK]] — Nokia Oyj

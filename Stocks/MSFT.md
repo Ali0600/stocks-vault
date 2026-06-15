@@ -34,6 +34,7 @@ The only company bundling a hyperscale cloud (Azure), the dominant productivity 
 ## Supply Chain
 ### Suppliers
 - [[NVDA]] — GPUs for Azure (High chokepoint) + ext AMD; own Maia silicon
+- [[ANET]] — AI/datacenter Ethernet switching; [[CRDO]] — active electrical cables
 
 ### Customers
 - Enterprises & consumers (external) — Azure, Office, Copilot

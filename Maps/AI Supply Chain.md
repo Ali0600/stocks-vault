@@ -26,8 +26,10 @@ there and reflect changes here.
    die — **a second hard bottleneck alongside foundry**, sold out through 2026.
 5. **Chip design** — GPUs [[NVDA]] ([[CUDA]] moat) + [[AMD]]; [[Custom AI silicon|custom ASICs]] [[AVGO]], [[MRVL]]; [[INTC]].
    All fabbed upstream at [[TSM]].
-6. **[[Optical interconnect]]** — transceivers [[AAOI]], [[COHR]], [[LITE]];
-   integration [[POET]]; DSP [[MRVL]]; systems [[NOK]], [[CIEN]]; contract mfg [[FN]]. Wires GPUs into clusters (scale-out; see [[GPU interconnect]]).
+6. **[[Optical interconnect]] & [[AI cluster networking|fabric]]** — transceivers [[AAOI]], [[COHR]], [[LITE]];
+   integration [[POET]]; DSP [[MRVL]]; systems [[NOK]], [[CIEN]]; contract mfg [[FN]]; merchant
+   Ethernet switching [[ANET]] (on [[AVGO]] silicon); connectivity silicon — retimers/AECs —
+   [[ALAB]] · [[CRDO]]. Wires GPUs into clusters (scale-out; see [[GPU interconnect]]).
 7. **Servers & systems** — [[SMCI]], [[HPE]], [[DELL]]. Assembly layer; abundant — [[Liquid cooling|liquid-cooled]] at GB200 densities.
 8. **[[Datacenter power|Power]], grid & buildout** — generation + grid equipment [[GEV]]
    (transformers, switchgear, gas/nuclear turbines — multi-year lead times); datacenter
@@ -56,6 +58,7 @@ there and reflect changes here.
 | **High (Western) / Low (global)** | [[MP]] | Sole scaled US rare-earth + magnet source; strategic for de-risking from China, but China sets global price. |
 | **Medium** | [[MRVL]] | Custom-ASIC + interconnect IP duopoly (with Broadcom). |
 | **Medium** | [[COHR]] · [[LITE]] · [[AAOI]] | Optical-interconnect capacity; vertically integrated/non-China supply is scarce but multi-sourced. |
+| **Medium** | [[ANET]] · [[ALAB]] · [[CRDO]] | AI cluster networking — merchant Ethernet switching (Arista) + connectivity silicon/retimers/AECs; strong and fast-growing, but multi-sourced and competing with NVIDIA/Broadcom. |
 | **Medium** | [[GEV]] | Large grid transformers/switchgear + gas/nuclear turbines; multi-year lead times gate datacenter energization. One of several global makers (Siemens Energy, Hitachi Energy, ABB). |
 | **Medium** | [[VRT]] · [[MPWR]] | Integrated datacenter power+thermal (Vertiv UPS/switchgear/CDUs) and GPU board-power silicon (Monolithic VRMs) — real AI-rack deployment constraints, but multi-sourced. |
 | **Medium** | [[IBM]] | Mainframe sole-supply — real, but a shrinking niche, off the AI critical path. |
@@ -87,13 +90,16 @@ graph LR
   classDef low fill:#3f3f46,color:#fff,stroke:#18181b;
   classDef none fill:#52525b,color:#fff,stroke:#27272a;
   AAOI[AAOI]:::medium
+  ALAB[ALAB]:::medium
   AMAT[AMAT]:::high
   AMD[AMD]:::medium
+  ANET[ANET]:::medium
   ARM[ARM]:::high
   ASML[ASML]:::extreme
   AVGO[AVGO]:::high
   CDNS[CDNS]:::high
   COHR[COHR]:::medium
+  CRDO[CRDO]:::medium
   CRWV[CRWV]:::low
   DELL[DELL]:::low
   FN[FN]:::medium
@@ -115,22 +121,27 @@ graph LR
   SNPS[SNPS]:::high
   TSM[TSM]:::extreme
   VRT[VRT]:::medium
+  ALAB --> NVDA
+  ALAB --> SMCI
   AMAT --> INTC
   AMAT --> MU
   AMAT --> TSM
   AMD --> DELL
   AMD --> HPE
   AMD --> SMCI
+  ANET --> MSFT
   ARM --> NVDA
   ASML --> INTC
   ASML --> MU
   ASML --> TSM
+  AVGO --> ANET
   AVGO --> GOOGL
   CDNS --> AMD
   CDNS --> AVGO
   CDNS --> INTC
   CDNS --> MRVL
   CDNS --> NVDA
+  CRDO --> MSFT
   DELL --> CRWV
   FN --> LITE
   FN --> NVDA
@@ -170,7 +181,7 @@ graph LR
   VRT --> IREN
 ```
 
-_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 29 nodes, 53 edges. Auto-generated 2026-06-15 from each note's Supply Chain section._
+_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 32 nodes, 58 edges. Auto-generated 2026-06-15 from each note's Supply Chain section._
 <!-- graph:end -->
 
 ## Key dependencies

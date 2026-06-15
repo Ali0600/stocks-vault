@@ -10,7 +10,7 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Consumer & Fintech]] (3+1*): [[BYND]] · [[HOOD]] · [[SOFI]]* · [[TTWO]]
 - [[Frontier Tech]] (3): [[ASTS]] · [[OKLO]] · [[RGTI]]
 - [[Materials]] (1): [[MP]]
-- [[Networking & Optical]] (3+4*): [[AAOI]] · [[CIEN]]* · [[COHR]]* · [[FN]]* · [[LITE]]* · [[NOK]] · [[POET]]
+- [[Networking & Optical]] (3+7*): [[AAOI]] · [[ALAB]]* · [[ANET]]* · [[CIEN]]* · [[COHR]]* · [[CRDO]]* · [[FN]]* · [[LITE]]* · [[NOK]] · [[POET]]
 - [[Power & Infrastructure]] (0+4*): [[DY]]* · [[ETN]]* · [[GEV]]* · [[VRT]]*
 - [[Semiconductors]] (5+10*): [[AMAT]] · [[AMD]]* · [[ARM]]* · [[ASML]]* · [[AVGO]]* · [[CDNS]]* · [[INTC]] · [[KLAC]]* · [[LRCX]]* · [[MPWR]]* · [[MRVL]] · [[MU]]* · [[NVDA]] · [[SNPS]]* · [[TSM]]
 - [[Software & Cloud]] (3+2*): [[GOOGL]]* · [[IBM]] · [[MSFT]] · [[NOW]] · [[ORCL]]*
@@ -32,6 +32,7 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Neocloud economics]] — GPU-as-a-service and the GPU-backed debt model
 - [[Wafer-fab equipment]] — the five-vendor WFE oligopoly; ASML's EUV monopoly
 - [[EDA & chip IP]] — the Synopsys/Cadence design-tool duopoly + Arm IP; gates every chip before fab
+- [[AI cluster networking]] — scale-up vs scale-out fabrics; the switching/retimer/AEC layer that wires GPU clusters
 
 ## Articles
 - 2026-06-14 · [[2026-06-14 alphabet-incredible]] — Alphabet bull case; created GOOGL* watchlist note (Software & Cloud), wired NVDA→GOOGL + AVGO→GOOGL (TPU); Cloud +63%, >$100B/qtr verified; price-run/target not routed

@@ -32,7 +32,7 @@ A building-block modular server design plus rack-scale direct liquid cooling typ
 
 ## Supply Chain
 ### Suppliers
-- [[NVDA]] — GPUs (the key input; High chokepoint); [[AMD]] — CPUs/GPUs; + ext components
+- [[NVDA]] — GPUs (the key input; High chokepoint); [[AMD]] — CPUs/GPUs; [[ALAB]] — connectivity retimers; + ext components
 
 ### Customers
 - Hyperscalers & enterprises (external); [[CRWV]] · xAI (external) — neoclouds

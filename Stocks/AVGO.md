@@ -37,7 +37,7 @@ Designs the custom ASICs (XPUs) that Google (TPU), Meta (MTIA) and others use to
 - [[SNPS]] · [[CDNS]] — EDA tools that gate chip design ([[EDA & chip IP]])
 
 ### Customers
-- Hyperscalers — [[GOOGL]] (TPU), Meta (MTIA), OpenAI (external) — custom-ASIC programs; plus switch & system vendors
+- Hyperscalers — [[GOOGL]] (TPU), Meta (MTIA), OpenAI (external) — custom-ASIC programs; switch silicon → [[ANET]]; plus other switch & system vendors
 
 ## Facts
 - 2026-06-13 — AI semiconductor revenue ~$10.8B in Q2 FY26 (+143% YoY), guided ~$16B for Q3, on a ~$73B AI backlog; ~70% of the custom-AI-accelerator market via Google/Meta/OpenAI programs (reported) ([[Custom AI silicon]])
