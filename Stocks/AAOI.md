@@ -12,9 +12,9 @@ Applied Optoelectronics makes the [[Optical interconnect|optical transceivers]] 
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $14B | $507M | +51% | -9% | 35.4f | 2026-08-06 |
+| $15B | $507M | +51% | -9% | 40.1f | 2026-08-06 |
 
-_Auto-updated 2026-06-14 via yfinance._
+_Auto-updated 2026-06-15 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

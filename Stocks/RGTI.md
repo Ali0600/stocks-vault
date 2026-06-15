@@ -12,9 +12,9 @@ Rigetti builds superconducting quantum computers — a real lab business with a 
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $7B | $10M | +199% | 0% | n/m | 2026-05-11 |
+| $8B | $10M | +199% | 0% | n/m | 2026-05-11 |
 
-_Auto-updated 2026-06-14 via yfinance._
+_Auto-updated 2026-06-15 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

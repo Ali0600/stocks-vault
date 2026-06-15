@@ -12,9 +12,9 @@ Taiwan Semiconductor manufactures the leading-edge chips nearly everyone else in
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $2.20T | $4103.9B | +35% | 47% | 36.5 | 2026-07-16 |
+| $2.29T | $4103.9B | +35% | 47% | 38.0 | 2026-07-16 |
 
-_Auto-updated 2026-06-14 via yfinance._
+_Auto-updated 2026-06-15 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -12,9 +12,9 @@ Intel is the portfolio's turnaround story — and one of the market's most drama
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $626B | $53.8B | +7% | -6% | 80.8f | 2026-07-23 |
+| $643B | $53.8B | +7% | -6% | 82.9f | 2026-07-23 |
 
-_Auto-updated 2026-06-14 via yfinance._
+_Auto-updated 2026-06-15 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

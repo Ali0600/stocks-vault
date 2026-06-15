@@ -12,9 +12,9 @@ Take-Two owns Rockstar (Grand Theft Auto) and 2K — and the investment case is 
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $39B | $6.7B | +6% | -4% | 21.0f | 2026-08-10 |
+| $40B | $6.7B | +6% | -4% | 21.4f | 2026-08-10 |
 
-_Auto-updated 2026-06-14 via yfinance._
+_Auto-updated 2026-06-15 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

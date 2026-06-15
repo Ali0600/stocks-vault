@@ -50,9 +50,9 @@ Source was an Obsidian Web Clip; raw clip in `_inbox/`. Price baseline is the 20
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| APLD | $42.70 | $42.70 | +0.00% |
-| DY | $469.00 | $469.00 | +0.00% |
-| GEV | $940.66 | $940.66 | +0.00% |
+| APLD | $42.70 | $46.47 | +8.83% |
+| DY | $469.00 | $471.30 | +0.49% |
+| GEV | $940.66 | $979.07 | +4.08% |
 
-_Prices refreshed 2026-06-14 (latest close 2026-06-12)._
+_Prices refreshed 2026-06-15 (latest close 2026-06-15)._
 <!-- prices:end -->

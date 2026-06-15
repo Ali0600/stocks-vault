@@ -12,9 +12,9 @@ Applied Materials sells the equipment that makes chipmaking possible — deposit
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $450B | $29.0B | +11% | 29% | 53.5 | 2026-08-13 |
+| $465B | $29.0B | +11% | 29% | 55.2 | 2026-08-13 |
 
-_Auto-updated 2026-06-14 via yfinance._
+_Auto-updated 2026-06-15 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -12,9 +12,9 @@ Super Micro builds AI servers and full racks, sitting between chip vendors and d
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $18B | $33.7B | +123% | 4% | 16.0 | 2026-08-04 |
+| $19B | $33.7B | +123% | 4% | 16.2 | 2026-08-04 |
 
-_Auto-updated 2026-06-14 via yfinance._
+_Auto-updated 2026-06-15 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
