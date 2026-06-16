@@ -35,6 +35,8 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[AI cluster networking]] — scale-up vs scale-out fabrics; the switching/retimer/AEC layer that wires GPU clusters
 
 ## Articles
+- 2026-06-16 · [[2026-06-16 mrvl-record-highs-valuation]] — MRVL FQ1 FY27 $2.42B +28% verified, ~59% GM, $11.5B/$16.5B FY guide, Celestial AI photonics buy, ~$1B supplier prepayments, ~915M shares; valuation/rating not routed
+- 2026-06-16 · [[2026-06-16 sofi-golden-opportunity]] — SOFI Q1 record net rev $1.1B +43% verified, EBITDA $340M +62%, members 14.7M +35%, Q2 guide +30%; valuation/rating not routed
 - 2026-06-14 · [[2026-06-14 alphabet-incredible]] — Alphabet bull case; created GOOGL* watchlist note (Software & Cloud), wired NVDA→GOOGL + AVGO→GOOGL (TPU); Cloud +63%, >$100B/qtr verified; price-run/target not routed
 - 2026-06-14 · [[2026-06-14 sofi-selloff-wall-street]] — SOFI selloff roundup (+ bundled HOOD/SpaceX piece); created SOFI* watchlist note; routed SOFI Q1 tech-segment decline + SpaceX IPO access (SOFI & HOOD); targets/ratings not routed
 - 2026-06-13 · [[2026-06-13 nebius-revenue-684-growth]] — NBIS Q1 revenue +684% verified ($399M vs $50.9M); ≥100MW sites 1→7, run-rate $1.25B→$1.9B→$7–9B guide; "+135%" price claim corrected to +170% (not routed)

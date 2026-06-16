@@ -2,7 +2,7 @@
 ticker: SOFI
 sector: Consumer & Fintech
 tracked: false
-updated: 2026-06-14
+updated: 2026-06-16
 ---
 # SoFi Technologies, Inc. (SOFI)
 
@@ -39,15 +39,18 @@ A one-app financial stack — lending + banking + brokerage + a B2B fintech-infr
 ## Facts
 - 2026-06-14 — Q1 2026 Technology Platform segment revenue declined as a major client left the platform; despite a Q1 beat, management did not raise full-year guidance and Q2 guidance came in light — pointing to a slowdown in capital-light / fee-based businesses (reported) ([[2026-06-14 sofi-selloff-wall-street]])
 - 2026-06-12 — Among the brokerages (with Fidelity, Charles Schwab, Morgan Stanley E*TRADE, and Robinhood [[HOOD]]) granted retail access to SpaceX's $75B Nasdaq IPO (reported) ([[2026-06-14 sofi-selloff-wall-street]])
+- 2026-06-16 — Q1 2026 record GAAP net revenue $1.1B, +43% YoY (adjusted $1.087B, +41%); adjusted EBITDA record $340M, +62% YoY; members +35% YoY to 14.7M (+1.1M in the quarter), cross-buy 43% (verified: yfinance) ([[2026-06-16 sofi-golden-opportunity]])
 
 ## Contracts Awarded
 
 ## Dilutions
 
 ## Speculations
+- 2026-06-16 — Guides Q2 2026 adjusted net revenue ~$1.1B (+30% YoY) (status: open) ([[2026-06-16 sofi-golden-opportunity]])
 
 ## Open Questions
 - Can SoFi reaccelerate its capital-light Technology Platform after the major-client loss?
 
 ## Articles
 - [[2026-06-14 sofi-selloff-wall-street]]
+- [[2026-06-16 sofi-golden-opportunity]]
