@@ -59,11 +59,11 @@ Obsidian Web Clip (TipRanks is Cloudflare-walled); the raw clip is in
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| CRWV | $95.74 | $106.71 | +11.46% |
-| DELL | $391.45 | $409.07 | +4.50% |
-| HPE | $46.80 | $49.02 | +4.74% |
-| NVDA | $204.87 | $212.45 | +3.70% |
-| SMCI | $31.97 | $30.85 | -3.50% |
+| CRWV | $95.74 | $117.03 | +22.24% |
+| DELL | $391.45 | $404.08 | +3.23% |
+| HPE | $46.80 | $48.38 | +3.38% |
+| NVDA | $204.87 | $207.41 | +1.24% |
+| SMCI | $31.97 | $29.22 | -8.60% |
 
-_Prices refreshed 2026-06-15 (latest close 2026-06-15)._
+_Prices refreshed 2026-06-16 (latest close 2026-06-16)._
 <!-- prices:end -->

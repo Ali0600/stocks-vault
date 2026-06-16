@@ -13,9 +13,9 @@ Arm licenses the dominant CPU instruction-set architecture and core IP — in ne
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $441B | $4.9B | +20% | 18% | 491.1 | 2026-07-29 |
+| $423B | $4.9B | +20% | 18% | 455.6 | 2026-07-29 |
 
-_Auto-updated 2026-06-15 via yfinance._
+_Auto-updated 2026-06-16 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

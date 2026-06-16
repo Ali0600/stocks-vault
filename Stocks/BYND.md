@@ -12,9 +12,9 @@ Beyond Meat is the portfolio's distressed name: the plant-based meat category sh
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $362M | $265M | -15% | 95% | n/m | 2026-08-05 |
+| $353M | $265M | -15% | 95% | n/m | 2026-08-05 |
 
-_Auto-updated 2026-06-15 via yfinance._
+_Auto-updated 2026-06-16 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

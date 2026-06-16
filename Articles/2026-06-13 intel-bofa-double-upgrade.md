@@ -51,8 +51,8 @@ upgrader) — neither routed.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| INTC | $124.57 | $127.86 | +2.64% |
-| TSM | $423.93 | $441.40 | +4.12% |
+| INTC | $124.57 | $117.05 | -6.04% |
+| TSM | $423.93 | $425.83 | +0.45% |
 
-_Prices refreshed 2026-06-15 (latest close 2026-06-15)._
+_Prices refreshed 2026-06-16 (latest close 2026-06-16)._
 <!-- prices:end -->

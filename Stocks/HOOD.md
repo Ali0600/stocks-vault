@@ -12,9 +12,9 @@ Robinhood has evolved from meme-trading app to diversified retail-finance platfo
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $88B | $4.6B | +15% | 41% | 47.6 | 2026-07-29 |
+| $87B | $4.6B | +15% | 41% | 46.9 | 2026-07-29 |
 
-_Auto-updated 2026-06-15 via yfinance._
+_Auto-updated 2026-06-16 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

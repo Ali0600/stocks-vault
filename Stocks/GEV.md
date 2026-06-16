@@ -13,9 +13,9 @@ GE Vernova is the energy business spun out of GE (2024): gas/nuclear/hydro/steam
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $263B | $39.4B | +16% | 24% | 28.6 | 2026-07-22 |
+| $264B | $39.4B | +16% | 24% | 28.7 | 2026-07-22 |
 
-_Auto-updated 2026-06-15 via yfinance._
+_Auto-updated 2026-06-16 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

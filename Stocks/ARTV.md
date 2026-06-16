@@ -12,9 +12,9 @@ Artiva Biotherapeutics develops off-the-shelf NK-cell therapies, and has pivoted
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $446M | — | — | — | n/m | — |
+| $433M | — | — | — | n/m | — |
 
-_Auto-updated 2026-06-15 via yfinance._
+_Auto-updated 2026-06-16 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

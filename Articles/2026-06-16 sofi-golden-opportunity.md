@@ -41,7 +41,7 @@ flagged: high rates pressuring lending/deposits/NIM, high marketing spend, credi
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| SOFI | $17.13 | $17.13 | +0.00% |
+| SOFI | $17.13 | $17.71 | +3.39% |
 
-_Prices refreshed 2026-06-16 (latest close 2026-06-15)._
+_Prices refreshed 2026-06-16 (latest close 2026-06-16)._
 <!-- prices:end -->

@@ -12,9 +12,9 @@ Oklo develops compact fast-fission reactors and aims to sell power (not reactors
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $11B | — | — | — | n/m | 2026-08-10 |
+| $10B | — | — | — | n/m | 2026-08-10 |
 
-_Auto-updated 2026-06-15 via yfinance._
+_Auto-updated 2026-06-16 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

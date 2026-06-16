@@ -47,7 +47,7 @@ mentions: AMZN, [[GOOGL]], [[MSFT]] (hyperscaler customers), [[NVDA]], [[AVGO]] 
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| MRVL | $279.70 | $279.70 | +0.00% |
+| MRVL | $279.70 | $278.67 | -0.37% |
 
-_Prices refreshed 2026-06-16 (last available close 2026-06-12; MRVL 06-15/06-16 not yet in yfinance)._
+_Prices refreshed 2026-06-16 (latest close 2026-06-16)._
 <!-- prices:end -->
