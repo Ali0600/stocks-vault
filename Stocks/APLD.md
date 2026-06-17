@@ -15,7 +15,7 @@ Applied Digital develops and operates AI/HPC data centers in North America — a
 | --- | --- | --- | --- | --- | --- |
 | $13B | $319M | +139% | -59% | n/m | 2026-07-29 |
 
-_Auto-updated 2026-06-16 via yfinance._
+_Auto-updated 2026-06-17 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

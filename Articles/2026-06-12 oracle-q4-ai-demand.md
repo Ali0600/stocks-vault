@@ -51,7 +51,7 @@ Alphabet (GOOGL) — named only as better-capitalized hyperscaler peers, not rou
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| ORCL | $184.13 | $188.33 | +2.28% |
+| ORCL | $184.13 | $183.53 | -0.33% |
 
-_Prices refreshed 2026-06-16 (latest close 2026-06-16)._
+_Prices refreshed 2026-06-17 (latest close 2026-06-17)._
 <!-- prices:end -->

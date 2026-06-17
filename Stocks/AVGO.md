@@ -13,9 +13,9 @@ Broadcom is the #1 custom-AI-chip co-designer and a networking-silicon powerhous
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $1.79T | $75.5B | +48% | 39% | 62.5 | 2026-09-03 |
+| $1.87T | $75.5B | +48% | 39% | 65.2 | 2026-09-03 |
 
-_Auto-updated 2026-06-16 via yfinance._
+_Auto-updated 2026-06-17 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

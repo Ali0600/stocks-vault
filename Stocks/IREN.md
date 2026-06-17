@@ -12,9 +12,9 @@ IREN pivoted from bitcoin mining to AI data centers — renewable-powered sites 
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $21B | $757M | -0% | 21% | 76.9 | 2026-08-27 |
+| $21B | $757M | -0% | 21% | 75.5 | 2026-08-27 |
 
-_Auto-updated 2026-06-16 via yfinance._
+_Auto-updated 2026-06-17 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

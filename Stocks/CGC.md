@@ -12,9 +12,9 @@ Canopy Growth was once cannabis' flagship; at $1.01 (~$454M cap) it now trades o
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $430M | $278M | +10% | -117% | n/m | 2026-08-07 |
+| $423M | $285M | +10% | -92% | n/m | 2026-08-07 |
 
-_Auto-updated 2026-06-16 via yfinance._
+_Auto-updated 2026-06-17 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

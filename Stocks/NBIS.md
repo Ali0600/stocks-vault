@@ -12,9 +12,9 @@ Nebius (the ex-Yandex international business) operates AI-focused GPU cloud infr
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $67B | $878M | +684% | 93% | 102.0 | 2026-08-06 |
+| $71B | $878M | +684% | 93% | 108.0 | 2026-08-06 |
 
-_Auto-updated 2026-06-16 via yfinance._
+_Auto-updated 2026-06-17 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

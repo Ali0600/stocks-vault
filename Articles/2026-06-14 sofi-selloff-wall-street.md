@@ -43,8 +43,8 @@ Passing mentions: SpaceX (SPCX), Schwab (SCHW), Morgan Stanley (MS), Meta/Tesla 
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| HOOD | $93.19 | $96.71 | +3.78% |
-| SOFI | $16.58 | $17.71 | +6.82% |
+| HOOD | $93.19 | $105.20 | +12.89% |
+| SOFI | $16.58 | $17.42 | +5.07% |
 
-_Prices refreshed 2026-06-16 (latest close 2026-06-16)._
+_Prices refreshed 2026-06-17 (latest close 2026-06-17)._
 <!-- prices:end -->

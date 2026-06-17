@@ -13,9 +13,9 @@ ASML makes the photolithography machines that print chip circuitry — and it is
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $695B | $33.7B | +13% | 30% | 60.3 | 2026-07-15 |
+| $720B | $33.7B | +13% | 30% | 62.4 | 2026-07-15 |
 
-_Auto-updated 2026-06-16 via yfinance._
+_Auto-updated 2026-06-17 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
