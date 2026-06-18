@@ -13,9 +13,9 @@ Eaton is a diversified power-management company — electrical components, power
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $159B | $28.5B | +17% | 14% | 40.0 | 2026-08-04 |
+| $164B | $28.5B | +17% | 14% | 41.2 | 2026-08-04 |
 
-_Auto-updated 2026-06-17 via yfinance._
+_Auto-updated 2026-06-18 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

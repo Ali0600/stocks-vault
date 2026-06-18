@@ -42,7 +42,7 @@ GPUs) and AVGO (TPU co-design). Source: Obsidian Web Clip; raw clip in `_inbox/`
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| GOOGL | $359.68 | $363.79 | +1.14% |
+| GOOGL | $359.68 | $368.03 | +2.32% |
 
-_Prices refreshed 2026-06-17 (latest close 2026-06-17)._
+_Prices refreshed 2026-06-18 (latest close 2026-06-18)._
 <!-- prices:end -->

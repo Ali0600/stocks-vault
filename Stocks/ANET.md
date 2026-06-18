@@ -13,9 +13,9 @@ Arista is the leading merchant data-center networking vendor — high-speed Ethe
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $208B | $9.7B | +35% | 38% | 56.7 | 2026-08-04 |
+| $214B | $9.7B | +35% | 38% | 58.3 | 2026-08-04 |
 
-_Auto-updated 2026-06-17 via yfinance._
+_Auto-updated 2026-06-18 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
