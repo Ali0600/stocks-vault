@@ -15,7 +15,7 @@ Broadcom is the #1 custom-AI-chip co-designer and a networking-silicon powerhous
 | --- | --- | --- | --- | --- | --- |
 | $1.96T | $75.5B | +48% | 39% | 68.2 | 2026-09-03 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

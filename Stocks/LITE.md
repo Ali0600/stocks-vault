@@ -17,7 +17,7 @@ Watchlist note: entered the vault via optics-rally coverage, no portfolio positi
 | --- | --- | --- | --- | --- | --- |
 | $66B | $2.5B | +90% | 18% | 149.4 | 2026-08-12 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

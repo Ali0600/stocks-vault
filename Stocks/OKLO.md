@@ -14,7 +14,7 @@ Oklo develops compact fast-fission reactors and aims to sell power (not reactors
 | --- | --- | --- | --- | --- | --- |
 | $11B | — | — | — | n/m | 2026-08-10 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

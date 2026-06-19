@@ -14,7 +14,7 @@ Take-Two owns Rockstar (Grand Theft Auto) and 2K — and the investment case is 
 | --- | --- | --- | --- | --- | --- |
 | $44B | $6.7B | +6% | -4% | 23.7f | 2026-08-10 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

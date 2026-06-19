@@ -18,7 +18,7 @@ vault via optics-rally coverage, no portfolio position.
 | --- | --- | --- | --- | --- | --- |
 | $76B | $6.6B | +20% | 7% | 184.6 | 2026-05-06 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

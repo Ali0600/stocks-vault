@@ -15,7 +15,7 @@ SoFi is a digital personal-finance platform spanning consumer lending, banking/f
 | --- | --- | --- | --- | --- | --- |
 | $23B | $3.9B | +42% | 15% | 39.8 | 2026-07-28 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -14,7 +14,7 @@ Marvell supplies custom AI silicon (XPUs for hyperscalers) and the electro-optic
 | --- | --- | --- | --- | --- | --- |
 | $272B | $8.7B | +28% | 29% | 107.1 | 2026-08-27 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

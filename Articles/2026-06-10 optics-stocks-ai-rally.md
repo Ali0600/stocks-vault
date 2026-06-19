@@ -56,5 +56,5 @@ the close.
 | LITE | $853.26 | $850.00 | -0.38% |
 | NVDA | $200.42 | $210.69 | +5.12% |
 
-_Prices refreshed 2026-06-18 (latest close 2026-06-18)._
+_Prices refreshed 2026-06-19 (latest close 2026-06-18)._
 <!-- prices:end -->

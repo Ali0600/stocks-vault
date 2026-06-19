@@ -15,7 +15,7 @@ Arista is the leading merchant data-center networking vendor — high-speed Ethe
 | --- | --- | --- | --- | --- | --- |
 | $214B | $9.7B | +35% | 38% | 58.3 | 2026-08-04 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

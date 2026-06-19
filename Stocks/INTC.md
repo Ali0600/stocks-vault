@@ -14,7 +14,7 @@ Intel is the portfolio's turnaround story — and one of the market's most drama
 | --- | --- | --- | --- | --- | --- |
 | $673B | $53.8B | +7% | -6% | 86.7f | 2026-07-23 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

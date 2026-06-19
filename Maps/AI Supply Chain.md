@@ -181,7 +181,7 @@ graph LR
   VRT --> IREN
 ```
 
-_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 32 nodes, 58 edges. Auto-generated 2026-06-18 from each note's Supply Chain section._
+_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 32 nodes, 58 edges. Auto-generated 2026-06-19 from each note's Supply Chain section._
 <!-- graph:end -->
 
 ## Key dependencies

@@ -17,7 +17,7 @@ note: entered the vault via Situational Awareness coverage, no portfolio positio
 | --- | --- | --- | --- | --- | --- |
 | $64B | $6.2B | +112% | -26% | n/m | 2026-05-07 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

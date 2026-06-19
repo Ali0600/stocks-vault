@@ -53,5 +53,5 @@ Alphabet (GOOGL) — named only as better-capitalized hyperscaler peers, not rou
 | --- | --- | --- | --- |
 | ORCL | $184.13 | $184.29 | +0.09% |
 
-_Prices refreshed 2026-06-18 (latest close 2026-06-18)._
+_Prices refreshed 2026-06-19 (latest close 2026-06-18)._
 <!-- prices:end -->

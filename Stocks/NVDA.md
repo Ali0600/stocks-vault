@@ -14,7 +14,7 @@ NVIDIA designs the GPUs, networking silicon and rack-scale systems that run most
 | --- | --- | --- | --- | --- | --- |
 | $5.10T | $253.5B | +85% | 63% | 32.3 | 2026-08-26 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

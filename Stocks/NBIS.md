@@ -14,7 +14,7 @@ Nebius (the ex-Yandex international business) operates AI-focused GPU cloud infr
 | --- | --- | --- | --- | --- | --- |
 | $73B | $878M | +684% | 93% | 110.3 | 2026-08-06 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

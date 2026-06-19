@@ -54,5 +54,5 @@ Source was an Obsidian Web Clip; raw clip in `_inbox/`. Price baseline is the 20
 | DY | $469.00 | $456.65 | -2.63% |
 | GEV | $940.66 | $1109.73 | +17.97% |
 
-_Prices refreshed 2026-06-18 (latest close 2026-06-18)._
+_Prices refreshed 2026-06-19 (latest close 2026-06-18)._
 <!-- prices:end -->

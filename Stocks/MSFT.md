@@ -14,7 +14,7 @@ Microsoft is the portfolio's out-of-favor megacap: cloud + Office + Copilot at a
 | --- | --- | --- | --- | --- | --- |
 | $2.82T | $318.3B | +18% | 39% | 22.6 | 2026-07-29 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

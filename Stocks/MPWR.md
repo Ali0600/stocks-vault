@@ -15,7 +15,7 @@ Monolithic Power is a fabless power-management chipmaker — DC-DC voltage regul
 | --- | --- | --- | --- | --- | --- |
 | $77B | $3.0B | +26% | 23% | 112.2 | 2026-07-30 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

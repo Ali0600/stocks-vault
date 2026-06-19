@@ -15,7 +15,7 @@ AMD is the only credible alternative to both Intel (x86 CPUs) and NVIDIA (data-c
 | --- | --- | --- | --- | --- | --- |
 | $876B | $37.5B | +38% | 13% | 179.7 | 2026-08-04 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

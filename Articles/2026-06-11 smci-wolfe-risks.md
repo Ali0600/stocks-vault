@@ -65,5 +65,5 @@ Obsidian Web Clip (TipRanks is Cloudflare-walled); the raw clip is in
 | NVDA | $204.87 | $210.69 | +2.84% |
 | SMCI | $31.97 | $30.66 | -4.10% |
 
-_Prices refreshed 2026-06-18 (latest close 2026-06-18)._
+_Prices refreshed 2026-06-19 (latest close 2026-06-18)._
 <!-- prices:end -->

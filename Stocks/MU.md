@@ -20,7 +20,7 @@ position.
 | --- | --- | --- | --- | --- | --- |
 | $1.28T | $58.1B | +196% | 41% | 53.4 | 2026-06-24 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

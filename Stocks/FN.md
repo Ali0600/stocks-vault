@@ -15,7 +15,7 @@ Fabrinet is the contract manufacturer behind much of the optics industry — and
 | --- | --- | --- | --- | --- | --- |
 | $21B | $4.2B | +39% | 10% | 49.3 | 2026-05-04 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

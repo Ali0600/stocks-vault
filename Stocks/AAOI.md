@@ -14,7 +14,7 @@ Applied Optoelectronics makes the [[Optical interconnect|optical transceivers]] 
 | --- | --- | --- | --- | --- | --- |
 | $13B | $507M | +51% | -9% | 33.9f | 2026-08-06 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

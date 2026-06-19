@@ -14,7 +14,7 @@ Hewlett Packard Enterprise is the establishment way to own AI servers: enterpris
 | --- | --- | --- | --- | --- | --- |
 | $63B | $38.8B | +40% | 4% | 44.3 | 2026-06-01 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

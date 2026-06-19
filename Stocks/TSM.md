@@ -14,7 +14,7 @@ Taiwan Semiconductor manufactures the leading-edge chips nearly everyone else in
 | --- | --- | --- | --- | --- | --- |
 | $2.40T | $4103.9B | +35% | 47% | 39.7 | 2026-07-16 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

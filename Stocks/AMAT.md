@@ -14,7 +14,7 @@ Applied Materials sells the equipment that makes chipmaking possible — deposit
 | --- | --- | --- | --- | --- | --- |
 | $490B | $29.0B | +11% | 29% | 58.1 | 2026-08-13 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

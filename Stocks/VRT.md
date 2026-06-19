@@ -15,7 +15,7 @@ Vertiv designs and services critical datacenter infrastructure — AC/DC power (
 | --- | --- | --- | --- | --- | --- |
 | $128B | $10.8B | +30% | 14% | 83.7 | 2026-07-29 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

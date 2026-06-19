@@ -14,7 +14,7 @@ MP Materials operates Mountain Pass, the only scaled US rare-earth mine, and is 
 | --- | --- | --- | --- | --- | --- |
 | $11B | $348M | +119% | -20% | 52.9f | 2026-08-06 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

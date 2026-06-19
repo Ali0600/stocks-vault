@@ -15,7 +15,7 @@ Arm licenses the dominant CPU instruction-set architecture and core IP — in ne
 | --- | --- | --- | --- | --- | --- |
 | $469B | $4.9B | +20% | 18% | 529.5 | 2026-07-29 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

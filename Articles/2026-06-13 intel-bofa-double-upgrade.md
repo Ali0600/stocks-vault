@@ -54,5 +54,5 @@ upgrader) — neither routed.
 | INTC | $124.57 | $133.99 | +7.56% |
 | TSM | $423.93 | $462.12 | +9.01% |
 
-_Prices refreshed 2026-06-18 (latest close 2026-06-18)._
+_Prices refreshed 2026-06-19 (latest close 2026-06-18)._
 <!-- prices:end -->

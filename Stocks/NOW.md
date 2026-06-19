@@ -14,7 +14,7 @@ ServiceNow is enterprise workflow software caught in the market's "AI disrupts S
 | --- | --- | --- | --- | --- | --- |
 | $98B | $14.0B | +22% | 13% | 56.6 | 2026-07-22 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

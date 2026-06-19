@@ -14,7 +14,7 @@ Tilray has diversified from Canadian cannabis into beverages (US craft beer, now
 | --- | --- | --- | --- | --- | --- |
 | $571M | $858M | -8% | -157% | 17.4f | 2026-04-01 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

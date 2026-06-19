@@ -15,7 +15,7 @@ Synopsys is one half of the EDA software duopoly (with Cadence) plus the largest
 | --- | --- | --- | --- | --- | --- |
 | $87B | $8.7B | +42% | 9% | 104.7 | 2026-05-27 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

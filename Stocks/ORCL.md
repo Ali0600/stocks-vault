@@ -15,7 +15,7 @@ Oracle is the enterprise-database incumbent now pushing hard into hyperscale AI 
 | --- | --- | --- | --- | --- | --- |
 | $530B | $67.4B | +21% | 25% | 31.6 | 2026-09-09 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -15,7 +15,7 @@ Alphabet is Google's parent — Search/ads (Google Services), Google Cloud (GCP)
 | --- | --- | --- | --- | --- | --- |
 | $4.49T | $422.5B | +22% | 38% | 28.1 | 2026-07-23 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

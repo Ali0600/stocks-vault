@@ -15,7 +15,7 @@ Dycom is a U.S. specialty contractor for telecom and utility infrastructure that
 | --- | --- | --- | --- | --- | --- |
 | $14B | $6.3B | +56% | 5% | 43.6 | 2026-08-26 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

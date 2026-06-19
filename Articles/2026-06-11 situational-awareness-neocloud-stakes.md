@@ -58,5 +58,5 @@ Passing mentions: OpenAI, Anthropic (both private).
 | NBIS | $222.24 | $286.69 | +29.00% |
 | NVDA | $204.87 | $210.69 | +2.84% |
 
-_Prices refreshed 2026-06-18 (latest close 2026-06-18)._
+_Prices refreshed 2026-06-19 (latest close 2026-06-18)._
 <!-- prices:end -->

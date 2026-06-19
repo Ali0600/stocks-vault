@@ -15,7 +15,7 @@ ASML makes the photolithography machines that print chip circuitry — and it is
 | --- | --- | --- | --- | --- | --- |
 | $744B | $33.7B | +13% | 30% | 64.5 | 2026-07-15 |
 
-_Auto-updated 2026-06-18 via yfinance._
+_Auto-updated 2026-06-19 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

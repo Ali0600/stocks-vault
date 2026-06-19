@@ -53,5 +53,5 @@ Saturday, so the price baseline is the 2026-06-12 (Friday) close. Passing mentio
 | NBIS | $232.36 | $286.69 | +23.38% |
 | NVDA | $205.19 | $210.69 | +2.68% |
 
-_Prices refreshed 2026-06-18 (latest close 2026-06-18)._
+_Prices refreshed 2026-06-19 (latest close 2026-06-18)._
 <!-- prices:end -->
