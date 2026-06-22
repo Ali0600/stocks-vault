@@ -12,9 +12,9 @@ AST SpaceMobile is building a satellite constellation that connects ordinary sma
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $31B | $85M | +1952% | 0% | n/m | 2026-08-10 |
+| $28B | $85M | +1952% | 0% | n/m | 2026-08-10 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

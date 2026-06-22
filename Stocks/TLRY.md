@@ -12,9 +12,9 @@ Tilray has diversified from Canadian cannabis into beverages (US craft beer, now
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $571M | $858M | -8% | -157% | 17.4f | 2026-04-01 |
+| $555M | $858M | -8% | -157% | 16.9f | 2026-04-01 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

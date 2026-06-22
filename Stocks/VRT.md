@@ -13,9 +13,9 @@ Vertiv designs and services critical datacenter infrastructure — AC/DC power (
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $128B | $10.8B | +30% | 14% | 83.7 | 2026-07-29 |
+| $137B | $10.8B | +30% | 14% | 89.5 | 2026-07-29 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

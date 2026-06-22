@@ -13,9 +13,9 @@ Synopsys is one half of the EDA software duopoly (with Cadence) plus the largest
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $87B | $8.7B | +42% | 9% | 104.7 | 2026-05-27 |
+| $89B | $8.7B | +42% | 9% | 106.3 | 2026-05-27 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

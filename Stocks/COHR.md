@@ -16,9 +16,9 @@ vault via optics-rally coverage, no portfolio position.
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $76B | $6.6B | +20% | 7% | 184.6 | 2026-05-06 |
+| $83B | $6.6B | +20% | 7% | 202.6 | 2026-05-06 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -13,9 +13,9 @@ SoFi is a digital personal-finance platform spanning consumer lending, banking/f
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $23B | $3.9B | +42% | 15% | 39.8 | 2026-07-28 |
+| $22B | $3.9B | +42% | 15% | 38.0 | 2026-07-28 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

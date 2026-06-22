@@ -12,9 +12,9 @@ MP Materials operates Mountain Pass, the only scaled US rare-earth mine, and is 
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $11B | $348M | +119% | -20% | 52.9f | 2026-08-06 |
+| $11B | $348M | +119% | -20% | 58.5f | 2026-08-06 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

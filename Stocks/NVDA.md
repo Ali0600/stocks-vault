@@ -12,9 +12,9 @@ NVIDIA designs the GPUs, networking silicon and rack-scale systems that run most
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $5.10T | $253.5B | +85% | 63% | 32.3 | 2026-08-26 |
+| $5.05T | $253.5B | +85% | 63% | 32.0 | 2026-08-26 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

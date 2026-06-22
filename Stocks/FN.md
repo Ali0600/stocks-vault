@@ -13,9 +13,9 @@ Fabrinet is the contract manufacturer behind much of the optics industry — and
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $21B | $4.2B | +39% | 10% | 49.3 | 2026-05-04 |
+| $22B | $4.2B | +39% | 10% | 53.0 | 2026-05-04 |
 
-_Auto-updated 2026-06-19 via yfinance._
+_Auto-updated 2026-06-22 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
