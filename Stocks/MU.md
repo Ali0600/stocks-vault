@@ -18,9 +18,9 @@ position.
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $1.37T | $58.1B | +196% | 41% | 57.1 | 2026-06-24 |
+| $1.19T | $58.1B | +196% | 41% | 49.6 | 2026-06-24 |
 
-_Auto-updated 2026-06-22 via yfinance._
+_Auto-updated 2026-06-23 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

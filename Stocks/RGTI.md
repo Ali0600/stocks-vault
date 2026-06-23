@@ -14,7 +14,7 @@ Rigetti builds superconducting quantum computers — a real lab business with a 
 | --- | --- | --- | --- | --- | --- |
 | $7B | $10M | +199% | 0% | n/m | 2026-05-11 |
 
-_Auto-updated 2026-06-22 via yfinance._
+_Auto-updated 2026-06-23 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

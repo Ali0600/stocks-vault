@@ -12,9 +12,9 @@ Inhibikase Therapeutics is a ~$219M clinical-stage biotech focused on kinase inh
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $243M | — | — | — | n/m | 2026-05-12 |
+| $247M | — | — | — | n/m | 2026-05-12 |
 
-_Auto-updated 2026-06-22 via yfinance._
+_Auto-updated 2026-06-23 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

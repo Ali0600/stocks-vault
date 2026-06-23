@@ -12,9 +12,9 @@ Marvell supplies custom AI silicon (XPUs for hyperscalers) and the electro-optic
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $270B | $8.7B | +28% | 29% | 105.4 | 2026-08-27 |
+| $244B | $8.7B | +28% | 29% | 95.6 | 2026-08-27 |
 
-_Auto-updated 2026-06-22 via yfinance._
+_Auto-updated 2026-06-23 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

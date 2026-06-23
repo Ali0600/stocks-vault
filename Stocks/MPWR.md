@@ -13,9 +13,9 @@ Monolithic Power is a fabless power-management chipmaker — DC-DC voltage regul
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $76B | $3.0B | +26% | 23% | 110.5 | 2026-07-30 |
+| $70B | $3.0B | +26% | 23% | 101.8 | 2026-07-30 |
 
-_Auto-updated 2026-06-22 via yfinance._
+_Auto-updated 2026-06-23 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
