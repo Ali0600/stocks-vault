@@ -54,9 +54,9 @@ Passing mentions: OpenAI, Anthropic (both private).
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| CRWV | $95.74 | $105.72 | +10.42% |
-| NBIS | $222.24 | $275.25 | +23.85% |
-| NVDA | $204.87 | $200.04 | -2.36% |
+| CRWV | $95.74 | $100.88 | +5.37% |
+| NBIS | $222.24 | $259.66 | +16.84% |
+| NVDA | $204.87 | $199.00 | -2.87% |
 
-_Prices refreshed 2026-06-23 (latest close 2026-06-23)._
+_Prices refreshed 2026-06-24 (latest close 2026-06-24)._
 <!-- prices:end -->

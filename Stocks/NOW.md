@@ -12,9 +12,9 @@ ServiceNow is enterprise workflow software caught in the market's "AI disrupts S
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $99B | $14.0B | +22% | 13% | 57.1 | 2026-07-22 |
+| $97B | $14.0B | +22% | 13% | 55.8 | 2026-07-22 |
 
-_Auto-updated 2026-06-23 via yfinance._
+_Auto-updated 2026-06-24 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -14,7 +14,7 @@ POET Technologies develops optical interposers and photonic engines for AI inter
 | --- | --- | --- | --- | --- | --- |
 | $2B | $1M | +202% | 0% | n/m | 2026-08-11 |
 
-_Auto-updated 2026-06-23 via yfinance._
+_Auto-updated 2026-06-24 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -15,7 +15,7 @@ Eaton is a diversified power-management company — electrical components, power
 | --- | --- | --- | --- | --- | --- |
 | $157B | $28.5B | +17% | 14% | 39.6 | 2026-08-04 |
 
-_Auto-updated 2026-06-23 via yfinance._
+_Auto-updated 2026-06-24 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

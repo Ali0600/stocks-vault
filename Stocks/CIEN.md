@@ -13,9 +13,9 @@ Ciena builds the coherent optical systems and DSPs that move data between data c
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $65B | $5.6B | +40% | 8% | 153.8 | 2026-06-04 |
+| $66B | $5.6B | +40% | 8% | 155.0 | 2026-06-04 |
 
-_Auto-updated 2026-06-23 via yfinance._
+_Auto-updated 2026-06-24 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

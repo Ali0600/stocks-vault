@@ -13,9 +13,9 @@ Applied Digital develops and operates AI/HPC data centers in North America — a
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $13B | $319M | +139% | -59% | n/m | 2026-07-29 |
+| $12B | $319M | +139% | -59% | n/m | 2026-07-29 |
 
-_Auto-updated 2026-06-23 via yfinance._
+_Auto-updated 2026-06-24 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
