@@ -26,12 +26,13 @@ maintained by Claude Code against the contract in [SCHEMA.md](SCHEMA.md);
 - **`scripts/refresh_fundamentals.py`** — pulls market cap, revenue, growth, margin,
   P/E and next-earnings into each note's `## Snapshot` block (idempotent, self-installing).
 - **`scripts/daily_maintenance.sh`** + **launchd** (`com.stocksvault.maintenance.plist`)
-  — runs refresh → lint → auto-commit daily on the local machine, and posts a **macOS
-  notification** if the lint gate fails or a push conflicts.
-- **GitHub Actions** (`.github/workflows/vault-ci.yml`) — runs the unit tests + linter
-  on every push/PR, scans the history for secrets (gitleaks), **opens a tracking issue
-  when the gate fails**, and on a weekday schedule refreshes prices/fundamentals/graph
-  and commits them back (rebasing first so it can't diverge from the local job).
+  — the **authoritative refresher**: runs refresh → lint → auto-commit/push daily on the
+  local machine (rebase-then-push, aborting cleanly on conflict so it can't strand
+  markers/stashes), and posts a **macOS notification** on failure.
+- **GitHub Actions** (`.github/workflows/vault-ci.yml`) — **validation only, never commits**:
+  runs the unit tests + linter on every push/PR, scans history for secrets (gitleaks), and
+  **opens a tracking issue when the gate fails**. Refreshes are owned solely by the local
+  launchd job, so the two paths can't diverge.
 - A **versioned pre-commit hook** (`scripts/hooks/pre-commit`) runs the linter so a
   corrupting edit can't be committed — activate it once with `bash scripts/install-hooks.sh`.
 

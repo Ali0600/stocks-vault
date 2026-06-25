@@ -4,8 +4,9 @@ on:
   push:
   pull_request:
   workflow_dispatch:
-  schedule:
-    - cron: '30 22 * * 1-5'   # weekdays ~after US market close (UTC)
+# No schedule: the local machine (launchd) is the authoritative refresher and the
+# only committer of price/fundamentals refreshes. CI validates push/PR only — it
+# never commits, so the two paths can't diverge.
 
 jobs:
   lint:
@@ -52,39 +53,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # no GITLEAKS_LICENSE: free for a personal public repo
-
-  refresh:
-    name: Scheduled price refresh
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-    needs: lint
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: pip install -r scripts/requirements.txt
-      - name: Refresh article price tables
-        run: python scripts/refresh_prices.py
-      - name: Refresh fundamentals snapshots
-        run: python scripts/refresh_fundamentals.py
-      - name: Rebuild supply-chain dependency graph
-        run: python scripts/refresh_graph.py
-      - name: Re-lint after refresh
-        run: python scripts/vault_lint.py
-      - name: Commit refreshed prices
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git add -A
-            git commit -m "chore: scheduled price refresh ($(date +%F))"
-            # rebase onto anything the local launchd run pushed since checkout,
-            # so the two auto-push paths can't diverge (non-fast-forward).
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
-            git push
-          else
-            echo "no price changes"
-          fi
