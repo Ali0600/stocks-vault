@@ -51,17 +51,17 @@ python scripts/refresh_graph.py         # rebuild the supply-chain Mermaid graph
 ```
 
 ## Highlights
-- Designed a **schema-driven knowledge base** of 50+ interlinked notes with a strict
+- Designed a **schema-driven knowledge base** of 80+ interlinked notes with a strict
   sourcing contract (every dated fact cites an ingested article or a concept primer).
 - Built a **CI-style validation pipeline**: a 14-rule integrity linter (exit-code
   gated, **pytest-covered**) wired into a **GitHub Actions** workflow and a versioned
   **git pre-commit hook**, with **gitleaks** secret scanning, **pinned dependencies**,
   and **automated alerting** (a tracking issue is opened when the gate fails).
-- Automated **market-data refresh** (yfinance) and integrity linting on a daily
-  schedule via **launchd**, with rebase-before-push **auto-commit** to a
-  version-controlled vault (no divergence between the local and CI push paths), a
-  **freshness heartbeat** that flags a stalled refresh job, and **macOS notifications**
-  on failure.
+- Automated **market-data refresh** (yfinance) and integrity linting on a daily schedule
+  via **launchd** as the **single authoritative committer** (rebase-then-push, conflict-
+  aborting), with **CI validating only** — eliminating a cron-vs-local-job race condition
+  that had been corrupting the repo — plus a **freshness heartbeat** for a stalled refresh
+  and **macOS notifications** on failure.
 - Modeled the **AI hardware supply chain** as a directed dependency graph and
   **auto-generated a Mermaid visualization** from the structured notes (supplier→customer
   edges, chokepoint-colored nodes) to surface single points of failure.

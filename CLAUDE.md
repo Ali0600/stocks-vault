@@ -19,5 +19,10 @@ Fetch prices with yfinance through the tracker's venv:
 Portfolio source of truth:
 `sqlite3 -readonly ~/Documents/stock-analysis-ui/data/tracker.db "SELECT ticker FROM stocks"`
 — stock notes with `tracked: false` are watchlist (article-discovered, no position).
+The app builds its stock **list** from the `stocks` table (grouped by `sectors`) and only
+opens a vault note for a stock already in it — so a vault-only watchlist note does **not**
+appear in the app. "Add a stock to the tracker" = INSERT into `stocks` (back up the DB
+first), then drop the note's `tracked: false`; sector names must match the `Sectors/*.md`
+filenames. lint #8 flags a `tracked: false` note that's actually in the DB.
 
 Never use buy/sell/hold or position-advice language anywhere in the vault.
