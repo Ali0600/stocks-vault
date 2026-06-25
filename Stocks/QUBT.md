@@ -1,12 +1,12 @@
 ---
 ticker: QUBT
-sector: Frontier Tech
+sector: Quantum
 updated: 2026-06-25
 ---
 # Quantum Computing Inc. (QUBT)
 
 ## Overview
-Quantum Computing Inc. is an integrated-photonics company pursuing photonic quantum computing and quantum sensing, built around thin-film lithium-niobate chips. The smallest and most speculative of the quantum names — essentially pre-revenue. ~$2.2B market cap. Watchlist note: Frontier Tech research, no position.
+Quantum Computing Inc. is an integrated-photonics company pursuing photonic quantum computing and quantum sensing, built around thin-film lithium-niobate chips. The smallest and most speculative of the quantum names — essentially pre-revenue. ~$2.2B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

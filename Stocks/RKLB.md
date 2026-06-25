@@ -1,12 +1,12 @@
 ---
 ticker: RKLB
-sector: Frontier Tech
+sector: Space
 updated: 2026-06-25
 ---
 # Rocket Lab Corporation (RKLB)
 
 ## Overview
-Rocket Lab is the most vertically integrated small-launch + space-systems company — Electron/Neutron rockets plus satellite buses, components, and on-orbit services — widely seen as the credible "next SpaceX." Still pre-profit while it scales. ~$53B market cap. Watchlist note: Frontier Tech research, no position.
+Rocket Lab is the most vertically integrated small-launch + space-systems company — Electron/Neutron rockets plus satellite buses, components, and on-orbit services — widely seen as the credible "next SpaceX." Still pre-profit while it scales. ~$53B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

@@ -1,12 +1,12 @@
 ---
 ticker: LEU
-sector: Frontier Tech
+sector: Nuclear
 updated: 2026-06-25
 ---
 # Centrus Energy Corp. (LEU)
 
 ## Overview
-Centrus is the only US-based, NRC-licensed producer of HALEU (high-assay low-enriched uranium) — the fuel most advanced reactors (Oklo, microreactors) require but which the West has almost no supply of. It also sells conventional LEU and technical services. A genuine domestic fuel bottleneck for the whole advanced-nuclear theme. ~$3.4B market cap. Watchlist note: Frontier Tech research, no position.
+Centrus is the only US-based, NRC-licensed producer of HALEU (high-assay low-enriched uranium) — the fuel most advanced reactors (Oklo, microreactors) require but which the West has almost no supply of. It also sells conventional LEU and technical services. A genuine domestic fuel bottleneck for the whole advanced-nuclear theme. ~$3.4B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

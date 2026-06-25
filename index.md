@@ -8,12 +8,14 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Biotech]] (3): [[ARTV]] · [[IKT]] · [[PRQR]]
 - [[Cannabis]] (2): [[CGC]] · [[TLRY]]
 - [[Consumer & Fintech]] (3+1*): [[BYND]] · [[HOOD]] · [[SOFI]]* · [[TTWO]]
-- [[Frontier Tech]] (13): [[ASTS]] · [[CCJ]] · [[GSAT]] · [[IONQ]] · [[LEU]] · [[NNE]] · [[OKLO]] · [[PL]] · [[QBTS]] · [[QUBT]] · [[RGTI]] · [[RKLB]] · [[SMR]]
 - [[Materials]] (1): [[MP]]
 - [[Networking & Optical]] (3+7*): [[AAOI]] · [[ALAB]]* · [[ANET]]* · [[CIEN]]* · [[COHR]]* · [[CRDO]]* · [[FN]]* · [[LITE]]* · [[NOK]] · [[POET]]
+- [[Nuclear]] (5): [[CCJ]] · [[LEU]] · [[NNE]] · [[OKLO]] · [[SMR]]
 - [[Power & Infrastructure]] (0+4*): [[DY]]* · [[ETN]]* · [[GEV]]* · [[VRT]]*
+- [[Quantum]] (4): [[IONQ]] · [[QBTS]] · [[QUBT]] · [[RGTI]]
 - [[Semiconductors]] (5+10*): [[AMAT]] · [[AMD]]* · [[ARM]]* · [[ASML]]* · [[AVGO]]* · [[CDNS]]* · [[INTC]] · [[KLAC]]* · [[LRCX]]* · [[MPWR]]* · [[MRVL]] · [[MU]]* · [[NVDA]] · [[SNPS]]* · [[TSM]]
 - [[Software & Cloud]] (3+2*): [[GOOGL]]* · [[IBM]] · [[MSFT]] · [[NOW]] · [[ORCL]]*
+- [[Space]] (4): [[ASTS]] · [[GSAT]] · [[PL]] · [[RKLB]]
 
 ## Maps
 - [[AI Supply Chain]] — sand→tokens chain across the portfolio, chokepoints rated

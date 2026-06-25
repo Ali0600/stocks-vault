@@ -1,12 +1,12 @@
 ---
 ticker: QBTS
-sector: Frontier Tech
+sector: Quantum
 updated: 2026-06-25
 ---
 # D-Wave Quantum Inc. (QBTS)
 
 ## Overview
-D-Wave is the quantum-annealing specialist — its Advantage systems target optimization problems today, with a gate-model (universal) quantum roadmap behind it. The #2 quantum pure-play by size; pre-commercial economics. ~$8.5B market cap. Watchlist note: Frontier Tech research, no position.
+D-Wave is the quantum-annealing specialist — its Advantage systems target optimization problems today, with a gate-model (universal) quantum roadmap behind it. The #2 quantum pure-play by size; pre-commercial economics. ~$8.5B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

@@ -1,7 +1,7 @@
 ---
 ticker: OKLO
-sector: Frontier Tech
-updated: 2026-06-24
+sector: Nuclear
+updated: 2026-06-25
 ---
 # Oklo Inc. (OKLO)
 

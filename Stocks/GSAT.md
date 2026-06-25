@@ -1,12 +1,12 @@
 ---
 ticker: GSAT
-sector: Frontier Tech
+sector: Space
 updated: 2026-06-25
 ---
 # Globalstar, Inc. (GSAT)
 
 ## Overview
-Globalstar runs a low-earth-orbit satellite network and licensed spectrum, anchored by a multi-year direct-to-device deal with a major smartphone maker (Apple's emergency SOS / messaging) — the most established direct-to-device peer to ASTS's direct-to-cell model. ~$10B market cap. Watchlist note: Frontier Tech research, no position.
+Globalstar runs a low-earth-orbit satellite network and licensed spectrum, anchored by a multi-year direct-to-device deal with a major smartphone maker (Apple's emergency SOS / messaging) — the most established direct-to-device peer to ASTS's direct-to-cell model. ~$10B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

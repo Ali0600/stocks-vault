@@ -1,12 +1,12 @@
 ---
 ticker: NNE
-sector: Frontier Tech
+sector: Nuclear
 updated: 2026-06-25
 ---
 # NANO Nuclear Energy Inc. (NNE)
 
 ## Overview
-NANO Nuclear is an early-stage microreactor developer (KRONOS MMR high-temperature gas-cooled reactor, LOKI MMR portable microreactor) with ambitions across the fuel-transport and HALEU supply chain. The closest direct peer to Oklo's microreactor model — and essentially pre-revenue. ~$1.2B market cap. Watchlist note: Frontier Tech research, no position.
+NANO Nuclear is an early-stage microreactor developer (KRONOS MMR high-temperature gas-cooled reactor, LOKI MMR portable microreactor) with ambitions across the fuel-transport and HALEU supply chain. The closest direct peer to Oklo's microreactor model — and essentially pre-revenue. ~$1.2B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

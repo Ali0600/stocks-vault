@@ -1,12 +1,12 @@
 ---
 ticker: SMR
-sector: Frontier Tech
+sector: Nuclear
 updated: 2026-06-25
 ---
 # NuScale Power Corporation (SMR)
 
 ## Overview
-NuScale is the marquee small-modular-reactor pure-play — its NuScale Power Module is a 77 MWe light-water SMR and the first to clear US NRC design approval. A leading candidate to power data centers and industry with carbon-free baseload, but still pre-commercial. ~$3.5B market cap. Watchlist note: Frontier Tech research, no position.
+NuScale is the marquee small-modular-reactor pure-play — its NuScale Power Module is a 77 MWe light-water SMR and the first to clear US NRC design approval. A leading candidate to power data centers and industry with carbon-free baseload, but still pre-commercial. ~$3.5B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

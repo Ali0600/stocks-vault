@@ -1,12 +1,12 @@
 ---
 ticker: IONQ
-sector: Frontier Tech
+sector: Quantum
 updated: 2026-06-25
 ---
 # IonQ, Inc. (IONQ)
 
 ## Overview
-IonQ is the largest quantum-computing pure-play — trapped-ion systems sold as cloud access (via AWS, Azure, GCP) and increasingly bundled with quantum-networking acquisitions. Pre-commercial economics, very early revenue. ~$20B market cap. Watchlist note: Frontier Tech research, no position.
+IonQ is the largest quantum-computing pure-play — trapped-ion systems sold as cloud access (via AWS, Azure, GCP) and increasingly bundled with quantum-networking acquisitions. Pre-commercial economics, very early revenue. ~$20B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

@@ -1,7 +1,7 @@
 ---
 ticker: ASTS
-sector: Frontier Tech
-updated: 2026-06-24
+sector: Space
+updated: 2026-06-25
 ---
 # AST SpaceMobile, Inc. (ASTS)
 

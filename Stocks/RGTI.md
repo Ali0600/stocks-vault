@@ -1,7 +1,7 @@
 ---
 ticker: RGTI
-sector: Frontier Tech
-updated: 2026-06-24
+sector: Quantum
+updated: 2026-06-25
 ---
 # Rigetti Computing, Inc. (RGTI)
 

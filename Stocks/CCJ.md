@@ -1,12 +1,12 @@
 ---
 ticker: CCJ
-sector: Frontier Tech
+sector: Nuclear
 updated: 2026-06-25
 ---
 # Cameco Corporation (CCJ)
 
 ## Overview
-Cameco is one of the largest Western uranium producers, vertically integrated across the front of the nuclear fuel cycle — mining, refining/conversion (Fuel Services), and a 49% stake in Westinghouse (reactor technology and services). The upstream fuel supply for the entire nuclear theme. ~$46B market cap. Watchlist note: Frontier Tech research, no position.
+Cameco is one of the largest Western uranium producers, vertically integrated across the front of the nuclear fuel cycle — mining, refining/conversion (Fuel Services), and a 49% stake in Westinghouse (reactor technology and services). The upstream fuel supply for the entire nuclear theme. ~$46B market cap. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->

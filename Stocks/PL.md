@@ -1,12 +1,12 @@
 ---
 ticker: PL
-sector: Frontier Tech
+sector: Space
 updated: 2026-06-25
 ---
 # Planet Labs PBC (PL)
 
 ## Overview
-Planet Labs operates the largest Earth-observation satellite fleet, imaging the whole landmass daily and selling the geospatial data (increasingly AI-analyzed) as a subscription platform to government, defense, and commercial customers. ~$9B market cap; still pre-profit. Watchlist note: Frontier Tech research, no position.
+Planet Labs operates the largest Earth-observation satellite fleet, imaging the whole landmass daily and selling the geospatial data (increasingly AI-analyzed) as a subscription platform to government, defense, and commercial customers. ~$9B market cap; still pre-profit. Tracked in the app; no position.
 
 ## Snapshot
 <!-- snapshot:start -->
