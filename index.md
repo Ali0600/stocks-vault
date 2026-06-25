@@ -8,7 +8,7 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[Biotech]] (3): [[ARTV]] · [[IKT]] · [[PRQR]]
 - [[Cannabis]] (2): [[CGC]] · [[TLRY]]
 - [[Consumer & Fintech]] (3+1*): [[BYND]] · [[HOOD]] · [[SOFI]]* · [[TTWO]]
-- [[Frontier Tech]] (3): [[ASTS]] · [[OKLO]] · [[RGTI]]
+- [[Frontier Tech]] (3+10*): [[ASTS]] · [[CCJ]]* · [[GSAT]]* · [[IONQ]]* · [[LEU]]* · [[NNE]]* · [[OKLO]] · [[PL]]* · [[QBTS]]* · [[QUBT]]* · [[RGTI]] · [[RKLB]]* · [[SMR]]*
 - [[Materials]] (1): [[MP]]
 - [[Networking & Optical]] (3+7*): [[AAOI]] · [[ALAB]]* · [[ANET]]* · [[CIEN]]* · [[COHR]]* · [[CRDO]]* · [[FN]]* · [[LITE]]* · [[NOK]] · [[POET]]
 - [[Power & Infrastructure]] (0+4*): [[DY]]* · [[ETN]]* · [[GEV]]* · [[VRT]]*

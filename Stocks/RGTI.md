@@ -1,7 +1,7 @@
 ---
 ticker: RGTI
 sector: Frontier Tech
-updated: 2026-06-12
+updated: 2026-06-24
 ---
 # Rigetti Computing, Inc. (RGTI)
 
@@ -26,8 +26,9 @@ A full-stack superconducting quantum maker that owns its Fab-1 chip foundry and 
 
 ## Competitors
 - [[IBM]] — superconducting quantum leader
-- IonQ (IONQ) — trapped-ion approach
-- D-Wave (QBTS) — quantum annealing
+- [[IONQ]] — trapped-ion approach
+- [[QBTS]] — quantum annealing
+- [[QUBT]] — photonic quantum
 - Google / Quantinuum (private) — deep-pocketed rivals
 
 ## Supply Chain

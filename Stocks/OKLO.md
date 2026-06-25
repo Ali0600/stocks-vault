@@ -1,7 +1,7 @@
 ---
 ticker: OKLO
 sector: Frontier Tech
-updated: 2026-06-12
+updated: 2026-06-24
 ---
 # Oklo Inc. (OKLO)
 
@@ -25,14 +25,13 @@ Plans to sell [[Datacenter power|power]] rather than reactors — a build-own-op
 - **Chokepoint:** Low–Medium — regulatory-gated and not yet operating; if datacenter *power* is the AI bottleneck, advanced nuclear is one of several answers (gas, geothermal, grid), so it's a contender, not a lock
 
 ## Competitors
-- NuScale Power (SMR) — furthest-along SMR design
-- Nano Nuclear (NNE) — microreactor developer
-- Centrus Energy (LEU) — fuel-supply play
+- [[SMR]] — furthest-along SMR design
+- [[NNE]] — microreactor developer
 - TerraPower / X-energy (private) — advanced-reactor rivals
 
 ## Supply Chain
 ### Suppliers
-- Nuclear fuel & engineering (external — e.g. Centrus)
+- [[LEU]] — HALEU / enriched fuel (the scarce advanced-reactor input); nuclear engineering (external)
 
 ### Customers
 - Data centers, hyperscalers & defense sites (external) — power-purchase agreements

@@ -1,6 +1,6 @@
 ---
 type: map
-updated: 2026-06-13
+updated: 2026-06-24
 ---
 # AI Supply Chain — sand to tokens
 
@@ -35,9 +35,9 @@ there and reflect changes here.
    (transformers, switchgear, gas/nuclear turbines — multi-year lead times); datacenter
    power & cooling equipment [[VRT]] · [[ETN]] (UPS, switchgear, liquid-cooling CDUs);
    board-level power silicon [[MPWR]] (GPU VRMs); developers [[APLD]] (hyperscaler-leased
-   "AI factories"), [[IREN]] (owns renewable-powered sites); advanced nuclear [[OKLO]]
-   (pre-operational); electrical construction [[DY]]. Increasingly the *real* constraint
-   on new datacenters.
+   "AI factories"), [[IREN]] (owns renewable-powered sites); advanced nuclear [[OKLO]] ·
+   [[SMR]] · [[NNE]] (pre-operational; HALEU fuel from [[LEU]] is the scarce input);
+   electrical construction [[DY]]. Increasingly the *real* constraint on new datacenters.
 9. **[[Neocloud economics|Neocloud]] capacity** — [[NBIS]], [[CRWV]], [[IREN]]. Rent GPUs at scale; the
    scarcity is upstream of them, not in them.
 10. **Hyperscalers, models & apps** — [[MSFT]] (Azure + OpenAI); workflow/software
@@ -61,6 +61,7 @@ there and reflect changes here.
 | **Medium** | [[ANET]] · [[ALAB]] · [[CRDO]] | AI cluster networking — merchant Ethernet switching (Arista) + connectivity silicon/retimers/AECs; strong and fast-growing, but multi-sourced and competing with NVIDIA/Broadcom. |
 | **Medium** | [[GEV]] | Large grid transformers/switchgear + gas/nuclear turbines; multi-year lead times gate datacenter energization. One of several global makers (Siemens Energy, Hitachi Energy, ABB). |
 | **Medium** | [[VRT]] · [[MPWR]] | Integrated datacenter power+thermal (Vertiv UPS/switchgear/CDUs) and GPU board-power silicon (Monolithic VRMs) — real AI-rack deployment constraints, but multi-sourced. |
+| **Medium** | [[LEU]] | The only US HALEU enricher — the scarce fuel advanced reactors ([[OKLO]], [[SMR]]) need to power datacenters; a genuine domestic bottleneck, though capacity is ramping. |
 | **Medium** | [[IBM]] | Mainframe sole-supply — real, but a shrinking niche, off the AI critical path. |
 | **Low–Medium** | [[INTC]] · [[AMD]] · [[MSFT]] · [[OKLO]] · [[PRQR]] · [[CIEN]] · [[FN]] · [[ETN]] | Strategic/commercial moats or differentiated-but-substitutable positions, not physical gates. |
 | **Low / None** | [[SMCI]] [[HPE]] [[DELL]] [[APLD]] [[DY]] [[NBIS]] [[CRWV]] [[IREN]] [[POET]] [[NOK]] [[NOW]] [[RGTI]] [[ASTS]] [[HOOD]] [[BYND]] [[TLRY]] [[CGC]] [[ARTV]] [[IKT]] [[TTWO]] | Competitive or capacity layers; no supplier here gates the build-out. |
@@ -97,6 +98,7 @@ graph LR
   ARM[ARM]:::high
   ASML[ASML]:::extreme
   AVGO[AVGO]:::high
+  CCJ[CCJ]:::medium
   CDNS[CDNS]:::high
   COHR[COHR]:::medium
   CRDO[CRDO]:::medium
@@ -108,6 +110,7 @@ graph LR
   INTC[INTC]:::medium
   IREN[IREN]:::low
   KLAC[KLAC]:::high
+  LEU[LEU]:::medium
   LITE[LITE]:::medium
   LRCX[LRCX]:::high
   MPWR[MPWR]:::medium
@@ -115,9 +118,12 @@ graph LR
   MSFT[MSFT]:::medium
   MU[MU]:::high
   NBIS[NBIS]:::low
+  NNE[NNE]:::low
   NVDA[NVDA]:::high
+  OKLO[OKLO]:::medium
   ORCL[ORCL]:::medium
   SMCI[SMCI]:::low
+  SMR[SMR]:::low
   SNPS[SNPS]:::high
   TSM[TSM]:::extreme
   VRT[VRT]:::medium
@@ -136,6 +142,7 @@ graph LR
   ASML --> TSM
   AVGO --> ANET
   AVGO --> GOOGL
+  CCJ --> LEU
   CDNS --> AMD
   CDNS --> AVGO
   CDNS --> INTC
@@ -149,6 +156,9 @@ graph LR
   KLAC --> INTC
   KLAC --> MU
   KLAC --> TSM
+  LEU --> NNE
+  LEU --> OKLO
+  LEU --> SMR
   LRCX --> INTC
   LRCX --> MU
   LRCX --> TSM
@@ -181,7 +191,7 @@ graph LR
   VRT --> IREN
 ```
 
-_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 32 nodes, 58 edges. Auto-generated 2026-06-24 from each note's Supply Chain section._
+_Nodes colored by chokepoint severity (Extreme/High = red/orange, Medium = amber, Low = grey). 37 nodes, 62 edges. Auto-generated 2026-06-25 from each note's Supply Chain section._
 <!-- graph:end -->
 
 ## Key dependencies

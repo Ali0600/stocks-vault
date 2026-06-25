@@ -1,7 +1,7 @@
 ---
 ticker: ASTS
 sector: Frontier Tech
-updated: 2026-06-12
+updated: 2026-06-24
 ---
 # AST SpaceMobile, Inc. (ASTS)
 
@@ -26,9 +26,10 @@ Large phased-array BlueBird satellites aim to deliver true broadband — not jus
 
 ## Competitors
 - SpaceX Starlink Direct-to-Cell (private) — the dominant rival, currently text-first
-- Globalstar (GSAT) — powers Apple's emergency SOS
+- [[GSAT]] — direct-to-device rival (powers Apple's emergency SOS)
 - Lynk Global (private) — direct-to-phone, narrowband
 - Iridium (IRDM) — established satellite messaging
+- [[RKLB]] · [[PL]] — space-sector peers (different niches)
 
 ## Supply Chain
 ### Suppliers
