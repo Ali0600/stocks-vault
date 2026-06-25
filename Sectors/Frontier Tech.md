@@ -1,6 +1,6 @@
 ---
 sector: Frontier Tech
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 	# Frontier Tech
 
@@ -9,19 +9,9 @@ Pre-commercial moonshots and their picks-and-shovels — three themes: **space**
 
 ## Members
 - [[ASTS]] — AST SpaceMobile, Inc.
-- [[CCJ]] — Cameco Corporation (watchlist)
-- [[GSAT]] — Globalstar, Inc. (watchlist)
-- [[IONQ]] — IonQ, Inc. (watchlist)
-- [[LEU]] — Centrus Energy Corp. (watchlist)
-- [[NNE]] — NANO Nuclear Energy Inc. (watchlist)
-- [[OKLO]] — Oklo Inc.
-- [[PL]] — Planet Labs PBC (watchlist)
-- [[QBTS]] — D-Wave Quantum Inc. (watchlist)
-- [[QUBT]] — Quantum Computing Inc. (watchlist)
-- [[RGTI]] — Rigetti Computing, Inc.
-- [[RKLB]] — Rocket Lab Corporation (watchlist)
-- [[SMR]] — NuScale Power Corporation (watchlist)
-
+- [[CCJ]] — Cameco Corporation- [[GSAT]] — Globalstar, Inc.- [[IONQ]] — IonQ, Inc.- [[LEU]] — Centrus Energy Corp.- [[NNE]] — NANO Nuclear Energy Inc.- [[OKLO]] — Oklo Inc.
+- [[PL]] — Planet Labs PBC- [[QBTS]] — D-Wave Quantum Inc.- [[QUBT]] — Quantum Computing Inc.- [[RGTI]] — Rigetti Computing, Inc.
+- [[RKLB]] — Rocket Lab Corporation- [[SMR]] — NuScale Power Corporation
 ## Facts
 
 ## Speculations

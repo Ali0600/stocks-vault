@@ -1,8 +1,7 @@
 ---
 ticker: LEU
 sector: Frontier Tech
-tracked: false
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 # Centrus Energy Corp. (LEU)
 
