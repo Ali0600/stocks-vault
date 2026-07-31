@@ -37,6 +37,7 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[AI cluster networking]] — scale-up vs scale-out fabrics; the switching/retimer/AEC layer that wires GPU clusters
 
 ## Articles
+- 2026-06-24 · [[2026-06-24 mu-fq3-26-earnings]] — MU FQ3-26 (SEC 8-K): revenue $41.46B, 84.6% GM, EPS $24.67 all verified; HBM4 in high-volume shipment, HBM4E for CY2027; multi-year Strategic Customer Agreements (terms undisclosed) → Contracts Awarded; FQ4 guide $50B open
 - 2026-06-16 · [[2026-06-16 mrvl-record-highs-valuation]] — MRVL FQ1 FY27 $2.42B +28% verified, ~59% GM, $11.5B/$16.5B FY guide, Celestial AI photonics buy, ~$1B supplier prepayments, ~915M shares; valuation/rating not routed
 - 2026-06-16 · [[2026-06-16 sofi-golden-opportunity]] — SOFI Q1 record net rev $1.1B +43% verified, EBITDA $340M +62%, members 14.7M +35%, Q2 guide +30%; valuation/rating not routed
 - 2026-06-14 · [[2026-06-14 alphabet-incredible]] — Alphabet bull case; created GOOGL* watchlist note (Software & Cloud), wired NVDA→GOOGL + AVGO→GOOGL (TPU); Cloud +63%, >$100B/qtr verified; price-run/target not routed
@@ -49,3 +50,5 @@ Watchlist tickers (no portfolio position) are marked *.
 - 2026-06-11 · [[2026-06-11 smci-wolfe-risks]] — Wolfe initiates SMCI (neutral); DOJ/Liaw indictment, Q3 FY26 $10.2B +123% verified, ~$40B FY guide, >$13B Blackwell backlog, CRWV/xAI concentration; HPE/DELL margin notes routed
 - 2026-06-11 · [[2026-06-11 situational-awareness-neocloud-stakes]] — Aschenbrenner fund's neocloud stakes; 38.89% claim corrected (NBIS, NVDA, CRWV*)
 - 2026-06-10 · [[2026-06-10 optics-stocks-ai-rally]] — optics rally on AI boom (AAOI, NVDA, COHR*, LITE*)
+- 2026-03-18 · [[2026-03-18 mu-fq2-26-earnings]] — MU FQ2-26 (SEC 8-K): revenue $23.86B vs a $18.70B guide, 74.4% GM, EPS $12.07 verified; margin expansion in all four business units on "tight industry supply"; dividend +30%
+- 2025-12-17 · [[2025-12-17 mu-fq1-26-earnings]] — MU FQ1-26 (SEC 8-K): revenue $13.64B, 56.0% GM, EPS $4.60 verified; Cloud Memory $5.28B at 66% GM; first company-sourced confirmation of the HBM thesis

@@ -41,8 +41,12 @@ chronological record of every change.
   cited price figure for accuracy, then drop it. (Business metric "revenue +51% YoY"
   stays; stock metric "+402% YTD" does not.)
   **Speculation** = forecast or unverified claim; ends with `(status: open)`.
-  When later evidence lands, flip to `confirmed`/`busted` with the new date and
-  source rather than deleting.
+  When later evidence lands, flip to `confirmed`/`busted` rather than deleting.
+  Keep the marker itself bare — `(status: confirmed)`, which is what the linter
+  matches — and put the settling date and the actual outcome in the prose before
+  it, citing both the original and the settling source:
+  `- 2026-03-18 — Guided FQ3 revenue $33.5B ± $750M — settled 2026-06-24 at
+  $41.46B (status: confirmed) ([[orig note]], [[settling note]])`.
 - Stock notes carry two descriptive sections after **Overview**: **What's Unique**
   (1–2 sentences on the genuine differentiator or moat) and **Competitors**
   (bullets — `[[TICKER]]` for a rival that has a vault note, `Name (TICKER)`
