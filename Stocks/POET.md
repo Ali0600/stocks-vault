@@ -12,9 +12,9 @@ POET Technologies develops optical interposers and photonic engines for AI inter
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $2B | $1M | +202% | 0% | n/m | 2026-08-11 |
+| $1B | $1M | +202% | 0% | n/m | 2026-08-11 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

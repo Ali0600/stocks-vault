@@ -51,10 +51,10 @@ the close.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| AAOI | $175.13 | $146.97 | -16.08% |
-| COHR | $354.77 | $392.50 | +10.64% |
-| LITE | $853.26 | $842.53 | -1.26% |
-| NVDA | $200.42 | $199.00 | -0.71% |
+| AAOI | $175.13 | $94.87 | -45.83% |
+| COHR | $354.77 | $263.10 | -25.84% |
+| LITE | $853.26 | $715.96 | -16.09% |
+| NVDA | $200.42 | $198.11 | -1.15% |
 
-_Prices refreshed 2026-06-24 (latest close 2026-06-24)._
+_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
 <!-- prices:end -->

@@ -12,9 +12,9 @@ IonQ is the largest quantum-computing pure-play — trapped-ion systems sold as 
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $20.0B | $187M | +755% | 175% | 137.4 | 2026-08-05 |
+| $13B | $187M | +755% | 175% | 92.6 | 2026-08-05 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -12,9 +12,9 @@ Centrus is the only US-based, NRC-licensed producer of HALEU (high-assay low-enr
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $3.4B | $452M | +5% | 13% | 62.0 | 2026-08-04 |
+| $3B | $452M | +5% | 13% | 64.0 | 2026-08-05 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

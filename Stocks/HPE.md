@@ -12,9 +12,9 @@ Hewlett Packard Enterprise is the establishment way to own AI servers: enterpris
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $65B | $38.8B | +40% | 4% | 45.6 | 2026-06-01 |
+| $63B | $38.8B | +40% | 4% | 44.6 | 2026-09-03 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -12,9 +12,9 @@ NuScale is the marquee small-modular-reactor pure-play — its NuScale Power Mod
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $3.5B | $19M | -96% | 0% | n/m | 2026-08-06 |
+| $3B | $19M | -96% | 0% | n/m | 2026-08-05 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

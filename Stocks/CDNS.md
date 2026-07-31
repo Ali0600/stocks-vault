@@ -13,9 +13,9 @@ Cadence is the other half of the EDA software duopoly (with Synopsys) — the de
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $103B | $5.5B | +19% | 21% | 87.0 | 2026-07-27 |
+| $93B | $5.8B | +24% | 24% | 67.3 | 2026-10-26 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

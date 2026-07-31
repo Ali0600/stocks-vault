@@ -49,9 +49,9 @@ Saturday, so the price baseline is the 2026-06-12 (Friday) close. Passing mentio
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| INTC | $124.57 | $131.65 | +5.68% |
-| NBIS | $232.36 | $259.66 | +11.75% |
-| NVDA | $205.19 | $199.00 | -3.02% |
+| INTC | $124.57 | $92.43 | -25.80% |
+| NBIS | $232.36 | $186.92 | -19.56% |
+| NVDA | $205.19 | $198.11 | -3.45% |
 
-_Prices refreshed 2026-06-24 (latest close 2026-06-24)._
+_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
 <!-- prices:end -->

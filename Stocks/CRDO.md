@@ -13,9 +13,9 @@ Credo provides high-speed connectivity — HiWire active electrical cables (AECs
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $50B | $1.3B | +157% | 35% | 107.6 | 2026-06-01 |
+| $39B | $1.3B | +157% | 35% | 83.4 | 2026-09-02 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

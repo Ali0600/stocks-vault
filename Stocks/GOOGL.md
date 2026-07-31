@@ -13,9 +13,9 @@ Alphabet is Google's parent — Search/ads (Google Services), Google Cloud (GCP)
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $4.21T | $422.5B | +22% | 38% | 26.3 | 2026-07-23 |
+| $4.34T | $445.9B | +24% | 55% | 17.8 | 2026-10-28 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

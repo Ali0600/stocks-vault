@@ -12,9 +12,9 @@ D-Wave is the quantum-annealing specialist — its Advantage systems target opti
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $8.5B | $12M | -81% | 0% | n/m | 2026-08-06 |
+| $7B | $12M | -81% | 0% | n/m | 2026-08-06 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

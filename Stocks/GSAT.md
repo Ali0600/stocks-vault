@@ -12,9 +12,9 @@ Globalstar runs a low-earth-orbit satellite network and licensed spectrum, ancho
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $10.3B | $283M | +17% | -3% | 261.6f | 2026-08-06 |
+| $11B | $283M | +17% | -3% | 270.6f | 2026-08-06 |
 
-_Auto-updated 2026-06-24 via yfinance._
+_Auto-updated 2026-07-31 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
