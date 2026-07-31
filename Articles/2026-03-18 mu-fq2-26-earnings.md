@@ -59,7 +59,7 @@ to $33.5B.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| MU | $461.73 | $848.81 | +83.83% |
+| MU | $461.73 | $846.60 | +83.35% |
 
 _Prices refreshed 2026-07-31 (latest close 2026-07-31)._
 <!-- prices:end -->

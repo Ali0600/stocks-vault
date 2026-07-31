@@ -37,6 +37,11 @@ Watchlist tickers (no portfolio position) are marked *.
 - [[AI cluster networking]] — scale-up vs scale-out fabrics; the switching/retimer/AEC layer that wires GPU clusters
 
 ## Articles
+- 2026-07-29 · [[2026-07-29 msft-fq4-26-earnings]] — MSFT FQ4-26 (SEC 8-K): revenue $90.0B +18%, EPS $4.81 verified; commercial RPO +84% to $678B, Azure +43% and past $100B/yr, 30M Copilot seats; new non-GAAP measure excluding the OpenAI investment
+- 2026-07-29 · [[2026-07-29 hood-q2-26-earnings]] — HOOD Q2-26 (SEC 8-K): record revenue $1.31B +32%, EPS $0.62 verified; event contracts +10x to $156M while crypto -38%, 13 lines over $100M annualized; $129M one-time RVI deconsolidation gain inside net income
+- 2026-07-23 · [[2026-07-23 intc-q2-26-earnings]] — INTC Q2-26 (SEC 8-K): revenue $16.1B +25% (best in 15 yrs), DCAI +59%, Foundry +31%, Xeon 6+ on 18A; the $11B GAAP loss is a $12.5B non-cash mark-to-market on CHIPS Act Escrowed Shares, not operations
+- 2026-07-22 · [[2026-07-22 now-q2-26-earnings]] — NOW Q2-26 (SEC 8-K): revenue $3.99B +24% verified, RPO $29B; ServiceNow AI crossed $1B ACV; AI delivery runs on hyperscaler partnerships; Q2 beat partly a US Federal pull-forward from Q3
+- 2026-07-22 · [[2026-07-22 ibm-q2-26-earnings]] — IBM Q2-26 (SEC 8-K): revenue $17.16B, EPS $2.27 verified; IBM Z -42% against Distributed Infrastructure +37% with a ~$500M Power/Storage backlog; FY constant-currency growth guided 4-5%
 - 2026-06-24 · [[2026-06-24 mu-fq3-26-earnings]] — MU FQ3-26 (SEC 8-K): revenue $41.46B, 84.6% GM, EPS $24.67 all verified; HBM4 in high-volume shipment, HBM4E for CY2027; multi-year Strategic Customer Agreements (terms undisclosed) → Contracts Awarded; FQ4 guide $50B open
 - 2026-06-16 · [[2026-06-16 mrvl-record-highs-valuation]] — MRVL FQ1 FY27 $2.42B +28% verified, ~59% GM, $11.5B/$16.5B FY guide, Celestial AI photonics buy, ~$1B supplier prepayments, ~915M shares; valuation/rating not routed
 - 2026-06-16 · [[2026-06-16 sofi-golden-opportunity]] — SOFI Q1 record net rev $1.1B +43% verified, EBITDA $340M +62%, members 14.7M +35%, Q2 guide +30%; valuation/rating not routed

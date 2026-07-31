@@ -54,8 +54,8 @@ NXPI, GFS, FSL (defunct), and the S&P 500 index.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| MRVL | $279.70 | $193.46 | -30.83% |
-| NVDA | $205.19 | $199.44 | -2.80% |
+| MRVL | $279.70 | $193.23 | -30.92% |
+| NVDA | $205.19 | $199.54 | -2.75% |
 
 _Prices refreshed 2026-07-31 (latest close 2026-07-31)._
 <!-- prices:end -->

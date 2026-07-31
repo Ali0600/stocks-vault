@@ -1,7 +1,7 @@
 ---
 ticker: MSFT
 sector: Software & Cloud
-updated: 2026-06-14
+updated: 2026-07-31
 ---
 # Microsoft Corporation (MSFT)
 
@@ -40,6 +40,12 @@ The only company bundling a hyperscale cloud (Azure), the dominant productivity 
 - Enterprises & consumers (external) — Azure, Office, Copilot
 
 ## Facts
+- 2026-07-29 — FQ4-26 (ended 2026-06-30): revenue $90.0B (+18%), operating income $40.6B (+18%), GAAP diluted EPS $4.81 (+32%) (verified: yfinance) ([[2026-07-29 msft-fq4-26-earnings]])
+- 2026-07-29 — Commercial remaining performance obligation grew 84% YoY to $678B — contracted future revenue nearly doubling, the demand signal underneath the AI capex cycle (company-reported) ([[2026-07-29 msft-fq4-26-earnings]])
+- 2026-07-29 — Azure and other cloud services revenue +43%; Azure passed $100B in annual revenue for the first time; Microsoft Cloud revenue $59.3B (+27%) (company-reported) ([[2026-07-29 msft-fq4-26-earnings]])
+- 2026-07-29 — Microsoft 365 Copilot surpassed 30 million paid seats (company-reported) ([[2026-07-29 msft-fq4-26-earnings]])
+- 2026-07-29 — Segment revenue: Intelligent Cloud $39.3B (+32%), Productivity and Business Processes $37.8B (+14%), More Personal Computing $12.9B (-4%) (company-reported) ([[2026-07-29 msft-fq4-26-earnings]])
+- 2026-07-29 — Now reports a non-GAAP measure excluding the impact of its OpenAI investment, which swung results by $2.06B YoY; the quarter also included a $3.2B gain on its Anthropic investment (company-reported) ([[2026-07-29 msft-fq4-26-earnings]])
 
 ## Contracts Awarded
 
@@ -50,3 +56,4 @@ The only company bundling a hyperscale cloud (Azure), the dominant productivity 
 ## Open Questions
 
 ## Articles
+- [[2026-07-29 msft-fq4-26-earnings]]
