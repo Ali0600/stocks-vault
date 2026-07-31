@@ -21,6 +21,12 @@ maintained by Claude Code against the contract in [SCHEMA.md](SCHEMA.md);
 - **`scripts/refresh_graph.py`** — parses every note's supplier/customer edges and
   renders an auto-refreshed **Mermaid dependency graph** (nodes colored by chokepoint
   severity) into the AI Supply Chain map, so the visual can't drift from the notes.
+- **`scripts/fetch_earnings.py`** — pulls a company's **official earnings release**
+  straight from **SEC EDGAR** (ticker → CIK → the 8-K carrying Item 2.02 → the
+  Ex-99.1 exhibit) into `_inbox/` for the `/ingest-earnings` workflow. Pure stdlib,
+  no API key; unit-tested against trimmed real EDGAR payloads. EDGAR requires a
+  contact email in the User-Agent, so it reads `SEC_EDGAR_UA` from a gitignored
+  `.env` (see `.env.example`) and refuses to send a request without one.
 - **`scripts/refresh_prices.py`** — pulls latest closes via `yfinance` and rewrites
   each article's price-impact table (idempotent).
 - **`scripts/refresh_fundamentals.py`** — pulls market cap, revenue, growth, margin,
@@ -42,12 +48,14 @@ Access fix): see [RUNBOOK.md](RUNBOOK.md).
 ### Run locally
 ```bash
 pip install -r scripts/requirements.txt # pinned deps (yfinance) for the refreshers
+cp .env.example .env                    # one-time: your SEC EDGAR contact User-Agent
 bash scripts/install-hooks.sh           # one-time: activate the pre-commit linter
 pytest scripts/tests                     # unit tests for the linter rules
 python scripts/vault_lint.py            # integrity gate (exit 0 = clean)
 python scripts/refresh_prices.py        # refresh article price tables
 python scripts/refresh_fundamentals.py  # refresh per-note fundamentals snapshots
 python scripts/refresh_graph.py         # rebuild the supply-chain Mermaid graph
+python3 scripts/fetch_earnings.py MU    # fetch an earnings release from SEC EDGAR
 ```
 
 ## Highlights
@@ -62,6 +70,10 @@ python scripts/refresh_graph.py         # rebuild the supply-chain Mermaid graph
   aborting), with **CI validating only** — eliminating a cron-vs-local-job race condition
   that had been corrupting the repo — plus a **freshness heartbeat** for a stalled refresh
   and **macOS notifications** on failure.
+- Built a **primary-source data pipeline** against the **SEC EDGAR** REST API — resolving
+  a ticker to its CIK, selecting the earnings filing by form and item code, extracting the
+  press-release exhibit, and cross-verifying the reported figures against an independent
+  market-data source before anything is recorded.
 - Modeled the **AI hardware supply chain** as a directed dependency graph and
   **auto-generated a Mermaid visualization** from the structured notes (supplier→customer
   edges, chokepoint-colored nodes) to surface single points of failure.

@@ -10,6 +10,12 @@ the catalog; `log.md` is append-only history.
 
 ## Workflows
 - `/ingest-article <url-or-inbox-path>` — fetch, verify, file, route takeaways
+- `/ingest-earnings <TICKER> [--date YYYY-MM-DD]` — pull the official earnings
+  release from SEC EDGAR (8-K Item 2.02 → Ex-99.1), verify against yfinance, route
+  results to Facts and guidance to Speculations. Foreign filers (TSM, NOK, ARM,
+  ASML, CCJ) file 6-K instead and have no earnings 8-K — clip their IR release
+  into `_inbox/`. Needs `SEC_EDGAR_UA` in `.env`: EDGAR 403s a User-Agent that
+  carries no contact email.
 - `/vault-lint` — consistency check across the vault
 
 ## Market data

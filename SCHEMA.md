@@ -89,6 +89,18 @@ chronological record of every change.
   non-trading days; ingestion-day price if the publish date is unknown — note it).
 - Filenames: stocks `TICKER.md` · sectors exactly the sector name ·
   articles `YYYY-MM-DD short-slug.md` · concepts the concept name (`Concepts/HBM.md`).
+- **Earnings notes** are an `Articles/` subtype — same frontmatter, sections, and
+  immutability — sourced from the company itself rather than from coverage.
+  `scripts/fetch_earnings.py <TICKER>` pulls the 8-K Item 2.02 press release from
+  SEC EDGAR into `_inbox/`; `/ingest-earnings` verifies and files it. Filename
+  `YYYY-MM-DD <ticker>-<quarter>-earnings.md` (filing date), `source: SEC EDGAR —
+  <Company> FQx-YY earnings press release (8-K Ex-99.1)`, `url` the exhibit on
+  sec.gov, plus an `accession:` key for dedupe. Reported results route to Facts,
+  guidance to Speculations `(status: open)`, named customer/supply agreements to
+  Contracts Awarded — and each print settles the prior quarter's open guidance.
+  Foreign private issuers (TSM, NOK, ARM, ASML, CCJ) file 6-K with no item codes,
+  so there is no earnings 8-K to fetch: clip their IR release into `_inbox/` and
+  ingest that instead.
 - Stock notes are portfolio holdings by default. Article-discovered tickers get
   **watchlist** notes — `tracked: false` in frontmatter, `*` after the ticker in
   `index.md`, "(watchlist)" in sector Members — when coverage has routable
@@ -116,6 +128,8 @@ chronological record of every change.
 
 ## Workflows
 - **Ingest** an article: `/ingest-article <url-or-inbox-path>` in Claude Code.
+- **Ingest earnings**: `/ingest-earnings <TICKER> [--date YYYY-MM-DD]` — the
+  company's own numbers, straight from its SEC filing.
 - **Lint** the vault: `/vault-lint` — contradictions, stale speculations,
   orphan articles, missing links.
 - **Synthesis**: when the tracker's AI analyses are regenerated, they must be

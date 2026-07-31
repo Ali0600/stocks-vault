@@ -1,0 +1,31 @@
+{
+  "_fixture": "Trimmed from https://www.sec.gov/Archives/edgar/data/723125/000072312526000013/index.json (2026-07-31). Real names/sizes.",
+  "directory": {
+    "item": [
+      {
+        "name": "a2026q3ex991-pressrelease.htm",
+        "size": "291528"
+      },
+      {
+        "name": "FilingSummary.xml",
+        "size": "1666"
+      },
+      {
+        "name": "mu-20260624.htm",
+        "size": "28554"
+      },
+      {
+        "name": "mu-20260624_g1.jpg",
+        "size": "12982"
+      },
+      {
+        "name": "mu-20260624_htm.xml",
+        "size": "2903"
+      },
+      {
+        "name": "R1.htm",
+        "size": "38064"
+      }
+    ]
+  }
+}

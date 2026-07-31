@@ -2,3 +2,5 @@
 # vault_lint.py itself is pure stdlib (needs nothing here); these are only for
 # the price/fundamentals refresh scripts.
 yfinance==1.4.1
+
+# fetch_earnings.py is pure stdlib (urllib) — nothing to pin for it.

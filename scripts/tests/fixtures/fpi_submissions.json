@@ -1,0 +1,51 @@
+{
+  "_fixture": "Trimmed from https://data.sec.gov/submissions/CIK0001046179.json (2026-07-31) \u2014 foreign private issuer: 6-K/20-F only, empty items.",
+  "cik": "0001046179",
+  "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001046179-26-000459",
+        "0001046179-26-000451",
+        "0001046179-26-000447",
+        "0001046179-26-000381",
+        "0001046179-26-000377"
+      ],
+      "filingDate": [
+        "2026-07-24",
+        "2026-07-16",
+        "2026-07-13",
+        "2026-07-02",
+        "2026-06-25"
+      ],
+      "reportDate": [
+        "2026-06-30",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-07-02",
+        "2026-05-31"
+      ],
+      "form": [
+        "6-K",
+        "6-K",
+        "6-K",
+        "6-K",
+        "6-K"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "primaryDocument": [
+        "tsm-monthend6kx20260724.htm",
+        "tsm-20260716x6k.htm",
+        "tsm-revenue20260713.htm",
+        "a20260702changeofaztreasur.htm",
+        "tsm-monthend6kx20260625.htm"
+      ]
+    }
+  }
+}
