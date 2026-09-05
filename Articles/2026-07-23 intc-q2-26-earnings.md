@@ -78,7 +78,7 @@ while Intel launched Xeon 6+ — its first server-class product built on Intel 1
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| INTC | $100.23 | $92.43 | -7.78% |
+| INTC | $100.23 | $95.80 | -4.42% |
 
-_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
+_Prices refreshed 2026-09-05 (latest close 2026-09-04)._
 <!-- prices:end -->

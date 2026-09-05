@@ -12,9 +12,9 @@ ProQR Therapeutics is an RNA-editing platform company (Axiomer) with an Eli Lill
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $243M | $14M | -57% | 0% | n/m | 2026-08-06 |
+| $292M | $18M | +120% | -228% | n/m | 2026-11-05 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -12,9 +12,9 @@ Planet Labs operates the largest Earth-observation satellite fleet, imaging the 
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $7B | $336M | +42% | -111% | 6111.1f | 2026-09-09 |
+| $7B | $378M | +58% | -95% | 1409.0f | 2026-09-03 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

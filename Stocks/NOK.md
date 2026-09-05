@@ -12,9 +12,9 @@ Nokia has quietly become an AI infrastructure story: its optical networks and IP
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $51B | $20.4B | +8% | 3% | 65.0 | 2026-10-22 |
+| $56B | $20.4B | +8% | 3% | 71.6 | 2026-10-22 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

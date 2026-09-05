@@ -15,9 +15,9 @@ note: entered the vault via Situational Awareness coverage, no portfolio positio
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $39B | $6.2B | +112% | -26% | n/m | 2026-08-11 |
+| $49B | $7.6B | +112% | -25% | n/m | 2026-11-11 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

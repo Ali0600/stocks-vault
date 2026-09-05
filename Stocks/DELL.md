@@ -13,9 +13,9 @@ Dell is a top builder of AI-optimized servers — turning NVIDIA and AMD silicon
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $263B | $134.0B | +88% | 6% | 32.4 | 2026-09-03 |
+| $339B | $151.2B | +58% | 8% | 30.0 | 2026-11-27 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

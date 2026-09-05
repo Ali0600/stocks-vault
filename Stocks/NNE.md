@@ -12,9 +12,9 @@ NANO Nuclear is an early-stage microreactor developer (KRONOS MMR high-temperatu
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $859M | — | — | — | n/m | 2026-08-12 |
+| $952M | $0M | — | 0% | n/m | 2026-08-12 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -12,9 +12,9 @@ Quantum Computing Inc. is an integrated-photonics company pursuing photonic quan
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $2B | $4M | +9364% | 0% | n/m | 2026-08-10 |
+| $2B | $10M | +9000% | -152% | n/m | 2026-11-09 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

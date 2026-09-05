@@ -68,7 +68,7 @@ reduction in force announced in June 2026.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| HOOD | $89.84 | $87.04 | -3.12% |
+| HOOD | $89.84 | $122.11 | +35.92% |
 
-_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
+_Prices refreshed 2026-09-05 (latest close 2026-09-04)._
 <!-- prices:end -->

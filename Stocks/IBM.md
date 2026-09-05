@@ -12,9 +12,9 @@ IBM is the portfolio's ballast: consulting + mainframe + Red Hat software, a 2.4
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $208B | $69.1B | +1% | 16% | 19.6 | 2026-10-21 |
+| $221B | $69.1B | +1% | 16% | 20.9 | 2026-10-21 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

@@ -12,9 +12,9 @@ Rocket Lab is the most vertically integrated small-launch + space-systems compan
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $40B | $680M | +64% | -27% | 1236.0f | 2026-08-10 |
+| $41B | $769M | +62% | -22% | 1446.0f | 2026-11-09 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

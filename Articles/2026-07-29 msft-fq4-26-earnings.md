@@ -63,7 +63,7 @@ OpenAI it rose 22%.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| MSFT | $390.54 | $460.52 | +17.92% |
+| MSFT | $390.54 | $499.70 | +27.95% |
 
-_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
+_Prices refreshed 2026-09-05 (latest close 2026-09-04)._
 <!-- prices:end -->

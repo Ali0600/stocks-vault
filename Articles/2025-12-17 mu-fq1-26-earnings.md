@@ -57,7 +57,7 @@ and posted its highest-ever free cash flow ($3.91B adjusted).
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| MU | $225.52 | $846.60 | +275.40% |
+| MU | $225.52 | $1016.59 | +350.78% |
 
-_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
+_Prices refreshed 2026-09-05 (latest close 2026-09-04)._
 <!-- prices:end -->

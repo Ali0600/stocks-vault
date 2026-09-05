@@ -19,9 +19,9 @@ AI-supply-chain research, not a portfolio position.
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $946B | $90.3B | +346% | 56% | 18.9 | 2026-09-23 |
+| $1.15T | $90.3B | +346% | 56% | 23.0 | 2026-09-30 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

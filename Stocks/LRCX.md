@@ -13,9 +13,9 @@ Lam Research makes the etch and deposition equipment that carves and layers chip
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $379B | $23.2B | +30% | 31% | 52.7 | 2026-10-21 |
+| $385B | $23.2B | +30% | 31% | 53.5 | 2026-10-21 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
