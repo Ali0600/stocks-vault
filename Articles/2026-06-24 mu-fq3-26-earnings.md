@@ -78,7 +78,7 @@ The company guided FQ4-26 revenue to $50.0B ± $1.0B at ~86% gross margin.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| MU | $1048.51 | $846.60 | -19.26% |
+| MU | $1048.51 | $1016.59 | -3.04% |
 
-_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
+_Prices refreshed 2026-09-05 (latest close 2026-09-04)._
 <!-- prices:end -->

@@ -13,9 +13,9 @@ AMD is the only credible alternative to both Intel (x86 CPUs) and NVIDIA (data-c
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $801B | $37.5B | +38% | 13% | 163.3 | 2026-08-04 |
+| $780B | $41.3B | +50% | 16% | 121.8 | 2026-11-03 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

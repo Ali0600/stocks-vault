@@ -12,9 +12,9 @@ Microsoft is the portfolio's out-of-favor megacap: cloud + Office + Copilot at a
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $3.44T | $331.8B | +18% | 40% | 25.8 | 2026-10-28 |
+| $3.71T | $331.8B | +18% | 40% | 27.9 | 2026-10-28 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

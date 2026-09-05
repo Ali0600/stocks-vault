@@ -69,7 +69,7 @@ converts into hyperscaler consumption rather than into its own infrastructure.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| NOW | $95.46 | $111.06 | +16.34% |
+| NOW | $95.46 | $141.26 | +47.98% |
 
-_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
+_Prices refreshed 2026-09-05 (latest close 2026-09-04)._
 <!-- prices:end -->

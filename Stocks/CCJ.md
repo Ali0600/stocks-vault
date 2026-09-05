@@ -12,9 +12,9 @@ Cameco is one of the largest Western uranium producers, vertically integrated ac
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $38B | $3.5B | +7% | 18% | 82.2 | 2026-07-31 |
+| $44B | $3.5B | -7% | 10% | 173.7 | 2026-10-30 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

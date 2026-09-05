@@ -55,7 +55,7 @@ revenue growth of 4–5% and reiterated free cash flow up about $1B year-over-ye
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| IBM | $205.77 | $220.71 | +7.26% |
+| IBM | $205.77 | $234.89 | +14.15% |
 
-_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
+_Prices refreshed 2026-09-05 (latest close 2026-09-04)._
 <!-- prices:end -->

@@ -13,9 +13,9 @@ KLA dominates process control — the inspection and metrology systems that catc
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $244B | $13.6B | +15% | 36% | 50.9 | 2026-10-28 |
+| $242B | $13.6B | +15% | 36% | 47.2 | 2026-10-28 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

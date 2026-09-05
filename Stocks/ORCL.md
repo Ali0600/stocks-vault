@@ -13,9 +13,9 @@ Oracle is the enterprise-database incumbent now pushing hard into hyperscale AI 
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $370B | $67.4B | +21% | 25% | 22.0 | 2026-09-09 |
+| $457B | $67.4B | +21% | 25% | 27.2 | 2026-09-10 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

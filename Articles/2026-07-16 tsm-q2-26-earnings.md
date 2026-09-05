@@ -55,7 +55,7 @@ recorded here.
 <!-- prices:start -->
 | Ticker | At publication | Now | Since |
 | --- | --- | --- | --- |
-| TSM | $409.74 | $406.68 | -0.75% |
+| TSM | $409.74 | $428.91 | +4.68% |
 
-_Prices refreshed 2026-07-31 (latest close 2026-07-31)._
+_Prices refreshed 2026-09-05 (latest close 2026-09-04)._
 <!-- prices:end -->

@@ -13,9 +13,9 @@ Astera Labs designs connectivity semiconductors — retimers, smart cable module
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $54B | $1.0B | +93% | 27% | 213.0 | 2026-08-04 |
+| $54B | $1.2B | +104% | 31% | 153.7 | 2026-11-03 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique

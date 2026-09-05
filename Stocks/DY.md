@@ -13,9 +13,9 @@ Dycom is a U.S. specialty contractor for telecom and utility infrastructure that
 <!-- snapshot:start -->
 | Mkt cap | Revenue (TTM) | Rev growth | Net margin | P/E | Next earnings |
 | --- | --- | --- | --- | --- | --- |
-| $12B | $6.3B | +56% | 5% | 38.1 | 2026-08-26 |
+| $9B | $6.9B | +46% | 5% | 27.4 | 2026-11-25 |
 
-_Auto-updated 2026-07-31 via yfinance._
+_Auto-updated 2026-09-05 via yfinance._
 <!-- snapshot:end -->
 
 ## What's Unique
